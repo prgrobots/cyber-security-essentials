@@ -34,11 +34,10 @@ jobs:
       - name: Install Slidev
         run: npm install -g @slidev/cli @slidev/theme-default
 
-      - name: Build MkDocs
-        run: mkdocs build
-
       - name: Build Slidev sessions one by one
         run: |
+          rm -rf site
+          mkdir site
           npx slidev build slides/session_1.md --out site/session_1
           npx slidev build slides/session_2.md --out site/session_2
           npx slidev build slides/session_3.md --out site/session_3
