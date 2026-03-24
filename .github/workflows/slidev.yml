@@ -37,18 +37,13 @@ jobs:
       - name: Build MkDocs
         run: mkdocs build
 
-      - name: Build Slidev to temp dir
+      - name: Build Slidev each session separately
         run: |
-          npx slidev build slides/*.md --out _slides --base /cyber-security-essentials/
-
-      - name: Copy Slidev into site
-        run: |
-          echo "=== _slides ==="
-          ls -la _slides/
-          echo "=== site ==="
-          ls -la site/
-          echo "=== copying ==="
-          cp -r _slides/* site/
+          mkdir -p site/sessions
+          for f in slides/session_*.md; do
+            name=$(basename "$f" .md)
+            npx slidev build "$f" --out "site/sessions/$name"
+          done
 
       - name: Deploy to GitHub Pages
         run: |
