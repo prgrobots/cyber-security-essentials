@@ -37,14 +37,26 @@ jobs:
       - name: Build MkDocs
         run: mkdocs build
 
-      - name: Build Slidev each session separately
+      - name: Build Slidev sessions one by one
         run: |
-          mkdir -p site/sessions
-          for f in slides/session_*.md; do
-            name=$(basename "$f" .md)
-            npx slidev build "$f" --out "site/sessions/$name" || true
-          done
-          ls -la site/sessions/
+          npx slidev build slides/session_1.md --out site/session_1
+          npx slidev build slides/session_2.md --out site/session_2
+          npx slidev build slides/session_3.md --out site/session_3
+          npx slidev build slides/session_4.md --out site/session_4
+          npx slidev build slides/session_5.md --out site/session_5
+          npx slidev build slides/session_6.md --out site/session_6
+          npx slidev build slides/session_7.md --out site/session_7
+          npx slidev build slides/session_8.md --out site/session_8
+          npx slidev build slides/session_9.md --out site/session_9
+          npx slidev build slides/session_10.md --out site/session_10
+          npx slidev build slides/session_11.md --out site/session_11
+          npx slidev build slides/session_12.md --out site/session_12
+          npx slidev build slides/session_13.md --out site/session_13
+          npx slidev build slides/session_14.md --out site/session_14
+          npx slidev build slides/session_15.md --out site/session_15
+          npx slidev build slides/session_16.md --out site/session_16
+          npx slidev build slides/session_17.md --out site/session_17
+          npx slidev build slides/session_18.md --out site/session_18
 
       - name: Deploy to GitHub Pages
         run: |
