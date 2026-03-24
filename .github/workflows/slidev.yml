@@ -59,7 +59,8 @@ jobs:
 
       - name: Deploy to GitHub Pages
         run: |
-          ls -la site/
+          echo "Checking site contents:"
+          find site -type f | head -20
           cd site
           git init
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
