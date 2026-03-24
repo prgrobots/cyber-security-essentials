@@ -38,7 +38,7 @@ This code sets up a simple firewall that blocks all incoming traffic.
 ## Secure VPN Configuration
 !!! example
     ```bash
-sudo ipsec setup pki --cert <cert>
+sudo ipsec setup pki --cert \&lt;cert\&gt;
 openssl ciphers -v ALL:ENCRYPT
 ```
 These commands configure a secure VPN using OpenVPN and check the available ciphers.
