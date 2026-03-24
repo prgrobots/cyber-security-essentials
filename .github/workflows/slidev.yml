@@ -34,45 +34,18 @@ jobs:
       - name: Install Slidev
         run: npm install -g @slidev/cli @slidev/theme-default
 
-      - name: Build Slidev sessions one by one
+      - name: Build Slidev
         run: |
-          rm -rf site
-          mkdir site
-          npx slidev build slides/session_1.md --out site/session_1
-          npx slidev build slides/session_2.md --out site/session_2
-          npx slidev build slides/session_3.md --out site/session_3
-          npx slidev build slides/session_4.md --out site/session_4
-          npx slidev build slides/session_5.md --out site/session_5
-          npx slidev build slides/session_6.md --out site/session_6
-          npx slidev build slides/session_7.md --out site/session_7
-          npx slidev build slides/session_8.md --out site/session_8
-          npx slidev build slides/session_9.md --out site/session_9
-          npx slidev build slides/session_10.md --out site/session_10
-          npx slidev build slides/session_11.md --out site/session_11
-          npx slidev build slides/session_12.md --out site/session_12
-          npx slidev build slides/session_13.md --out site/session_13
-          npx slidev build slides/session_14.md --out site/session_14
-          npx slidev build slides/session_15.md --out site/session_15
-          npx slidev build slides/session_16.md --out site/session_16
-          npx slidev build slides/session_17.md --out site/session_17
-          npx slidev build slides/session_18.md --out site/session_18
+          npx slidev build slides/session_5.md --out /tmp/session_5
+          ls -la /tmp/session_5
 
       - name: Deploy to GitHub Pages
         run: |
-          pwd
-          echo "Checking site contents:"
-          ls -la
-          ls -la site || echo "site not found"
-          if [ -d "site" ]; then
-            cd site
-            git init
-            git config --global user.email "github-actions[bot]@users.noreply.github.com"
-            git config --global user.name "github-actions[bot]"
-            git add -A -f
-            git status
-            git commit -m "deploy $(date '+%Y-%m-%d %H:%M')"
-            git push -f https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:gh-pages
-          else
-            echo "ERROR: site directory not found"
-            exit 1
-          fi
+          cp -r /tmp/session_5 site/
+          cd site
+          git init
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git add -A -f
+          git commit -m "deploy $(date '+%Y-%m-%d %H:%M')" || true
+          git push -f https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:gh-pages
