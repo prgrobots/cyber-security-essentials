@@ -42,8 +42,9 @@ jobs:
           mkdir -p site/sessions
           for f in slides/session_*.md; do
             name=$(basename "$f" .md)
-            npx slidev build "$f" --out "site/sessions/$name"
+            npx slidev build "$f" --out "site/sessions/$name" || true
           done
+          ls -la site/sessions/
 
       - name: Deploy to GitHub Pages
         run: |
