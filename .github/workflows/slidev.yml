@@ -41,7 +41,12 @@ jobs:
       - name: Install Slidev
         run: npm install -g @slidev/cli
       - name: Build Slidev
-        run: npx slidev build slides/ --out dist
+        run: |
+          mkdir -p dist
+          for f in slides/session_*.md; do
+            name=$(basename "$f" .md)
+            npx slidev build "$f" --out "dist/$name"
+          done
       - name: Download MkDocs artifact
         uses: actions/download-artifact@v4
         with:
