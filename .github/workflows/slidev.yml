@@ -38,6 +38,7 @@ jobs:
         run: |
           rm -rf _site
           mkdocs build
+          mv site _site
 
       - name: Build Slidev to site dir
         run: |
@@ -46,8 +47,11 @@ jobs:
 
       - name: Copy MkDocs content into site
         run: |
+          ls -la
+          ls -la site/ 2>/dev/null || echo "site dir missing"
+          ls -la _site/ 2>/dev/null || echo "_site dir missing"
+          mkdir -p site
           cp -r _site/* site/ 2>/dev/null || true
-          ls -la site/
 
       - name: Deploy to GitHub Pages
         run: |
