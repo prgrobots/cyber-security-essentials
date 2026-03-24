@@ -34,24 +34,16 @@ jobs:
       - name: Install Slidev
         run: npm install -g @slidev/cli @slidev/theme-default
 
-      - name: Build MkDocs to temp dir
-        run: |
-          rm -rf _site
-          mkdocs build
-          mv site _site
+      - name: Build MkDocs
+        run: mkdocs build
 
-      - name: Build Slidev to site dir
+      - name: Build Slidev to temp dir
         run: |
-          rm -rf site
-          npx slidev build slides/*.md --out site --base /cyber-security-essentials/
+          npx slidev build slides/*.md --out _slides --base /cyber-security-essentials/
 
-      - name: Copy MkDocs content into site
+      - name: Copy Slidev into site
         run: |
-          ls -la
-          ls -la site/ 2>/dev/null || echo "site dir missing"
-          ls -la _site/ 2>/dev/null || echo "_site dir missing"
-          mkdir -p site
-          cp -r _site/* site/ 2>/dev/null || true
+          cp -r _slides/* site/ || true
 
       - name: Deploy to GitHub Pages
         run: |
