@@ -1,6 +1,6 @@
 # Session 1: Fundamentals of Cybersecurity
 
-[:material-slides: View Slides](../../slides-src/session_1/){ .md-button }
+[:material-slides: View Slides](../slides-src/session_1/){ .md-button }
 
 !!! note
     Cybersecurity is an essential aspect of modern computing, as it protects against malicious attempts to access, modify, or destroy sensitive data and systems.

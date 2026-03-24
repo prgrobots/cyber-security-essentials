@@ -1,6 +1,6 @@
 # Session 16: Network Security Fundamentals
 
-[:material-slides: View Slides](../../slides-src/session_16/){ .md-button }
+[:material-slides: View Slides](../slides-src/session_16/){ .md-button }
 
 !!! note "Introduction to Network Security"
     In this session, we will cover the critical aspects of network security fundamentals and how to apply them to ensure the protection of your organization's assets.

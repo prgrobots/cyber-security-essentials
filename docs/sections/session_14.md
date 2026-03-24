@@ -1,6 +1,6 @@
 # Session 14: Implementing Secure Data Encryption in Practice
 
-[:material-slides: View Slides](../../slides-src/session_14/){ .md-button }
+[:material-slides: View Slides](../slides-src/session_14/){ .md-button }
 
 !!! note
     **Data encryption** is a critical component of data protection and plays a significant role in maintaining confidentiality and integrity in data storage and transmission.

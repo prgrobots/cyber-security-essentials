@@ -1,6 +1,6 @@
 # Session 9: Implementing Incident Response Plans
 
-[:material-slides: View Slides](../../slides-src/session_9/){ .md-button }
+[:material-slides: View Slides](../slides-src/session_9/){ .md-button }
 
 !!! info
     In this session, you will learn how to implement incident response plans in a cybersecurity context.
