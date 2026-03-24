@@ -1,0 +1,116 @@
+site_name: Cyber Security Essentials
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - search.highlight
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - Sessions:
+    - Session 1: sections/session_1.md
+    - Session 2: sections/session_2.md
+    - Session 3: sections/session_3.md
+    - Session 4: sections/session_4.md
+    - Session 5: sections/session_5.md
+    - Session 6: sections/session_6.md
+    - Session 7: sections/session_7.md
+    - Session 8: sections/session_8.md
+    - Session 9: sections/session_9.md
+    - Session 10: sections/session_10.md
+    - Session 11: sections/session_11.md
+    - Session 12: sections/session_12.md
+    - Session 13: sections/session_13.md
+    - Session 14: sections/session_14.md
+    - Session 15: sections/session_15.md
+    - Session 16: sections/session_16.md
+    - Session 17: sections/session_17.md
+    - Session 18: sections/session_18.md
+  - Slides (AI Generated):
+    - Session 1: slides-src/session_1.md
+    - Session 2: slides-src/session_2.md
+    - Session 3: slides-src/session_3.md
+    - Session 4: slides-src/session_4.md
+    - Session 5: slides-src/session_5.md
+    - Session 6: slides-src/session_6.md
+    - Session 7: slides-src/session_7.md
+    - Session 8: slides-src/session_8.md
+    - Session 9: slides-src/session_9.md
+    - Session 10: slides-src/session_10.md
+    - Session 11: slides-src/session_11.md
+    - Session 12: slides-src/session_12.md
+    - Session 13: slides-src/session_13.md
+    - Session 14: slides-src/session_14.md
+    - Session 15: slides-src/session_15.md
+    - Session 16: slides-src/session_16.md
+    - Session 17: slides-src/session_17.md
+    - Session 18: slides-src/session_18.md
+  - Slides (Original):
+    - slide_51968830_1: slides-original/slide_51968830_1.md
+    - slide_51970021_1: slides-original/slide_51970021_1.md
+    - slide_51973623_1: slides-original/slide_51973623_1.md
+    - slide_51975879_1: slides-original/slide_51975879_1.md
+    - slide_52185493_1: slides-original/slide_52185493_1.md
+    - slide_52751036_1: slides-original/slide_52751036_1.md
+    - slide_53232319_1: slides-original/slide_53232319_1.md
+    - slide_53277911_1: slides-original/slide_53277911_1.md
+    - slide_53824515_1: slides-original/slide_53824515_1.md
+    - slide_53978134_1: slides-original/slide_53978134_1.md
+    - slide_54045267_1: slides-original/slide_54045267_1.md
+    - slide_54253389_1: slides-original/slide_54253389_1.md
+    - slide_55108722_1: slides-original/slide_55108722_1.md
+    - slide_55371409_1: slides-original/slide_55371409_1.md
+    - slide_55371411_1: slides-original/slide_55371411_1.md
+    - slide_55371412_1: slides-original/slide_55371412_1.md
+    - slide_55371415_1: slides-original/slide_55371415_1.md
+    - slide_55371417_1: slides-original/slide_55371417_1.md
+    - slide_55371421_1: slides-original/slide_55371421_1.md
+    - slide_55371422_1: slides-original/slide_55371422_1.md
+    - slide_55371423_1: slides-original/slide_55371423_1.md
+    - slide_58478046_1: slides-original/slide_58478046_1.md
+    - slide_59340066_1: slides-original/slide_59340066_1.md
+    - slide_61256683_1: slides-original/slide_61256683_1.md
+    - slide_61507221_1: slides-original/slide_61507221_1.md
+    - slide_61980341_1: slides-original/slide_61980341_1.md
+    - slide_61980342_1: slides-original/slide_61980342_1.md
+    - slide_64967299_1: slides-original/slide_64967299_1.md
+    - slide_65104952_1: slides-original/slide_65104952_1.md
+    - slide_65716465_1: slides-original/slide_65716465_1.md
+    - slide_65736569_1: slides-original/slide_65736569_1.md
+    - slide_67398384_1: slides-original/slide_67398384_1.md
+    - slide_67399034_1: slides-original/slide_67399034_1.md
+    - slide_74678335_1: slides-original/slide_74678335_1.md
+    - slide_74741181_1: slides-original/slide_74741181_1.md
+    - slide_75195848_1: slides-original/slide_75195848_1.md
+    - slide_75721674_1: slides-original/slide_75721674_1.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - tables
+  - codehilite
+  - fenced_code
+  - attr_list
+  - def_list
+  - footnotes
+  - toc:
+      permalink: true
+  - abbr
+  - md_in_html

@@ -1,0 +1,225 @@
+{
+  "course_title": "Cyber Security Essentials",
+  "course_code": "VU23217",
+  "total_sessions": 18,
+  "sessions": [
+    {
+      "session_id": "session_1",
+      "title": "Session 1",
+      "week": 1,
+      "day": 1,
+      "objectives": [
+        "Understand cybersecurity fundamentals"
+      ],
+      "estimated_hours": 2
+    },
+    {
+      "session_id": "session_2",
+      "title": "Session 2",
+      "week": 1,
+      "day": 2,
+      "objectives": [
+        "Understand cybersecurity fundamentals"
+      ],
+      "estimated_hours": 2
+    },
+    {
+      "session_id": "session_3",
+      "title": "Session 3",
+      "week": 1,
+      "day": 3,
+      "objectives": [
+        "Understand cybersecurity fundamentals"
+      ],
+      "estimated_hours": 2
+    },
+    {
+      "session_id": "session_4",
+      "title": "Session 4",
+      "week": 2,
+      "day": 1,
+      "objectives": [
+        "Understand cybersecurity fundamentals"
+      ],
+      "estimated_hours": 2
+    },
+    {
+      "session_id": "session_5",
+      "title": "Session 5",
+      "week": 2,
+      "day": 2,
+      "objectives": [
+        "Understand cybersecurity fundamentals"
+      ],
+      "estimated_hours": 2
+    },
+    {
+      "session_id": "session_6",
+      "title": "Session 6",
+      "week": 2,
+      "day": 3,
+      "objectives": [
+        "Understand cybersecurity fundamentals"
+      ],
+      "estimated_hours": 2
+    },
+    {
+      "session_id": "session_7",
+      "title": "Session 7",
+      "week": 3,
+      "day": 1,
+      "objectives": [
+        "Understand cybersecurity fundamentals"
+      ],
+      "estimated_hours": 2
+    },
+    {
+      "session_id": "session_8",
+      "title": "Session 8",
+      "week": 3,
+      "day": 2,
+      "objectives": [
+        "Understand cybersecurity fundamentals"
+      ],
+      "estimated_hours": 2
+    },
+    {
+      "session_id": "session_9",
+      "title": "Session 9",
+      "week": 3,
+      "day": 3,
+      "objectives": [
+        "Understand cybersecurity fundamentals"
+      ],
+      "estimated_hours": 2
+    },
+    {
+      "session_id": "session_10",
+      "title": "Session 10",
+      "week": 4,
+      "day": 1,
+      "objectives": [
+        "Understand cybersecurity fundamentals"
+      ],
+      "estimated_hours": 2
+    },
+    {
+      "session_id": "session_11",
+      "title": "Session 11",
+      "week": 4,
+      "day": 2,
+      "objectives": [
+        "Understand cybersecurity fundamentals"
+      ],
+      "estimated_hours": 2
+    },
+    {
+      "session_id": "session_12",
+      "title": "Session 12",
+      "week": 4,
+      "day": 3,
+      "objectives": [
+        "Understand cybersecurity fundamentals"
+      ],
+      "estimated_hours": 2
+    },
+    {
+      "session_id": "session_13",
+      "title": "Session 13",
+      "week": 5,
+      "day": 1,
+      "objectives": [
+        "Understand cybersecurity fundamentals"
+      ],
+      "estimated_hours": 2
+    },
+    {
+      "session_id": "session_14",
+      "title": "Session 14",
+      "week": 5,
+      "day": 2,
+      "objectives": [
+        "Understand cybersecurity fundamentals"
+      ],
+      "estimated_hours": 2
+    },
+    {
+      "session_id": "session_15",
+      "title": "Session 15",
+      "week": 5,
+      "day": 3,
+      "objectives": [
+        "Understand cybersecurity fundamentals"
+      ],
+      "estimated_hours": 2
+    },
+    {
+      "session_id": "session_16",
+      "title": "Session 16",
+      "week": 6,
+      "day": 1,
+      "objectives": [
+        "Understand cybersecurity fundamentals"
+      ],
+      "estimated_hours": 2
+    },
+    {
+      "session_id": "session_17",
+      "title": "Session 17",
+      "week": 6,
+      "day": 2,
+      "objectives": [
+        "Understand cybersecurity fundamentals"
+      ],
+      "estimated_hours": 2
+    },
+    {
+      "session_id": "session_18",
+      "title": "Session 18",
+      "week": 6,
+      "day": 3,
+      "objectives": [
+        "Understand cybersecurity fundamentals"
+      ],
+      "estimated_hours": 2
+    }
+  ],
+  "week_plan": [
+    {
+      "week": 1,
+      "title": "Week 1",
+      "session_count": 3,
+      "status": "content_ready"
+    },
+    {
+      "week": 2,
+      "title": "Week 2",
+      "session_count": 3,
+      "status": "content_ready"
+    },
+    {
+      "week": 3,
+      "title": "Week 3",
+      "session_count": 3,
+      "status": "content_ready"
+    },
+    {
+      "week": 4,
+      "title": "Week 4",
+      "session_count": 3,
+      "status": "content_ready"
+    },
+    {
+      "week": 5,
+      "title": "Week 5",
+      "session_count": 3,
+      "status": "content_ready"
+    },
+    {
+      "week": 6,
+      "title": "Week 6",
+      "session_count": 3,
+      "status": "content_ready"
+    }
+  ]
+}

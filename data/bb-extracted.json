@@ -1,0 +1,867 @@
+{
+  "items": [
+    {
+      "identifier": "itm00001",
+      "identifierref": "res00006",
+      "title": "Welcome"
+    },
+    {
+      "identifier": "itm00021",
+      "identifierref": "res00060",
+      "title": "--TOP--"
+    },
+    {
+      "identifier": "itm00022",
+      "identifierref": "res00061",
+      "title": "Introduction"
+    },
+    {
+      "identifier": "itm00023",
+      "identifierref": "res00062",
+      "title": "VU23217 Elements and Performance Criteria"
+    },
+    {
+      "identifier": "itm00030",
+      "identifierref": "res00069",
+      "title": "Note to instructors"
+    },
+    {
+      "identifier": "itm00031",
+      "identifierref": "res00070",
+      "title": "TryHackMe Evaluation"
+    },
+    {
+      "identifier": "itm00002",
+      "identifierref": "res00007",
+      "title": "divider_1519890288060"
+    },
+    {
+      "identifier": "itm00003",
+      "identifierref": "res00008",
+      "title": "Learning Materials"
+    },
+    {
+      "identifier": "itm00032",
+      "identifierref": "res00071",
+      "title": "--TOP--"
+    },
+    {
+      "identifier": "itm00033",
+      "identifierref": "res00072",
+      "title": "About this Section"
+    },
+    {
+      "identifier": "itm00034",
+      "identifierref": "res00073",
+      "title": "Session 1"
+    },
+    {
+      "identifier": "itm00056",
+      "identifierref": "res00095",
+      "title": "Week 1"
+    },
+    {
+      "identifier": "itm00085",
+      "identifierref": "res00124",
+      "title": "Presentation"
+    },
+    {
+      "identifier": "itm00035",
+      "identifierref": "res00074",
+      "title": "Session 2"
+    },
+    {
+      "identifier": "itm00055",
+      "identifierref": "res00094",
+      "title": "Session 2"
+    },
+    {
+      "identifier": "itm00079",
+      "identifierref": "res00118",
+      "title": "Presentation"
+    },
+    {
+      "identifier": "itm00092",
+      "identifierref": "res00131",
+      "title": "PART-ONE"
+    },
+    {
+      "identifier": "itm00036",
+      "identifierref": "res00075",
+      "title": "Session 3"
+    },
+    {
+      "identifier": "itm00057",
+      "identifierref": "res00096",
+      "title": "Session 3"
+    },
+    {
+      "identifier": "itm00078",
+      "identifierref": "res00117",
+      "title": "Chapter 3 Powerpoint  and Notes"
+    },
+    {
+      "identifier": "itm00037",
+      "identifierref": "res00076",
+      "title": "Session 4"
+    },
+    {
+      "identifier": "itm00058",
+      "identifierref": "res00097",
+      "title": "Session 4"
+    },
+    {
+      "identifier": "itm00081",
+      "identifierref": "res00120",
+      "title": "Session 4 Presentation and notes"
+    },
+    {
+      "identifier": "itm00090",
+      "identifierref": "res00129",
+      "title": "PART-TWO Essentials"
+    },
+    {
+      "identifier": "itm00038",
+      "identifierref": "res00077",
+      "title": "Session 5"
+    },
+    {
+      "identifier": "itm00054",
+      "identifierref": "res00093",
+      "title": "Session 5"
+    },
+    {
+      "identifier": "itm00074",
+      "identifierref": "res00113",
+      "title": "Presentation"
+    },
+    {
+      "identifier": "itm00091",
+      "identifierref": "res00130",
+      "title": "AT1: PART-THREE Essentials"
+    },
+    {
+      "identifier": "itm00039",
+      "identifierref": "res00078",
+      "title": "Session 6"
+    },
+    {
+      "identifier": "itm00059",
+      "identifierref": "res00098",
+      "title": "Session 6"
+    },
+    {
+      "identifier": "itm00075",
+      "identifierref": "res00114",
+      "title": "Presentation"
+    },
+    {
+      "identifier": "itm00040",
+      "identifierref": "res00079",
+      "title": "Session 7"
+    },
+    {
+      "identifier": "itm00060",
+      "identifierref": "res00099",
+      "title": "Session 7"
+    },
+    {
+      "identifier": "itm00076",
+      "identifierref": "res00115",
+      "title": "Presentation"
+    },
+    {
+      "identifier": "itm00087",
+      "identifierref": "res00126",
+      "title": "PART-FOUR Essentials"
+    },
+    {
+      "identifier": "itm00041",
+      "identifierref": "res00080",
+      "title": "Session 8"
+    },
+    {
+      "identifier": "itm00061",
+      "identifierref": "res00100",
+      "title": "Session 8"
+    },
+    {
+      "identifier": "itm00072",
+      "identifierref": "res00111",
+      "title": "Presentation"
+    },
+    {
+      "identifier": "itm00042",
+      "identifierref": "res00081",
+      "title": "Session 9"
+    },
+    {
+      "identifier": "itm00062",
+      "identifierref": "res00101",
+      "title": "Session 9"
+    },
+    {
+      "identifier": "itm00077",
+      "identifierref": "res00116",
+      "title": "Presentation"
+    },
+    {
+      "identifier": "itm00043",
+      "identifierref": "res00082",
+      "title": "Session 10"
+    },
+    {
+      "identifier": "itm00063",
+      "identifierref": "res00102",
+      "title": "Session 10"
+    },
+    {
+      "identifier": "itm00084",
+      "identifierref": "res00123",
+      "title": "Presentation"
+    },
+    {
+      "identifier": "itm00088",
+      "identifierref": "res00127",
+      "title": "Classroom task"
+    },
+    {
+      "identifier": "itm00093",
+      "identifierref": "res00132",
+      "title": "NIST Framework 2"
+    },
+    {
+      "identifier": "itm00094",
+      "identifierref": "res00133",
+      "title": "NIST Framework 1"
+    },
+    {
+      "identifier": "itm00044",
+      "identifierref": "res00083",
+      "title": "Session 11"
+    },
+    {
+      "identifier": "itm00064",
+      "identifierref": "res00103",
+      "title": "Session 11"
+    },
+    {
+      "identifier": "itm00080",
+      "identifierref": "res00119",
+      "title": "Presentation"
+    },
+    {
+      "identifier": "itm00089",
+      "identifierref": "res00128",
+      "title": "Review quiz"
+    },
+    {
+      "identifier": "itm00045",
+      "identifierref": "res00084",
+      "title": "Session 12"
+    },
+    {
+      "identifier": "itm00065",
+      "identifierref": "res00104",
+      "title": "Session 12"
+    },
+    {
+      "identifier": "itm00082",
+      "identifierref": "res00121",
+      "title": "Presentation"
+    },
+    {
+      "identifier": "itm00046",
+      "identifierref": "res00085",
+      "title": "Session 13"
+    },
+    {
+      "identifier": "itm00066",
+      "identifierref": "res00105",
+      "title": "Session 13"
+    },
+    {
+      "identifier": "itm00073",
+      "identifierref": "res00112",
+      "title": "NIST - Introduction"
+    },
+    {
+      "identifier": "itm00086",
+      "identifierref": "res00125",
+      "title": "Presentation"
+    },
+    {
+      "identifier": "itm00047",
+      "identifierref": "res00086",
+      "title": "Session 14"
+    },
+    {
+      "identifier": "itm00067",
+      "identifierref": "res00106",
+      "title": "Session 14"
+    },
+    {
+      "identifier": "itm00083",
+      "identifierref": "res00122",
+      "title": "Presentation"
+    },
+    {
+      "identifier": "itm00048",
+      "identifierref": "res00087",
+      "title": "Session 15"
+    },
+    {
+      "identifier": "itm00068",
+      "identifierref": "res00107",
+      "title": "Session 15"
+    },
+    {
+      "identifier": "itm00049",
+      "identifierref": "res00088",
+      "title": "Session 16"
+    },
+    {
+      "identifier": "itm00069",
+      "identifierref": "res00108",
+      "title": "Session"
+    },
+    {
+      "identifier": "itm00050",
+      "identifierref": "res00089",
+      "title": "Session 17"
+    },
+    {
+      "identifier": "itm00070",
+      "identifierref": "res00109",
+      "title": "Session"
+    },
+    {
+      "identifier": "itm00051",
+      "identifierref": "res00090",
+      "title": "Session 18"
+    },
+    {
+      "identifier": "itm00071",
+      "identifierref": "res00110",
+      "title": "Session"
+    },
+    {
+      "identifier": "itm00052",
+      "identifierref": "res00091",
+      "title": "Note to instructors"
+    },
+    {
+      "identifier": "itm00053",
+      "identifierref": "res00092",
+      "title": "Additional Materials"
+    },
+    {
+      "identifier": "itm00004",
+      "identifierref": "res00009",
+      "title": "divider_1519890288056"
+    },
+    {
+      "identifier": "itm00005",
+      "identifierref": "res00010",
+      "title": "Assessment"
+    },
+    {
+      "identifier": "itm00095",
+      "identifierref": "res00134",
+      "title": "--TOP--"
+    },
+    {
+      "identifier": "itm00096",
+      "identifierref": "res00135",
+      "title": "Note to instructors"
+    },
+    {
+      "identifier": "itm00097",
+      "identifierref": "res00136",
+      "title": "Assessment Overview"
+    },
+    {
+      "identifier": "itm00098",
+      "identifierref": "res00137",
+      "title": "How to submit your work"
+    },
+    {
+      "identifier": "itm00099",
+      "identifierref": "res00138",
+      "title": "Note to instructors"
+    },
+    {
+      "identifier": "itm00100",
+      "identifierref": "res00139",
+      "title": "How to submit your work"
+    },
+    {
+      "identifier": "itm00101",
+      "identifierref": "res00140",
+      "title": "Organisational Policies"
+    },
+    {
+      "identifier": "itm00102",
+      "identifierref": "res00141",
+      "title": "AT1 Portfolio of Observed Activities"
+    },
+    {
+      "identifier": "itm00107",
+      "identifierref": "res00146",
+      "title": "Submission and Documentation Instructions"
+    },
+    {
+      "identifier": "itm00112",
+      "identifierref": "res00151",
+      "title": "Assessment 1"
+    },
+    {
+      "identifier": "itm00006",
+      "identifierref": "res00011",
+      "title": "My Grades"
+    },
+    {
+      "identifier": "itm00007",
+      "identifierref": "res00012",
+      "title": "divider_1463038120430"
+    },
+    {
+      "identifier": "itm00008",
+      "identifierref": "res00013",
+      "title": "Blackboard Collaborate"
+    },
+    {
+      "identifier": "itm00009",
+      "identifierref": "res00014",
+      "title": "Communication"
+    },
+    {
+      "identifier": "itm00119",
+      "identifierref": "res00158",
+      "title": "--TOP--"
+    },
+    {
+      "identifier": "itm00120",
+      "identifierref": "res00159",
+      "title": "Note to instructors"
+    },
+    {
+      "identifier": "itm00121",
+      "identifierref": "res00160",
+      "title": "Send Email"
+    },
+    {
+      "identifier": "itm00122",
+      "identifierref": "res00161",
+      "title": "Blackboard Collaborate Ultra"
+    },
+    {
+      "identifier": "itm00123",
+      "identifierref": "res00162",
+      "title": "Announcements"
+    },
+    {
+      "identifier": "itm00124",
+      "identifierref": "res00163",
+      "title": "Discussion Board"
+    },
+    {
+      "identifier": "itm00125",
+      "identifierref": "res00164",
+      "title": "Course Messages"
+    },
+    {
+      "identifier": "itm00010",
+      "identifierref": "res00015",
+      "title": "Staff Contacts"
+    },
+    {
+      "identifier": "itm00012",
+      "identifierref": "res00051",
+      "title": "- IT Lecturer - Lewis Rose"
+    },
+    {
+      "identifier": "itm00013",
+      "identifierref": "res00052",
+      "title": "- Head of Program/PL or other appropriate Contact - First Last"
+    }
+  ],
+  "resources": {
+    "res00006": {
+      "title": "Welcome",
+      "res_num": "00006"
+    },
+    "res00060": {
+      "title": "--TOP--",
+      "res_num": "00060"
+    },
+    "res00061": {
+      "title": "Introduction",
+      "res_num": "00061"
+    },
+    "res00062": {
+      "title": "VU23217 Elements and Performance Criteria",
+      "res_num": "00062"
+    },
+    "res00069": {
+      "title": "Note to instructors",
+      "res_num": "00069"
+    },
+    "res00070": {
+      "title": "TryHackMe Evaluation",
+      "res_num": "00070"
+    },
+    "res00008": {
+      "title": "Learning Materials",
+      "res_num": "00008"
+    },
+    "res00071": {
+      "title": "--TOP--",
+      "res_num": "00071"
+    },
+    "res00072": {
+      "title": "About this Section",
+      "res_num": "00072"
+    },
+    "res00073": {
+      "title": "Session 1",
+      "res_num": "00073"
+    },
+    "res00095": {
+      "title": "Week 1",
+      "res_num": "00095"
+    },
+    "res00124": {
+      "title": "Presentation",
+      "res_num": "00124"
+    },
+    "res00074": {
+      "title": "Session 2",
+      "res_num": "00074"
+    },
+    "res00094": {
+      "title": "Session 2",
+      "res_num": "00094"
+    },
+    "res00118": {
+      "title": "Presentation",
+      "res_num": "00118"
+    },
+    "res00131": {
+      "title": "PART-ONE",
+      "res_num": "00131"
+    },
+    "res00075": {
+      "title": "Session 3",
+      "res_num": "00075"
+    },
+    "res00096": {
+      "title": "Session 3",
+      "res_num": "00096"
+    },
+    "res00117": {
+      "title": "Chapter 3 Powerpoint  and Notes",
+      "res_num": "00117"
+    },
+    "res00076": {
+      "title": "Session 4",
+      "res_num": "00076"
+    },
+    "res00097": {
+      "title": "Session 4",
+      "res_num": "00097"
+    },
+    "res00120": {
+      "title": "Session 4 Presentation and notes",
+      "res_num": "00120"
+    },
+    "res00129": {
+      "title": "PART-TWO Essentials",
+      "res_num": "00129"
+    },
+    "res00077": {
+      "title": "Session 5",
+      "res_num": "00077"
+    },
+    "res00093": {
+      "title": "Session 5",
+      "res_num": "00093"
+    },
+    "res00113": {
+      "title": "Presentation",
+      "res_num": "00113"
+    },
+    "res00130": {
+      "title": "AT1: PART-THREE Essentials",
+      "res_num": "00130"
+    },
+    "res00078": {
+      "title": "Session 6",
+      "res_num": "00078"
+    },
+    "res00098": {
+      "title": "Session 6",
+      "res_num": "00098"
+    },
+    "res00114": {
+      "title": "Presentation",
+      "res_num": "00114"
+    },
+    "res00079": {
+      "title": "Session 7",
+      "res_num": "00079"
+    },
+    "res00099": {
+      "title": "Session 7",
+      "res_num": "00099"
+    },
+    "res00115": {
+      "title": "Presentation",
+      "res_num": "00115"
+    },
+    "res00126": {
+      "title": "PART-FOUR Essentials",
+      "res_num": "00126"
+    },
+    "res00080": {
+      "title": "Session 8",
+      "res_num": "00080"
+    },
+    "res00100": {
+      "title": "Session 8",
+      "res_num": "00100"
+    },
+    "res00111": {
+      "title": "Presentation",
+      "res_num": "00111"
+    },
+    "res00081": {
+      "title": "Session 9",
+      "res_num": "00081"
+    },
+    "res00101": {
+      "title": "Session 9",
+      "res_num": "00101"
+    },
+    "res00116": {
+      "title": "Presentation",
+      "res_num": "00116"
+    },
+    "res00082": {
+      "title": "Session 10",
+      "res_num": "00082"
+    },
+    "res00102": {
+      "title": "Session 10",
+      "res_num": "00102"
+    },
+    "res00123": {
+      "title": "Presentation",
+      "res_num": "00123"
+    },
+    "res00127": {
+      "title": "Classroom task",
+      "res_num": "00127"
+    },
+    "res00132": {
+      "title": "NIST Framework 2",
+      "res_num": "00132"
+    },
+    "res00133": {
+      "title": "NIST Framework 1",
+      "res_num": "00133"
+    },
+    "res00083": {
+      "title": "Session 11",
+      "res_num": "00083"
+    },
+    "res00103": {
+      "title": "Session 11",
+      "res_num": "00103"
+    },
+    "res00119": {
+      "title": "Presentation",
+      "res_num": "00119"
+    },
+    "res00128": {
+      "title": "Review quiz",
+      "res_num": "00128"
+    },
+    "res00084": {
+      "title": "Session 12",
+      "res_num": "00084"
+    },
+    "res00104": {
+      "title": "Session 12",
+      "res_num": "00104"
+    },
+    "res00121": {
+      "title": "Presentation",
+      "res_num": "00121"
+    },
+    "res00085": {
+      "title": "Session 13",
+      "res_num": "00085"
+    },
+    "res00105": {
+      "title": "Session 13",
+      "res_num": "00105"
+    },
+    "res00112": {
+      "title": "NIST - Introduction",
+      "res_num": "00112"
+    },
+    "res00125": {
+      "title": "Presentation",
+      "res_num": "00125"
+    },
+    "res00086": {
+      "title": "Session 14",
+      "res_num": "00086"
+    },
+    "res00106": {
+      "title": "Session 14",
+      "res_num": "00106"
+    },
+    "res00122": {
+      "title": "Presentation",
+      "res_num": "00122"
+    },
+    "res00087": {
+      "title": "Session 15",
+      "res_num": "00087"
+    },
+    "res00107": {
+      "title": "Session 15",
+      "res_num": "00107"
+    },
+    "res00088": {
+      "title": "Session 16",
+      "res_num": "00088"
+    },
+    "res00108": {
+      "title": "Session",
+      "res_num": "00108"
+    },
+    "res00089": {
+      "title": "Session 17",
+      "res_num": "00089"
+    },
+    "res00109": {
+      "title": "Session",
+      "res_num": "00109"
+    },
+    "res00090": {
+      "title": "Session 18",
+      "res_num": "00090"
+    },
+    "res00110": {
+      "title": "Session",
+      "res_num": "00110"
+    },
+    "res00091": {
+      "title": "Note to instructors",
+      "res_num": "00091"
+    },
+    "res00092": {
+      "title": "Additional Materials",
+      "res_num": "00092"
+    },
+    "res00010": {
+      "title": "Assessment",
+      "res_num": "00010"
+    },
+    "res00134": {
+      "title": "--TOP--",
+      "res_num": "00134"
+    },
+    "res00135": {
+      "title": "Note to instructors",
+      "res_num": "00135"
+    },
+    "res00136": {
+      "title": "Assessment Overview",
+      "res_num": "00136"
+    },
+    "res00137": {
+      "title": "How to submit your work",
+      "res_num": "00137"
+    },
+    "res00138": {
+      "title": "Note to instructors",
+      "res_num": "00138"
+    },
+    "res00139": {
+      "title": "How to submit your work",
+      "res_num": "00139"
+    },
+    "res00140": {
+      "title": "Organisational Policies",
+      "res_num": "00140"
+    },
+    "res00141": {
+      "title": "AT1 Portfolio of Observed Activities",
+      "res_num": "00141"
+    },
+    "res00146": {
+      "title": "Submission and Documentation Instructions",
+      "res_num": "00146"
+    },
+    "res00151": {
+      "title": "Assessment 1",
+      "res_num": "00151"
+    },
+    "res00011": {
+      "title": "My Grades",
+      "res_num": "00011"
+    },
+    "res00013": {
+      "title": "Blackboard Collaborate",
+      "res_num": "00013"
+    },
+    "res00014": {
+      "title": "Communication",
+      "res_num": "00014"
+    },
+    "res00158": {
+      "title": "--TOP--",
+      "res_num": "00158"
+    },
+    "res00159": {
+      "title": "Note to instructors",
+      "res_num": "00159"
+    },
+    "res00160": {
+      "title": "Send Email",
+      "res_num": "00160"
+    },
+    "res00161": {
+      "title": "Blackboard Collaborate Ultra",
+      "res_num": "00161"
+    },
+    "res00162": {
+      "title": "Announcements",
+      "res_num": "00162"
+    },
+    "res00163": {
+      "title": "Discussion Board",
+      "res_num": "00163"
+    },
+    "res00164": {
+      "title": "Course Messages",
+      "res_num": "00164"
+    },
+    "res00015": {
+      "title": "Staff Contacts",
+      "res_num": "00015"
+    },
+    "res00051": {
+      "title": "- IT Lecturer - Lewis Rose",
+      "res_num": "00051"
+    },
+    "res00052": {
+      "title": "- Head of Program/PL or other appropriate Contact - First Last",
+      "res_num": "00052"
+    }
+  }
+}

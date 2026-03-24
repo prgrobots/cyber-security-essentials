@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONTENT id="_3793169_1"><TITLE value="Presentation"/><TITLECOLOR value="#000000"/><DESCRIPTION
+   value=""/><BODY><TEXT>&lt;p&gt;.&lt;img src="@X@EmbeddedFile.requestUrlStub@X@bbcswebdav/xid-46884675_1" alt="" width="125" height="101" style="border: 0px solid #000000;"&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 12pt;"&gt;&lt;strong&gt;The following video shows the complete "plan" to protect an organisation's data&lt;/strong&gt;&lt;/span&gt;&lt;br&gt;&lt;span style="font-size: 12pt;"&gt;&lt;strong&gt;&lt;a href="https://www.youtube.com/watch?v=N8xEgSe5RwE" target="_blank" rel="noopener"&gt;Data Security: Protect your critical data (or else) (youtube.com)&lt;/a&gt; (7 min)&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 12pt;"&gt;&lt;strong&gt;This video gives examples of how Hash algorithms test Integrity and provide non-repudiation for digital documents&lt;br&gt;&lt;a href="https://www.youtube.com/watch?v=VUI89yBDcdk" target="_blank" rel="noopener"&gt;Hashing and Digital Signatures - SY0-601 CompTIA Security+ : 2.8&lt;/a&gt; (10 min)&lt;br&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 12pt;"&gt;&lt;strong&gt;The following link gives a more detailed discussion on the Data Storage Network solutions&lt;br&gt;&lt;a href="https://www.backblaze.com/blog/whats-the-diff-nas-vs-san/" target="_blank" rel="noopener"&gt;NAS vs. SAN - What Are the Differences Between Them (backblaze.com)&lt;/a&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</TEXT><TYPE
+   value="H"/></BODY><DATES><CREATED value="2023-07-24 13:40:45 AWST"/><UPDATED value="2025-10-14 09:52:55 AWST"/><START
+   value=""/><END value=""/></DATES><FLAGS><ISAVAILABLE value="true"/><ISFROMCARTRIDGE value="false"/><ISFOLDER
+   value="false"/><ISDESCRIBED value="false"/><ISTRACKED value="true"/><ISLESSON value="false"/><ISSEQUENTIAL
+   value="false"/><ALLOWGUESTS value="true"/><ALLOWOBSERVERS value="true"/><LAUNCHINNEWWINDOW
+   value="false"/><ISREVIEWABLE value="false"/><ISGROUPCONTENT value="false"/><ISSAMPLECONTENT
+   value="false"/><PARTIALLYVISIBLE value="false"/><HASTHUMBNAIL value="false"/></FLAGS><CONTENTHANDLER
+  value="resource/x-bb-document"/><RENDERTYPE value="REGULAR"/><FOLDERTYPE value=""/><URL value=""/><VIEWMODE
+  value="TEXT_ICON_ONLY"/><OFFLINENAME value=""/><OFFLINEPATH value=""/><LINKREF value=""/><PARENTID
+  value="_3793133_1"/><REVIEWABLEREASON value="NONE"/><VERSION value="3"/><THUMBNAILALT value=""/><AISTATE
+  value="No"/><AIACCEPTINGUSER value=""/><EXTENDEDDATA/><FILES><FILE id="_12698289_1"><NAME>/xid-75195848_1</NAME><SIZE
+    value="1189450"/><FILEACTION value="LINK"/><LINKNAME
+    value="Security Essentials 11 - DataProtection.pptx"/><STORAGETYPE value="CS"/><DATES><CREATED value=""/><UPDATED
+   value="2025-10-14 09:52:55 AWST"/></DATES><REGISTRY/></FILE><FILE id="_9496215_1"><NAME>/xid-54253676_1</NAME><SIZE
+    value="1182535"/><FILEACTION value="LINK"/><LINKNAME
+    value="ACSC Cyber Incident Readiness Checklist.pdf"/><STORAGETYPE value="CS"/><DATES><CREATED value=""/><UPDATED
+   value="2024-04-08 20:15:40 AWST"/></DATES><REGISTRY/></FILE><FILE id="_9496214_1"><NAME>/xid-54253675_1</NAME><SIZE
+    value="1978211"/><FILEACTION value="LINK"/><LINKNAME
+    value="ACSC Cyber Incident Response Plan Guidance.pdf"/><STORAGETYPE value="CS"/><DATES><CREATED value=""/><UPDATED value="2024-04-08 20:15:40 AWST"/></DATES><REGISTRY/></FILE></FILES></CONTENT>

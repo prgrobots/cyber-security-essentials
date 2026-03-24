@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<COURSEASSESSMENT id="_121679_1"><ASMTID value="res00032"/><DELIVERYTYPE value="ALL_AT_ONCE"/><PASSWORD
+  value=""/><TIMELIMIT value=""/><SOFTTIMELIMIT value=""/><TIMERCOMPLETION value="CONTINUAL"/><ATTEMPTCOUNT
+  value=""/><FEEDBACKSETTINGS value="as:s|ns:"/><RANDOMIZEANSWERS value="PER_QUESTION"/><FLAGS><ALLOWMULTIPLEATTEMPTS
+   value="false"/><ISPASSWORDPROTECTED value="false"/><LAUNCHINNEWWINDOW value="false"/><FORCECOMPLETION
+   value="false"/><ISBACKTRACKPROHIBITED value="false"/><RANDOMIZEQUESTIONS value="false"/><RANDOMIZEPAGES
+   value="false"/><KEEPFIRSTPAGEFIRST value="false"/><COLLECT_EXT_SUBS value="false"/><SHOWSCORE
+   value="false"/><SHOWUSERANSWER value="false"/><SHOWCORRECTANSWER value="false"/><SHOWFEEDBACK
+   value="false"/><ISUNLIMITEDATTEMPTS value="false"/><SHOWINSTINSTRUCTIONS value="true"/><SHOWINSTDESCRIPTION
+   value="true"/><ALLOWLATESUBMISSION value="false"/><ENFORCEDUEDATE value="false"/><IP_FILTER
+   value="false"/><REQSECBROWSERTOTAKE value="false"/><REQSECBROWSERTOREVIEW value="false"/><REQWEBCAM
+   value="false"/><ALLOWSTUDENTSUBMISSION value="false"/><ALLOWFILESUBMISSION value="true"/><ALLOWTEXTSUBMISSION value="true"/></FLAGS></COURSEASSESSMENT>

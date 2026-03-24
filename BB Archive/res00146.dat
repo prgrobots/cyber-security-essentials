@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONTENT id="_3793111_1"><TITLE value="Submission and Documentation Instructions"/><TITLECOLOR
+  value="#000000"/><DESCRIPTION
+   value=""/><BODY><TEXT>&lt;div&gt;You are required to submit all of your documented evidence for the below work,&amp;nbsp;&amp;nbsp;&lt;strong&gt;&lt;em&gt;each of the submissions must contain the following or they will be rejected&lt;/em&gt;&lt;/strong&gt;&lt;/div&gt;&#xd;
+&lt;ol style="list-style-type: decimal;"&gt;&#xd;
+&lt;li style="list-style-type: inherit;"&gt;&lt;strong&gt;Activities&lt;/strong&gt;:&#xd;
+&lt;ol style="list-style-type: decimal;"&gt;&#xd;
+&lt;li style="list-style-type: inherit;"&gt;Evidence that you completed each part of the activity, these should be signed screen shots (one option would be the snip tool in Windows)&lt;/li&gt;&#xd;
+&lt;/ol&gt;&#xd;
+&lt;/li&gt;&#xd;
+&lt;li style="list-style-type: inherit;"&gt;&lt;strong&gt;Packet Tracer Activities&lt;/strong&gt;:&#xd;
+&lt;ol style="list-style-type: decimal;"&gt;&#xd;
+&lt;li style="list-style-type: inherit;"&gt;The completed Packet Tracer file&lt;/li&gt;&#xd;
+&lt;li style="list-style-type: inherit;"&gt;The completed documentation that accompanies the Packet Tracer file including (open the PDF files in Microsoft Word to edit):&#xd;
+&lt;ol style="list-style-type: decimal;"&gt;&#xd;
+&lt;li style="list-style-type: inherit;"&gt;Screen shots of you completing the tasks&lt;/li&gt;&#xd;
+&lt;li style="list-style-type: inherit;"&gt;Answers to any questions in the document&lt;/li&gt;&#xd;
+&lt;/ol&gt;&#xd;
+&lt;/li&gt;&#xd;
+&lt;li style="list-style-type: inherit;"&gt;Any other evidence that you feel will help you prove you completed the work&lt;/li&gt;&#xd;
+&lt;/ol&gt;&#xd;
+&lt;/li&gt;&#xd;
+&lt;li style="list-style-type: inherit;"&gt;&lt;strong&gt;Lab Activities&lt;/strong&gt;:&#xd;
+&lt;ol style="list-style-type: decimal;"&gt;&#xd;
+&lt;li style="list-style-type: inherit;"&gt;A .txt file for each config of each device (for example if your exercise has 2 routers and a switch you should include 3 files called R1.txt, R2.txt and S1.txt with the copy and pasted running-configuration of the devices in each)&lt;/li&gt;&#xd;
+&lt;li style="list-style-type: inherit;"&gt;Completed lab documentation including:&lt;br&gt;&#xd;
+&lt;ol style="list-style-type: decimal;"&gt;&#xd;
+&lt;li style="list-style-type: inherit;"&gt;Screen shots to demonstrate you completed steps in the labs&lt;/li&gt;&#xd;
+&lt;li style="list-style-type: inherit;"&gt;Answers to any questions in the document&lt;/li&gt;&#xd;
+&lt;/ol&gt;&#xd;
+&lt;/li&gt;&#xd;
+&lt;li style="list-style-type: inherit;"&gt;Any other evidence you feel will help you prove you completed the work&lt;/li&gt;&#xd;
+&lt;/ol&gt;&#xd;
+&lt;/li&gt;&#xd;
+&lt;/ol&gt;&#xd;
+&lt;div&gt;&lt;strong&gt;All documentation&lt;/strong&gt;:&lt;/div&gt;&#xd;
+&lt;ol style="list-style-type: decimal;"&gt;&#xd;
+&lt;li style="list-style-type: inherit;"&gt;Screen shots of you entering every command required by the document (for example: if the document asks you to configure a router network interface, you must show screen shots to verify you did).&lt;/li&gt;&#xd;
+&lt;li style="list-style-type: inherit;"&gt;Screen shots to verify your commands&amp;nbsp;are correctly configured. This means if you are configuring networks or routing you must&amp;nbsp;&lt;strong&gt;&lt;em&gt;demonstrate&amp;nbsp;&lt;/em&gt;&lt;/strong&gt;that they work, this should be done through testing (ping,&amp;nbsp;debug&amp;nbsp;or&amp;nbsp;show&amp;nbsp;commands will be useful here (most labs will ask you to verify instructions anyway)).&lt;/li&gt;&#xd;
+&lt;li style="list-style-type: inherit;"&gt;Where appropriate, sign your screenshots, or add a "whoami" insert. Example here:&lt;br&gt;&lt;img style="height: auto;" src="@X@EmbeddedFile.requestUrlStub@X@bbcswebdav/xid-30139864_1" alt="" width="223" height="131"&gt;&amp;nbsp;&lt;span bb:beforeshowfunc="" bb:overwritenavitems="" bb:menuorder="openId_06ed26c2fb8c4962980422777b896407,open_with_browser_06ed26c2fb8c4962980422777b896407,open_with_bbdrive_06ed26c2fb8c4962980422777b896407,openWebId_06ed26c2fb8c4962980422777b896407,view360Id_06ed26c2fb8c4962980422777b896407,*separator*,*separator*,ax-ally-placeholder_06ed26c2fb8c4962980422777b896407,ax-ally-markForAxAnalysis_06ed26c2fb8c4962980422777b896407,*separator*,*separator*,content_settings_06ed26c2fb8c4962980422777b896407,content_editSettings_06ed26c2fb8c4962980422777b896407,content_edit_06ed26c2fb8c4962980422777b896407,properties_folder_06ed26c2fb8c4962980422777b896407,itemcarot_managerecord_06ed26c2fb8c4962980422777b896407,comments_tool_06ed26c2fb8c4962980422777b896407,subscriptions_list_06ed26c2fb8c4962980422777b896407,content_readfile_06ed26c2fb8c4962980422777b896407,content_overwrite_06ed26c2fb8c4962980422777b896407,passes_tool_06ed26c2fb8c4962980422777b896407,permissions_tool_06ed26c2fb8c4962980422777b896407,content_add_alignment_06ed26c2fb8c4962980422777b896407,content_tracking_06ed26c2fb8c4962980422777b896407,content_versions_06ed26c2fb8c4962980422777b896407,*separator*,*separator*,bookmarkId_06ed26c2fb8c4962980422777b896407,itemsId_06ed26c2fb8c4962980422777b896407,packagesId_06ed26c2fb8c4962980422777b896407,emailId_06ed26c2fb8c4962980422777b896407,removeContentFolderId_06ed26c2fb8c4962980422777b896407,*separator*,copyContentId_06ed26c2fb8c4962980422777b896407,moveContentId_06ed26c2fb8c4962980422777b896407,*separator*,removeContentId_06ed26c2fb8c4962980422777b896407,*separator*,Metadata_General_06ed26c2fb8c4962980422777b896407,Metadata_Dublin_Core_06ed26c2fb8c4962980422777b896407,Metadata_IMS_06ed26c2fb8c4962980422777b896407,Metadata_Full_IMS_06ed26c2fb8c4962980422777b896407," bb:contextparameters="" bb:navitem="" bb:menugeneratorurl="/webapps/cmsmain/webui/courses/15_C_JTE_INTRPNETW_1/WhoamI-Graphic%281%29.PNG?action=details&amp;amp;subaction=generateFileMenuItem&amp;amp;uniq=-3stl9w&amp;amp;course_id=_35185_1&amp;amp;ctxMenuXythosId=30139864_1&amp;amp;course_id=_35185_1"&gt;&lt;a title="Click for more options" href="@X@EmbeddedFile.requestUrlStub@X@webapps/blackboard/content/listContentEditable.jsp?content_id=_3541100_1&amp;amp;course_id=_35185_1#contextMenu" role="button" id="cmlink_06ed26c2fb8c4962980422777b896407"&gt;&lt;img style="height: 14px; width: 16px;" alt="Click for more options" src="https://learn.content.blackboardcdn.com/3900.58.0-rel.29+31f3d35/images/ci/icons/cmlink_generic.gif"&gt;&lt;/a&gt;&amp;nbsp;&lt;/span&gt;&amp;nbsp;&lt;span bb:menugeneratorurl="/webapps/cmsmain/webui/courses/15_C_JTE_INTRPNETW_1/WhoamI-Graphic%281%29.PNG?action=details&amp;amp;subaction=generateFileMenuItem&amp;amp;uniq=-nldzvt&amp;amp;course_id=_26269_1&amp;amp;ctxMenuXythosId=30139864_1&amp;amp;course_id=_26269_1" bb:navitem="" bb:contextparameters="" bb:menuorder="openId_ddcea3c6ad8c4a188c6e9a7b8fc0a5f5,open_with_browser_ddcea3c6ad8c4a188c6e9a7b8fc0a5f5,open_with_bbdrive_ddcea3c6ad8c4a188c6e9a7b8fc0a5f5,openWebId_ddcea3c6ad8c4a188c6e9a7b8fc0a5f5,view360Id_ddcea3c6ad8c4a188c6e9a7b8fc0a5f5,*separator*,*separator*,ax-ally-placeholder_ddcea3c6ad8c4a188c6e9a7b8fc0a5f5,ax-ally-markForAxAnalysis_ddcea3c6ad8c4a188c6e9a7b8fc0a5f5,*separator*,*separator*,content_settings_ddcea3c6ad8c4a188c6e9a7b8fc0a5f5,content_editSettings_ddcea3c6ad8c4a188c6e9a7b8fc0a5f5,content_edit_ddcea3c6ad8c4a188c6e9a7b8fc0a5f5,properties_folder_ddcea3c6ad8c4a188c6e9a7b8fc0a5f5,itemcarot_managerecord_ddcea3c6ad8c4a188c6e9a7b8fc0a5f5,comments_tool_ddcea3c6ad8c4a188c6e9a7b8fc0a5f5,subscriptions_list_ddcea3c6ad8c4a188c6e9a7b8fc0a5f5,content_readfile_ddcea3c6ad8c4a188c6e9a7b8fc0a5f5,content_overwrite_ddcea3c6ad8c4a188c6e9a7b8fc0a5f5,passes_tool_ddcea3c6ad8c4a188c6e9a7b8fc0a5f5,permissions_tool_ddcea3c6ad8c4a188c6e9a7b8fc0a5f5,content_add_alignment_ddcea3c6ad8c4a188c6e9a7b8fc0a5f5,content_tracking_ddcea3c6ad8c4a188c6e9a7b8fc0a5f5,content_versions_ddcea3c6ad8c4a188c6e9a7b8fc0a5f5,*separator*,*separator*,bookmarkId_ddcea3c6ad8c4a188c6e9a7b8fc0a5f5,itemsId_ddcea3c6ad8c4a188c6e9a7b8fc0a5f5,packagesId_ddcea3c6ad8c4a188c6e9a7b8fc0a5f5,emailId_ddcea3c6ad8c4a188c6e9a7b8fc0a5f5,removeContentFolderId_ddcea3c6ad8c4a188c6e9a7b8fc0a5f5,*separator*,copyContentId_ddcea3c6ad8c4a188c6e9a7b8fc0a5f5,moveContentId_ddcea3c6ad8c4a188c6e9a7b8fc0a5f5,*separator*,removeContentId_ddcea3c6ad8c4a188c6e9a7b8fc0a5f5,*separator*,Metadata_General_ddcea3c6ad8c4a188c6e9a7b8fc0a5f5,Metadata_Dublin_Core_ddcea3c6ad8c4a188c6e9a7b8fc0a5f5,Metadata_IMS_ddcea3c6ad8c4a188c6e9a7b8fc0a5f5,Metadata_Full_IMS_ddcea3c6ad8c4a188c6e9a7b8fc0a5f5," bb:overwritenavitems="" bb:beforeshowfunc=""&gt;&lt;a id="cmlink_ddcea3c6ad8c4a188c6e9a7b8fc0a5f5" role="button" href="@X@EmbeddedFile.requestUrlStub@X@webapps/blackboard/content/listContentEditable.jsp?content_id=_2690459_1&amp;amp;course_id=_26269_1#contextMenu" title="Click for more options"&gt;&lt;img style="height: 14px; width: 16px;" src="https://learn.content.blackboardcdn.com/3900.19.0-rel.38+a5c3f13/images/ci/icons/cmlink_generic.gif" alt="Click for more options"&gt;&lt;/a&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;/li&gt;&#xd;
+&lt;/ol&gt;&#xd;
+&lt;div&gt;&lt;strong&gt;&lt;em&gt;Any submissions not meeting the above requirements will be rejected. All submissions must be demonstrably, clearly and unquestionably your work; any question of authenticity will result in the rejection of submissions.&amp;nbsp;&lt;/em&gt;&lt;/strong&gt;&amp;nbsp;&lt;strong&gt;&lt;em&gt;There is a zero tolerance plagiarism policy enforced.&lt;/em&gt;&lt;/strong&gt;&lt;/div&gt;&#xd;
+&lt;div&gt;If you have any questions, please do not hesitate to ask your lecturer either in person or over email (see the contacts section of BlackBoard).&lt;/div&gt;</TEXT><TYPE
+   value="H"/></BODY><DATES><CREATED value="2023-07-24 13:40:45 AWST"/><UPDATED value="2023-07-24 13:40:45 AWST"/><START
+   value=""/><END value=""/></DATES><FLAGS><ISAVAILABLE value="true"/><ISFROMCARTRIDGE value="false"/><ISFOLDER
+   value="false"/><ISDESCRIBED value="false"/><ISTRACKED value="false"/><ISLESSON value="false"/><ISSEQUENTIAL
+   value="false"/><ALLOWGUESTS value="true"/><ALLOWOBSERVERS value="true"/><LAUNCHINNEWWINDOW
+   value="false"/><ISREVIEWABLE value="false"/><ISGROUPCONTENT value="false"/><ISSAMPLECONTENT
+   value="false"/><PARTIALLYVISIBLE value="false"/><HASTHUMBNAIL value="false"/></FLAGS><CONTENTHANDLER
+  value="resource/x-bb-module-page"/><RENDERTYPE value="REGULAR"/><FOLDERTYPE value=""/><URL value=""/><VIEWMODE
+  value="TEXT_ICON_ONLY"/><OFFLINENAME value=""/><OFFLINEPATH value=""/><LINKREF value=""/><PARENTID
+  value="_3793110_1"/><REVIEWABLEREASON value="NONE"/><VERSION value="3"/><THUMBNAILALT value=""/><AISTATE
+  value="No"/><AIACCEPTINGUSER value=""/><EXTENDEDDATA/><FILES/></CONTENT>

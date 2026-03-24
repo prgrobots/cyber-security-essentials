@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NAVIGATIONAPPLICATIONS><NAVIGATIONAPPLICATION id="_4066837_1"><APPLICATION value="announcements"/><LABEL
+    value="announcements.label"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS value="true"/><ALLOWGUESTS
+  value="true"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_5516939_1"><APPLICATION
+   value="bb-achievements-ultra"/><LABEL value=""/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS
+    value="false"/><ALLOWGUESTS value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_4066841_1"><APPLICATION value="bbcms-extractor"/><LABEL value="bbcms-extractor.label"/><FLAGS><ISENABLED
+    value="false"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_4066842_1"><APPLICATION
+   value="bbcms-linkcheck"/><LABEL value="bbcms-linkcheck.label"/><FLAGS><ISENABLED value="false"/><ALLOWOBSERVERS
+    value="false"/><ALLOWGUESTS value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_5280122_1"><APPLICATION value="bb-mathjax"/><LABEL value=""/><FLAGS><ISENABLED value="false"/><ALLOWOBSERVERS
+    value="false"/><ALLOWGUESTS value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_4066838_1"><APPLICATION value="avl_rule"/><LABEL value="avl_rule.label"/><FLAGS><ISENABLED
+    value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_4066847_1"><APPLICATION
+   value="bb-glossary"/><LABEL value="bb-glossary.label"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS
+    value="false"/><ALLOWGUESTS value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_5299947_1"><APPLICATION value="blti-placement-lti-tool-CEN4"/><LABEL value=""/><FLAGS><ISENABLED
+    value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_4685232_1"><APPLICATION
+   value="blti-placement-e045ec63454c4754b4d05328ea7aa57b"/><LABEL value=""/><FLAGS><ISENABLED
+    value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_4266460_1"><APPLICATION
+   value="bb-progress-tracking"/><LABEL value=""/><FLAGS><ISENABLED value="false"/><ALLOWOBSERVERS
+    value="false"/><ALLOWGUESTS value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_4266461_1"><APPLICATION value="blti-placement-vitalsource"/><LABEL value=""/><FLAGS><ISENABLED
+    value="false"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_5374209_1"><APPLICATION
+   value="blti-placement-c9dd082533db41e3b4f1c21f05a36107"/><LABEL value=""/><FLAGS><ISENABLED
+    value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_4066872_1"><APPLICATION
+   value="calendar"/><LABEL value="calendar.label"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS
+    value="true"/><ALLOWGUESTS value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_4066878_1"><APPLICATION value="discussion_board"/><LABEL value="discussion_board.label"/><FLAGS><ISENABLED
+    value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_4066856_1"><APPLICATION
+   value="bb-mashups-flickr"/><LABEL value="flickr.vtbe.application.name"/><FLAGS><ISENABLED
+    value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_4066857_1"><APPLICATION
+   value="bb-mashups-slideshare"/><LABEL value="slideshare.vtbe.application.name"/><FLAGS><ISENABLED
+    value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_4066868_1"><APPLICATION
+   value="blogs"/><LABEL value="blogs.label"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS
+    value="false"/><ALLOWGUESTS value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_4066870_1"><APPLICATION value="blti-placement-04CatapultStudentTool"/><LABEL
+    value="lti-StudentTool"/><FLAGS><ISENABLED value="false"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_4066871_1"><APPLICATION
+   value="blti-placement-Echo360"/><LABEL value="Echo360 - Student Tool"/><FLAGS><ISENABLED
+    value="false"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_4066873_1"><APPLICATION
+   value="content"/><LABEL value="content.label"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS
+    value="true"/><ALLOWGUESTS value="true"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_4066874_1"><APPLICATION value="course_email"/><LABEL value="course_email.label"/><FLAGS><ISENABLED
+    value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_4066875_1"><APPLICATION
+   value="course_roster"/><LABEL value="course_roster.label"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS
+    value="false"/><ALLOWGUESTS value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_4066876_1"><APPLICATION value="course_tools_area"/><LABEL value="course_tools_area.label"/><FLAGS><ISENABLED
+    value="true"/><ALLOWOBSERVERS value="true"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_4066863_1"><APPLICATION
+   value="bb-rubric"/><LABEL value=""/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_4066879_1"><APPLICATION
+   value="groups"/><LABEL value="groups.label"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS
+    value="false"/><ALLOWGUESTS value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_4066858_1"><APPLICATION value="bb-mashups-youtube"/><LABEL value="yt.vtbe.application.name"/><FLAGS><ISENABLED
+    value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_4066882_1"><APPLICATION
+   value="manual"/><LABEL value="manual.label"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS
+    value="false"/><ALLOWGUESTS value="true"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_4066885_1"><APPLICATION value="observer"/><LABEL value="observer.label"/><FLAGS><ISENABLED
+    value="true"/><ALLOWOBSERVERS value="true"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_4066886_1"><APPLICATION
+   value="performance_dashboard"/><LABEL value="performance_dashboard.label"/><FLAGS><ISENABLED
+    value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_4066887_1"><APPLICATION
+   value="review_status"/><LABEL value="review_status.label"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS
+    value="false"/><ALLOWGUESTS value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_4066881_1"><APPLICATION value="journal"/><LABEL value="journal.label"/><FLAGS><ISENABLED
+    value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_4066889_1"><APPLICATION
+   value="staff_information"/><LABEL value="staff_information.label"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS
+    value="false"/><ALLOWGUESTS value="true"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_4066891_1"><APPLICATION value="tasks"/><LABEL value="tasks.label"/><FLAGS><ISENABLED
+    value="true"/><ALLOWOBSERVERS value="true"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_4066864_1"><APPLICATION
+   value="bb-selfpeer"/><LABEL value="sap.tool.name"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS
+    value="false"/><ALLOWGUESTS value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_4066880_1"><APPLICATION value="instructor_gradebook"/><LABEL
+    value="instructor_gradebook.label"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_4066890_1"><APPLICATION
+   value="student_gradebook"/><LABEL value="student_gradebook.label"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS
+    value="true"/><ALLOWGUESTS value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_5396983_1"><APPLICATION value="mdb-sa-direct-submit"/><LABEL value=""/><FLAGS><ISENABLED
+    value="false"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_4066851_1"><APPLICATION
+   value="bbgs-course-performance-app"/><LABEL value=""/><FLAGS><ISENABLED value="false"/><ALLOWOBSERVERS
+    value="false"/><ALLOWGUESTS value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_4066839_1"><APPLICATION value="bb-achievements"/><LABEL value="achievements.application.name"/><FLAGS><ISENABLED
+    value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_4066840_1"><APPLICATION
+   value="bb-ally-integration"/><LABEL value=""/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS
+    value="false"/><ALLOWGUESTS value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_4066831_1"><APPLICATION value="bb-attendance"/><LABEL value=""/><FLAGS><ISENABLED value="false"/><ALLOWOBSERVERS
+    value="false"/><ALLOWGUESTS value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_4066845_1"><APPLICATION value="bb-date-management"/><LABEL
+    value="date.rollover.application.name"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_4066834_1"><APPLICATION
+   value="clp_course_link"/><LABEL value=""/><FLAGS><ISENABLED value="false"/><ALLOWOBSERVERS
+    value="false"/><ALLOWGUESTS value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_4066833_1"><APPLICATION value="bb-video-integration"/><LABEL value=""/><FLAGS><ISENABLED
+    value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_4510436_1"><APPLICATION
+   value="blti-placement-15_panopto1"/><LABEL value=""/><FLAGS><ISENABLED value="false"/><ALLOWOBSERVERS
+    value="false"/><ALLOWGUESTS value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_4066844_1"><APPLICATION value="bb-collab-ultra"/><LABEL value=""/><FLAGS><ISENABLED
+    value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_4066862_1"><APPLICATION
+   value="bb-retention"/><LABEL value="retention.application.name"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS
+    value="false"/><ALLOWGUESTS value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_4066888_1"><APPLICATION value="scor-scormreport"/><LABEL value="scormreport.application.name"/><FLAGS><ISENABLED
+    value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_4066865_1"><APPLICATION
+   value="bb-vtbe-tinymce-matheditor"/><LABEL value="tool.matheditor.name"/><FLAGS><ISENABLED
+    value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_4066866_1"><APPLICATION
+   value="bb-vtbe-tinymce-spellcheck"/><LABEL value="tool.spellcheck.name"/><FLAGS><ISENABLED
+    value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_4066884_1"><APPLICATION
+   value="messages"/><LABEL value="messages.label"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS
+    value="false"/><ALLOWGUESTS value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_4066867_1"><APPLICATION value="Bb-wiki"/><LABEL value="application.name"/><FLAGS><ISENABLED
+    value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_4066883_1"><APPLICATION
+   value="mdb-sa"/><LABEL value="SafeAssign"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS
+    value="false"/><ALLOWGUESTS value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_4066869_1"><APPLICATION value="blti"/><LABEL value="blti.label"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS
+    value="false"/><ALLOWGUESTS value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_4066850_1"><APPLICATION value="bbgs-course-materials-app"/><LABEL
+    value="course.materials.tool.name"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_4066854_1"><APPLICATION
+   value="bbgs-partner-cloud-app"/><LABEL value="commercial.content.tool.name"/><FLAGS><ISENABLED
+    value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS value="false"/></FLAGS></NAVIGATIONAPPLICATION></NAVIGATIONAPPLICATIONS>

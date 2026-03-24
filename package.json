@@ -1,0 +1,12 @@
+{
+  "name": "cyber-security-essentials-slides",
+  "private": true,
+  "scripts": {
+    "dev": "slidev",
+    "build": "slidev build",
+    "preview": "slidev preview"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.49.0"
+  }
+}

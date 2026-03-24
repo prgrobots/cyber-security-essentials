@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<COURSEMODULEPAGES><COURSEMODULEPAGE><TAB id="_112144_1"><COURSESEARCHLABEL
+    value="MyInstitution.course_search_label"/><EXTREF value=""/><LINKSLABEL value="Hot Links"/><INTERNALHANDLE
+    value=""/><LABEL value="Session 5"/><SCOPE value="COURSE"/><TITLETYPE value="LABEL"/><SEARCHLABEL
+    value="Search The Web"/><SHORTNAME value=""/><SPONSORSLABEL value="Hot Spots"/><TYPE value="MODULES"/><TOOLSLABEL
+    value="Tools"/><URL value=""/><FLAGS><ALLOWDELETE value="true"/><ALLOWDISABLE value="true"/><ISCOURSESEARCHAVAILABLE
+     value="false"/><ISENABLED value="true"/><ISLINKSAVAILABLE value="true"/><ISSEARCHAVAILABLE
+     value="false"/><ISSPONSORSAVAILABLE value="true"/><ISTOOLSAVAILABLE value="true"/><RESTRICTTOROLES
+     value="false"/><FORCED_INTO_FRAME value="false"/></FLAGS></TAB><LAYOUTFAMILY id="_112120_1"><FOOTERWIDTH
+    value=""/><HEADERWIDTH value=""/><LAYOUTFAMILYTYPE value="LAYOUT_2COL"/><FLAGS><ISCUSTOMIZABLE
+    value="false"/></FLAGS><TABID value="_112144_1"/></LAYOUTFAMILY><LAYOUTS><LAYOUT id="_275143_1"><CONTENTCOLUMN1
+     value="50"/><CONTENTCOLUMN2 value="50"/><CONTENTCOLUMN3 value="40"/><FLAGS><ISDEFAULT
+     value="true"/></FLAGS><LAYOUTTYPE value="DEFAULT_LAYOUT"/><LAYOUTFAMILYID value="_112120_1"/><LAYOUTUISTYLE
+     value=""/><MENUCOLUMNWIDTH value="150"/><MENUCOLUMNWIDTHTYPE value="PIXEL"/><USERID
+   value=""/></LAYOUT></LAYOUTS><MODULELAYOUTS/><REQUIREDMODS/></COURSEMODULEPAGE><COURSEMODULEPAGE><TAB
+    id="_112145_1"><COURSESEARCHLABEL value=""/><EXTREF value=""/><LINKSLABEL value=""/><INTERNALHANDLE value=""/><LABEL
+    value="Session 2"/><SCOPE value="COURSE"/><TITLETYPE value="LABEL"/><SEARCHLABEL value=""/><SHORTNAME
+    value=""/><SPONSORSLABEL value=""/><TYPE value="MODULES"/><TOOLSLABEL value=""/><URL value=""/><FLAGS><ALLOWDELETE
+     value="true"/><ALLOWDISABLE value="true"/><ISCOURSESEARCHAVAILABLE value="false"/><ISENABLED
+     value="true"/><ISLINKSAVAILABLE value="true"/><ISSEARCHAVAILABLE value="false"/><ISSPONSORSAVAILABLE
+     value="true"/><ISTOOLSAVAILABLE value="true"/><RESTRICTTOROLES value="false"/><FORCED_INTO_FRAME
+   value="false"/></FLAGS></TAB><LAYOUTFAMILY id="_112121_1"><FOOTERWIDTH value=""/><HEADERWIDTH
+    value=""/><LAYOUTFAMILYTYPE value="LAYOUT_2COL"/><FLAGS><ISCUSTOMIZABLE value="true"/></FLAGS><TABID
+    value="_112145_1"/></LAYOUTFAMILY><LAYOUTS><LAYOUT id="_275144_1"><CONTENTCOLUMN1 value="50"/><CONTENTCOLUMN2
+     value="50"/><CONTENTCOLUMN3 value="40"/><FLAGS><ISDEFAULT value="true"/></FLAGS><LAYOUTTYPE
+     value="DEFAULT_LAYOUT"/><LAYOUTFAMILYID value="_112121_1"/><LAYOUTUISTYLE value=""/><MENUCOLUMNWIDTH
+     value="150"/><MENUCOLUMNWIDTHTYPE value="PIXEL"/><USERID
+   value=""/></LAYOUT></LAYOUTS><MODULELAYOUTS/><REQUIREDMODS/></COURSEMODULEPAGE><COURSEMODULEPAGE><TAB
+    id="_112141_1"><COURSESEARCHLABEL value="MyInstitution.course_search_label"/><EXTREF value=""/><LINKSLABEL
+    value="Hot Links"/><INTERNALHANDLE value=""/><LABEL value="Week 1"/><SCOPE value="COURSE"/><TITLETYPE
+    value="LABEL"/><SEARCHLABEL value="Search The Web"/><SHORTNAME value=""/><SPONSORSLABEL value="Hot Spots"/><TYPE
+    value="MODULES"/><TOOLSLABEL value="Tools"/><URL value=""/><FLAGS><ALLOWDELETE value="true"/><ALLOWDISABLE
+     value="true"/><ISCOURSESEARCHAVAILABLE value="false"/><ISENABLED value="true"/><ISLINKSAVAILABLE
+     value="true"/><ISSEARCHAVAILABLE value="false"/><ISSPONSORSAVAILABLE value="true"/><ISTOOLSAVAILABLE
+     value="true"/><RESTRICTTOROLES value="false"/><FORCED_INTO_FRAME value="false"/></FLAGS></TAB><LAYOUTFAMILY
+    id="_112117_1"><FOOTERWIDTH value=""/><HEADERWIDTH value=""/><LAYOUTFAMILYTYPE
+     value="LAYOUT_2COL"/><FLAGS><ISCUSTOMIZABLE value="false"/></FLAGS><TABID
+    value="_112141_1"/></LAYOUTFAMILY><LAYOUTS><LAYOUT id="_275140_1"><CONTENTCOLUMN1 value="50"/><CONTENTCOLUMN2
+     value="50"/><CONTENTCOLUMN3 value="40"/><FLAGS><ISDEFAULT value="true"/></FLAGS><LAYOUTTYPE
+     value="DEFAULT_LAYOUT"/><LAYOUTFAMILYID value="_112117_1"/><LAYOUTUISTYLE value=""/><MENUCOLUMNWIDTH
+     value="150"/><MENUCOLUMNWIDTHTYPE value="PIXEL"/><USERID
+   value=""/></LAYOUT></LAYOUTS><MODULELAYOUTS/><REQUIREDMODS/></COURSEMODULEPAGE><COURSEMODULEPAGE><TAB
+    id="_112143_1"><COURSESEARCHLABEL value="MyInstitution.course_search_label"/><EXTREF value=""/><LINKSLABEL
+    value="Hot Links"/><INTERNALHANDLE value=""/><LABEL value="Session 6"/><SCOPE value="COURSE"/><TITLETYPE
+    value="LABEL"/><SEARCHLABEL value="Search The Web"/><SHORTNAME value=""/><SPONSORSLABEL value="Hot Spots"/><TYPE
+    value="MODULES"/><TOOLSLABEL value="Tools"/><URL value=""/><FLAGS><ALLOWDELETE value="true"/><ALLOWDISABLE
+     value="true"/><ISCOURSESEARCHAVAILABLE value="false"/><ISENABLED value="true"/><ISLINKSAVAILABLE
+     value="true"/><ISSEARCHAVAILABLE value="false"/><ISSPONSORSAVAILABLE value="true"/><ISTOOLSAVAILABLE
+     value="true"/><RESTRICTTOROLES value="false"/><FORCED_INTO_FRAME value="false"/></FLAGS></TAB><LAYOUTFAMILY
+    id="_112119_1"><FOOTERWIDTH value=""/><HEADERWIDTH value=""/><LAYOUTFAMILYTYPE
+     value="LAYOUT_2COL"/><FLAGS><ISCUSTOMIZABLE value="false"/></FLAGS><TABID
+    value="_112143_1"/></LAYOUTFAMILY><LAYOUTS><LAYOUT id="_275142_1"><CONTENTCOLUMN1 value="50"/><CONTENTCOLUMN2
+     value="50"/><CONTENTCOLUMN3 value="40"/><FLAGS><ISDEFAULT value="true"/></FLAGS><LAYOUTTYPE
+     value="DEFAULT_LAYOUT"/><LAYOUTFAMILYID value="_112119_1"/><LAYOUTUISTYLE value=""/><MENUCOLUMNWIDTH
+     value="150"/><MENUCOLUMNWIDTHTYPE value="PIXEL"/><USERID
+   value=""/></LAYOUT></LAYOUTS><MODULELAYOUTS/><REQUIREDMODS/></COURSEMODULEPAGE><COURSEMODULEPAGE><TAB
+    id="_112147_1"><COURSESEARCHLABEL value="MyInstitution.course_search_label"/><EXTREF value=""/><LINKSLABEL
+    value="Hot Links"/><INTERNALHANDLE value=""/><LABEL value="NIST Framework 1"/><SCOPE value="COURSE"/><TITLETYPE
+    value="LABEL"/><SEARCHLABEL value="Search The Web"/><SHORTNAME value=""/><SPONSORSLABEL value="Hot Spots"/><TYPE
+    value="MODULES"/><TOOLSLABEL value="Tools"/><URL value=""/><FLAGS><ALLOWDELETE value="true"/><ALLOWDISABLE
+     value="true"/><ISCOURSESEARCHAVAILABLE value="false"/><ISENABLED value="true"/><ISLINKSAVAILABLE
+     value="true"/><ISSEARCHAVAILABLE value="false"/><ISSPONSORSAVAILABLE value="true"/><ISTOOLSAVAILABLE
+     value="true"/><RESTRICTTOROLES value="false"/><FORCED_INTO_FRAME value="false"/></FLAGS></TAB><LAYOUTFAMILY
+    id="_112123_1"><FOOTERWIDTH value=""/><HEADERWIDTH value=""/><LAYOUTFAMILYTYPE
+     value="LAYOUT_2COL"/><FLAGS><ISCUSTOMIZABLE value="false"/></FLAGS><TABID
+    value="_112147_1"/></LAYOUTFAMILY><LAYOUTS><LAYOUT id="_275146_1"><CONTENTCOLUMN1 value="50"/><CONTENTCOLUMN2
+     value="50"/><CONTENTCOLUMN3 value="40"/><FLAGS><ISDEFAULT value="true"/></FLAGS><LAYOUTTYPE
+     value="DEFAULT_LAYOUT"/><LAYOUTFAMILYID value="_112123_1"/><LAYOUTUISTYLE value=""/><MENUCOLUMNWIDTH
+     value="150"/><MENUCOLUMNWIDTHTYPE value="PIXEL"/><USERID
+   value=""/></LAYOUT></LAYOUTS><MODULELAYOUTS/><REQUIREDMODS/></COURSEMODULEPAGE><COURSEMODULEPAGE><TAB
+    id="_129829_1"><COURSESEARCHLABEL value=""/><EXTREF value=""/><LINKSLABEL value=""/><INTERNALHANDLE value=""/><LABEL
+    value="Alternative Assessments - Not To Be Used"/><SCOPE value="COURSE"/><TITLETYPE value="LABEL"/><SEARCHLABEL
+    value=""/><SHORTNAME value=""/><SPONSORSLABEL value=""/><TYPE value="MODULES"/><TOOLSLABEL value=""/><URL
+     value=""/><FLAGS><ALLOWDELETE value="true"/><ALLOWDISABLE value="true"/><ISCOURSESEARCHAVAILABLE
+     value="false"/><ISENABLED value="true"/><ISLINKSAVAILABLE value="true"/><ISSEARCHAVAILABLE
+     value="false"/><ISSPONSORSAVAILABLE value="true"/><ISTOOLSAVAILABLE value="true"/><RESTRICTTOROLES
+     value="false"/><FORCED_INTO_FRAME value="false"/></FLAGS></TAB><LAYOUTFAMILY id="_129805_1"><FOOTERWIDTH
+    value=""/><HEADERWIDTH value=""/><LAYOUTFAMILYTYPE value="LAYOUT_2COL"/><FLAGS><ISCUSTOMIZABLE
+    value="false"/></FLAGS><TABID value="_129829_1"/></LAYOUTFAMILY><LAYOUTS><LAYOUT id="_312334_1"><CONTENTCOLUMN1
+     value="50"/><CONTENTCOLUMN2 value="50"/><CONTENTCOLUMN3 value="40"/><FLAGS><ISDEFAULT
+     value="true"/></FLAGS><LAYOUTTYPE value="DEFAULT_LAYOUT"/><LAYOUTFAMILYID value="_129805_1"/><LAYOUTUISTYLE
+     value=""/><MENUCOLUMNWIDTH value="150"/><MENUCOLUMNWIDTHTYPE value="PIXEL"/><USERID
+   value=""/></LAYOUT></LAYOUTS><MODULELAYOUTS/><REQUIREDMODS/></COURSEMODULEPAGE><COURSEMODULEPAGE><TAB
+    id="_112146_1"><COURSESEARCHLABEL value="MyInstitution.course_search_label"/><EXTREF value=""/><LINKSLABEL
+    value="Hot Links"/><INTERNALHANDLE value=""/><LABEL value="Submission and Documentation Instructions"/><SCOPE
+    value="COURSE"/><TITLETYPE value="LABEL"/><SEARCHLABEL value="Search The Web"/><SHORTNAME value=""/><SPONSORSLABEL
+    value="Hot Spots"/><TYPE value="MODULES"/><TOOLSLABEL value="Tools"/><URL value=""/><FLAGS><ALLOWDELETE
+     value="true"/><ALLOWDISABLE value="true"/><ISCOURSESEARCHAVAILABLE value="false"/><ISENABLED
+     value="true"/><ISLINKSAVAILABLE value="true"/><ISSEARCHAVAILABLE value="false"/><ISSPONSORSAVAILABLE
+     value="true"/><ISTOOLSAVAILABLE value="true"/><RESTRICTTOROLES value="false"/><FORCED_INTO_FRAME
+   value="false"/></FLAGS></TAB><LAYOUTFAMILY id="_112122_1"><FOOTERWIDTH value=""/><HEADERWIDTH
+    value=""/><LAYOUTFAMILYTYPE value="LAYOUT_2COL"/><FLAGS><ISCUSTOMIZABLE value="false"/></FLAGS><TABID
+    value="_112146_1"/></LAYOUTFAMILY><LAYOUTS><LAYOUT id="_275145_1"><CONTENTCOLUMN1 value="50"/><CONTENTCOLUMN2
+     value="50"/><CONTENTCOLUMN3 value="40"/><FLAGS><ISDEFAULT value="true"/></FLAGS><LAYOUTTYPE
+     value="DEFAULT_LAYOUT"/><LAYOUTFAMILYID value="_112122_1"/><LAYOUTUISTYLE value=""/><MENUCOLUMNWIDTH
+     value="150"/><MENUCOLUMNWIDTHTYPE value="PIXEL"/><USERID
+   value=""/></LAYOUT></LAYOUTS><MODULELAYOUTS/><REQUIREDMODS/></COURSEMODULEPAGE><COURSEMODULEPAGE><TAB
+    id="_112142_1"><COURSESEARCHLABEL value=""/><EXTREF value=""/><LINKSLABEL value=""/><INTERNALHANDLE value=""/><LABEL
+    value="How Much Should I Write?"/><SCOPE value="COURSE"/><TITLETYPE value="LABEL"/><SEARCHLABEL value=""/><SHORTNAME
+    value=""/><SPONSORSLABEL value=""/><TYPE value="MODULES"/><TOOLSLABEL value=""/><URL value=""/><FLAGS><ALLOWDELETE
+     value="true"/><ALLOWDISABLE value="true"/><ISCOURSESEARCHAVAILABLE value="false"/><ISENABLED
+     value="true"/><ISLINKSAVAILABLE value="true"/><ISSEARCHAVAILABLE value="false"/><ISSPONSORSAVAILABLE
+     value="true"/><ISTOOLSAVAILABLE value="true"/><RESTRICTTOROLES value="false"/><FORCED_INTO_FRAME
+   value="false"/></FLAGS></TAB><LAYOUTFAMILY id="_112118_1"><FOOTERWIDTH value=""/><HEADERWIDTH
+    value=""/><LAYOUTFAMILYTYPE value="LAYOUT_2COL"/><FLAGS><ISCUSTOMIZABLE value="false"/></FLAGS><TABID
+    value="_112142_1"/></LAYOUTFAMILY><LAYOUTS><LAYOUT id="_275141_1"><CONTENTCOLUMN1 value="50"/><CONTENTCOLUMN2
+     value="50"/><CONTENTCOLUMN3 value="40"/><FLAGS><ISDEFAULT value="true"/></FLAGS><LAYOUTTYPE
+     value="DEFAULT_LAYOUT"/><LAYOUTFAMILYID value="_112118_1"/><LAYOUTUISTYLE value=""/><MENUCOLUMNWIDTH
+     value="150"/><MENUCOLUMNWIDTHTYPE value="PIXEL"/><USERID
+    value=""/></LAYOUT></LAYOUTS><MODULELAYOUTS/><REQUIREDMODS/></COURSEMODULEPAGE><MODULEREFS><MODULE><id
+    value="_114_1"/><EXTREF value="bb/Professional Development Opportunities"/></MODULE><MODULE><id
+    value="_82_1"/><EXTREF value="bb/Ride Share"/></MODULE><MODULE><id value="_84_1"/><EXTREF
+    value="bb/Book Swap Meet"/></MODULE><MODULE><id value="_31_1"/><EXTREF value="portal/hotspot"/></MODULE><MODULE><id
+    value="_190_1"/><EXTREF value="190"/></MODULE><MODULE><id value="_191_1"/><EXTREF value="191"/></MODULE><MODULE><id
+    value="_193_1"/><EXTREF value="193"/></MODULE><MODULE><id value="_75_1"/><EXTREF
+    value="bb/Library"/></MODULE><MODULE><id value="_230_1"/><EXTREF value="230"/></MODULE><MODULE><id
+    value="_231_1"/><EXTREF value="231"/></MODULE><MODULE><id value="_20_1"/><EXTREF
+    value="platform/coursecreationwizard"/></MODULE><MODULE><id value="_232_1"/><EXTREF
+    value="232"/></MODULE><MODULE><id value="_233_1"/><EXTREF value="233"/></MODULE><MODULE><id value="_25_1"/><EXTREF
+    value="learning/coursetab-courses"/></MODULE><MODULE><id value="_4_1"/><EXTREF
+    value="learning/advancedcourses"/></MODULE><MODULE><id value="_35_1"/><EXTREF
+    value="portal/createdboard"/></MODULE><MODULE><id value="_83_1"/><EXTREF
+    value="bb/Job Listings"/></MODULE><MODULE><id value="_92_1"/><EXTREF
+    value="bb/Library Services"/></MODULE><MODULE><id value="_98_1"/><EXTREF
+    value="bb/Arts and Culture"/></MODULE><MODULE><id value="_21_1"/><EXTREF value="portal/locale"/></MODULE><MODULE><id
+    value="_93_1"/><EXTREF value="bb/Information Technology Services"/></MODULE><MODULE><id value="_102_1"/><EXTREF
+    value="bb/Student Spotlight"/></MODULE><MODULE><id value="_19_1"/><EXTREF
+    value="platform/reportcard"/></MODULE><MODULE><id value="_112_1"/><EXTREF value="bb/Bursar"/></MODULE><MODULE><id
+    value="_220_1"/><EXTREF value="bb/plugin.module.studentapp.title"/></MODULE><MODULE><id value="_3_1"/><EXTREF
+    value="learning/my-courses"/></MODULE><MODULE><id value="_492_1"/><EXTREF
+    value="bbgs/settingsRptFrmwrk.module.reportlist.title"/></MODULE><MODULE><id value="_64_1"/><EXTREF
+    value="platform/nautilus-whats-new"/></MODULE><MODULE><id value="_108_1"/><EXTREF
+    value="bb/Campus Bookstore"/></MODULE><MODULE><id value="_14_1"/><EXTREF value="portal/news"/></MODULE><MODULE><id
+    value="_121_1"/><EXTREF value="121"/></MODULE><MODULE><id value="_494_1"/><EXTREF
+    value="bb/ultraui.plugin.module.title"/></MODULE><MODULE><id value="_1_1"/><EXTREF
+    value="platform/my-announcements"/></MODULE><MODULE><id value="_55_1"/><EXTREF
+    value="portal/links/my_institution"/></MODULE><MODULE><id value="_110_1"/><EXTREF
+    value="bb/Alumni Affairs"/></MODULE><MODULE><id value="_199_1"/><EXTREF
+    value="cms/instcontent"/></MODULE><MODULE><id value="_128_1"/><EXTREF value="128"/></MODULE><MODULE><id
+    value="_203_1"/><EXTREF value="bbgs/course.materials.tool.name"/></MODULE><MODULE><id value="_7_1"/><EXTREF
+    value="platform/my-tasks"/></MODULE><MODULE><id value="_43_1"/><EXTREF
+    value="platform/admin-tools"/></MODULE><MODULE><id value="_36_1"/><EXTREF
+    value="platform/admin-ls"/></MODULE><MODULE><id value="_48_1"/><EXTREF
+    value="platform/licensefooter"/></MODULE><MODULE><id value="_44_1"/><EXTREF
+    value="platform/admin-help"/></MODULE><MODULE><id value="_196_1"/><EXTREF
+    value="cms/bookmarks"/></MODULE><MODULE><id value="_202_1"/><EXTREF value="cms/interfolio"/></MODULE><MODULE><id
+    value="_103_1"/><EXTREF value="bb/Summer School"/></MODULE><MODULE><id value="_63_1"/><EXTREF
+    value="portal/orgsearch"/></MODULE><MODULE><id value="_124_1"/><EXTREF
+    value="Bb/McGraw-Hill Create"/></MODULE><MODULE><id value="_86_1"/><EXTREF
+    value="bb/Athletics"/></MODULE><MODULE><id value="_100_1"/><EXTREF value="bb/Women's Center"/></MODULE><MODULE><id
+    value="_97_1"/><EXTREF value="bb/Parking"/></MODULE><MODULE><id value="_133_1"/><EXTREF
+    value="133"/></MODULE><MODULE><id value="_134_1"/><EXTREF value="134"/></MODULE><MODULE><id value="_135_1"/><EXTREF
+    value="135"/></MODULE><MODULE><id value="_138_1"/><EXTREF value="138"/></MODULE><MODULE><id value="_139_1"/><EXTREF
+    value="139"/></MODULE><MODULE><id value="_54_1"/><EXTREF value="portal/links/admin"/></MODULE><MODULE><id
+    value="_141_1"/><EXTREF value="bb/cc.plugin.module.title"/></MODULE><MODULE><id value="_34_1"/><EXTREF
+    value="community/createorg"/></MODULE><MODULE><id value="_59_1"/><EXTREF
+    value="portal/sponsors/my_institution"/></MODULE><MODULE><id value="_107_1"/><EXTREF
+    value="bb/Policies and Procedures"/></MODULE><MODULE><id value="_18_1"/><EXTREF
+    value="portal/login"/></MODULE><MODULE><id value="_89_1"/><EXTREF
+    value="bb/Volunteer Opportunities"/></MODULE><MODULE><id value="_32_1"/><EXTREF
+    value="community/org-catalog"/></MODULE><MODULE><id value="_80_1"/><EXTREF
+    value="bb/Honor Council"/></MODULE><MODULE><id value="_195_1"/><EXTREF value="cms/portfolio"/></MODULE><MODULE><id
+    value="_90_1"/><EXTREF value="bb/Human Resources"/></MODULE><MODULE><id value="_109_1"/><EXTREF
+    value="bb/Dining Services"/></MODULE><MODULE><id value="_201_1"/><EXTREF
+    value="community/cms-orgcontent"/></MODULE><MODULE><id value="_17_1"/><EXTREF
+    value="portal/thesaurus"/></MODULE><MODULE><id value="_140_1"/><EXTREF value="140"/></MODULE><MODULE><id
+    value="_62_1"/><EXTREF value="portal/coursesearch"/></MODULE><MODULE><id value="_88_1"/><EXTREF
+    value="bb/Student Health"/></MODULE><MODULE><id value="_143_1"/><EXTREF value="143"/></MODULE><MODULE><id
+    value="_144_1"/><EXTREF value="144"/></MODULE><MODULE><id value="_145_1"/><EXTREF value="145"/></MODULE><MODULE><id
+    value="_149_1"/><EXTREF value="149"/></MODULE><MODULE><id value="_194_1"/><EXTREF
+    value="cms/workflow"/></MODULE><MODULE><id value="_68_1"/><EXTREF
+    value="platform/nautilus-alerts"/></MODULE><MODULE><id value="_42_1"/><EXTREF
+    value="platform/admin-security"/></MODULE><MODULE><id value="_96_1"/><EXTREF
+    value="bb/Professor Spotlight"/></MODULE><MODULE><id value="_26_1"/><EXTREF
+    value="learning/course-catalog"/></MODULE><MODULE><id value="_197_1"/><EXTREF
+    value="cms/searchcontent"/></MODULE><MODULE><id value="_78_1"/><EXTREF
+    value="bb/Student Association"/></MODULE><MODULE><id value="_65_1"/><EXTREF
+    value="platform/nautilus-needs-attention"/></MODULE><MODULE><id value="_79_1"/><EXTREF
+    value="bb/IT Training Opportunties"/></MODULE><MODULE><id value="_52_1"/><EXTREF
+    value="portal/tools/my_institution"/></MODULE><MODULE><id value="_56_1"/><EXTREF
+    value="portal/links/courses"/></MODULE><MODULE><id value="_151_1"/><EXTREF value="151"/></MODULE><MODULE><id
+    value="_152_1"/><EXTREF value="152"/></MODULE><MODULE><id value="_153_1"/><EXTREF value="153"/></MODULE><MODULE><id
+    value="_76_1"/><EXTREF value="bb/School Newspaper"/></MODULE><MODULE><id value="_6_1"/><EXTREF
+    value="community/my-services"/></MODULE><MODULE><id value="_115_1"/><EXTREF value="bb/FAQ's"/></MODULE><MODULE><id
+    value="_74_1"/><EXTREF value="bb/Study Abroad"/></MODULE><MODULE><id value="_117_1"/><EXTREF
+    value="time/Time"/></MODULE><MODULE><id value="_57_1"/><EXTREF value="portal/links/community"/></MODULE><MODULE><id
+    value="_111_1"/><EXTREF value="bb/Registrar"/></MODULE><MODULE><id value="_61_1"/><EXTREF
+    value="portal/sponsors/community"/></MODULE><MODULE><id value="_95_1"/><EXTREF
+    value="bb/Financial Aid"/></MODULE><MODULE><id value="_104_1"/><EXTREF
+    value="bb/College Information "/></MODULE><MODULE><id value="_27_1"/><EXTREF
+    value="learning/group-properties"/></MODULE><MODULE><id value="_94_1"/><EXTREF
+    value="bb/Debate Society"/></MODULE><MODULE><id value="_91_1"/><EXTREF
+    value="bb/Faculty Senate"/></MODULE><MODULE><id value="_9_1"/><EXTREF
+    value="portal/student-info"/></MODULE><MODULE><id value="_101_1"/><EXTREF
+    value="bb/Staff Spotlight"/></MODULE><MODULE><id value="_123_1"/><EXTREF
+    value="bb/su.plugin.module.help.title"/></MODULE><MODULE><id value="_165_1"/><EXTREF
+    value="165"/></MODULE><MODULE><id value="_166_1"/><EXTREF value="166"/></MODULE><MODULE><id value="_30_1"/><EXTREF
+    value="platform/tutorial-catalog"/></MODULE><MODULE><id value="_562_1"/><EXTREF value="562"/></MODULE><MODULE><id
+    value="_167_1"/><EXTREF value="167"/></MODULE><MODULE><id value="_168_1"/><EXTREF value="168"/></MODULE><MODULE><id
+    value="_105_1"/><EXTREF value="bb/Faculty Research"/></MODULE><MODULE><id value="_169_1"/><EXTREF
+    value="169"/></MODULE><MODULE><id value="_66_1"/><EXTREF value="platform/nautilus-todo"/></MODULE><MODULE><id
+    value="_33_1"/><EXTREF value="learning/createcourse"/></MODULE><MODULE><id value="_39_1"/><EXTREF
+    value="platform/admin-orgs"/></MODULE><MODULE><id value="_99_1"/><EXTREF
+    value="bb/Career Center"/></MODULE><MODULE><id value="_204_1"/><EXTREF value="204"/></MODULE><MODULE><id
+    value="_205_1"/><EXTREF value="205"/></MODULE><MODULE><id value="_206_1"/><EXTREF value="206"/></MODULE><MODULE><id
+    value="_207_1"/><EXTREF value="207"/></MODULE><MODULE><id value="_73_1"/><EXTREF
+    value="bb/Cultural Events"/></MODULE><MODULE><id value="_208_1"/><EXTREF value="208"/></MODULE><MODULE><id
+    value="_209_1"/><EXTREF value="209"/></MODULE><MODULE><id value="_38_1"/><EXTREF
+    value="platform/admin-commsys"/></MODULE><MODULE><id value="_28_1"/><EXTREF
+    value="learning/group-tools"/></MODULE><MODULE><id value="_8_1"/><EXTREF
+    value="portal/textpad"/></MODULE><MODULE><id value="_60_1"/><EXTREF
+    value="portal/sponsors/courses"/></MODULE><MODULE><id value="_198_1"/><EXTREF
+    value="cms/mycontent"/></MODULE><MODULE><id value="_58_1"/><EXTREF
+    value="portal/sponsors/admin"/></MODULE><MODULE><id value="_41_1"/><EXTREF
+    value="platform/admin-b2"/></MODULE><MODULE><id value="_173_1"/><EXTREF value="173"/></MODULE><MODULE><id
+    value="_85_1"/><EXTREF value="bb/Local Housing"/></MODULE><MODULE><id value="_15_1"/><EXTREF
+    value="portal/bookmarks"/></MODULE><MODULE><id value="_106_1"/><EXTREF
+    value="bb/Privacy Policy"/></MODULE><MODULE><id value="_210_1"/><EXTREF value="210"/></MODULE><MODULE><id
+    value="_211_1"/><EXTREF value="211"/></MODULE><MODULE><id value="_575_1"/><EXTREF value="575"/></MODULE><MODULE><id
+    value="_214_1"/><EXTREF value="214"/></MODULE><MODULE><id value="_215_1"/><EXTREF value="215"/></MODULE><MODULE><id
+    value="_216_1"/><EXTREF value="216"/></MODULE><MODULE><id value="_24_1"/><EXTREF
+    value="portal/discussion"/></MODULE><MODULE><id value="_122_1"/><EXTREF
+    value="bb/su.plugin.name"/></MODULE><MODULE><id value="_217_1"/><EXTREF value="217"/></MODULE><MODULE><id
+    value="_172_1"/><EXTREF value="bbgs/plugin.coursemodule.title"/></MODULE><MODULE><id value="_218_1"/><EXTREF
+    value="218"/></MODULE><MODULE><id value="_219_1"/><EXTREF value="219"/></MODULE><MODULE><id value="_10_1"/><EXTREF
+    value="portal/faculty-info"/></MODULE><MODULE><id value="_540_1"/><EXTREF value="QW/Qwickly"/></MODULE><MODULE><id
+    value="_77_1"/><EXTREF value="bb/IT Help Desk"/></MODULE><MODULE><id value="_125_1"/><EXTREF
+    value="Bb/McGraw-Hill Connect"/></MODULE><MODULE><id value="_5_1"/><EXTREF
+    value="community/my-organizations"/></MODULE><MODULE><id value="_11_1"/><EXTREF
+    value="portal/staff-info"/></MODULE><MODULE><id value="_12_1"/><EXTREF value="portal/notes"/></MODULE><MODULE><id
+    value="_40_1"/><EXTREF value="platform/admin-users"/></MODULE><MODULE><id value="_50_1"/><EXTREF
+    value="portal/observer"/></MODULE><MODULE><id value="_37_1"/><EXTREF
+    value="platform/admin-contentsys"/></MODULE><MODULE><id value="_47_1"/><EXTREF
+    value="platform/licenseheader"/></MODULE><MODULE><id value="_29_1"/><EXTREF
+    value="learning/group-coursework"/></MODULE><MODULE><id value="_81_1"/><EXTREF
+    value="bb/Accessibility"/></MODULE><MODULE><id value="_113_1"/><EXTREF
+    value="bb/Featured Courses"/></MODULE><MODULE><id value="_16_1"/><EXTREF
+    value="portal/dictionary"/></MODULE><MODULE><id value="_126_1"/><EXTREF
+    value="Bb/McGraw-Hill Announcements"/></MODULE><MODULE><id value="_186_1"/><EXTREF value="186"/></MODULE><MODULE><id
+    value="_187_1"/><EXTREF value="187"/></MODULE><MODULE><id value="_221_1"/><EXTREF value="221"/></MODULE><MODULE><id
+    value="_87_1"/><EXTREF value="bb/Residence Life"/></MODULE><MODULE><id value="_222_1"/><EXTREF
+    value="222"/></MODULE><MODULE><id value="_223_1"/><EXTREF value="223"/></MODULE><MODULE><id value="_224_1"/><EXTREF
+    value="224"/></MODULE><MODULE><id value="_200_1"/><EXTREF value="cms/coursecontent"/></MODULE><MODULE><id
+    value="_226_1"/><EXTREF value="226"/></MODULE><MODULE><id value="_72_1"/><EXTREF
+    value="bb/Search the Web"/></MODULE><MODULE><id value="_227_1"/><EXTREF value="227"/></MODULE><MODULE><id
+    value="_228_1"/><EXTREF value="228"/></MODULE><MODULE><id value="_229_1"/><EXTREF value="229"/></MODULE><MODULE><id
+    value="_13_1"/><EXTREF value="portal/calculator"/></MODULE><MODULE><id value="_508_1"/><EXTREF value="508"/></MODULE></MODULEREFS></COURSEMODULEPAGES>

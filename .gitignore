@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# MkDocs output
+site/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large binary data
+*.pptx
+*.pdf
+*.docx
+*.jpg
+*.png
+*.mp4
+
+# Slidev
+dist/
+.slidev/

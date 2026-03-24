@@ -1,0 +1,66 @@
+{
+  "comment": "TAFE Pipeline Configuration — edit hosts and models here, not in scripts",
+
+  "bb_path": "/home/oolama/prgrobots/Cyber Security Essentials/BB Archive",
+  "course_name": "cyber-security-essentials",
+
+  "ollama_host": "http://localhost:11434",
+
+  "ollama_hosts": {
+    "generate": "http://100.118.186.109:11434",
+    "mermaid":  "http://100.118.186.109:11434",
+    "slides":   "http://localhost:11434",
+    "fast":     "http://100.118.186.109:11434",
+    "lap":      "http://100.118.186.109:11434",
+    "expand":   "http://100.118.186.109:11434",
+    "enhance":  "http://100.90.125.81:11434"
+  },
+
+  "models": {
+    "generate": "qwen2.5-coder:7b",
+    "mermaid":  "qwen2.5-coder:7b",
+    "slides":   "groq/llama-3.1-8b-instant",
+    "fast":     "groq/llama-3.1-8b-instant",
+    "lap":      "groq/llama-3.3-70b-versatile",
+    "expand":   "groq/llama-3.3-70b-versatile",
+    "enhance":  "groq/llama-3.3-70b-versatile"
+  },
+
+  "groq": {
+    "api_key": "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",
+    "models": {
+      "fast":    "llama-3.1-8b-instant",
+      "quality": "llama-3.3-70b-versatile"
+    },
+    "daily_token_budget": 100000,
+    "warn_at_percent": 80
+  },
+
+  "machines": {
+    "worker": {
+      "tailscale_ip": "100.118.186.109",
+      "local_ip": "192.168.20.51",
+      "ssh_user": "oolama",
+      "gpus": "2x GTX 1050 Ti 4GB"
+    },
+    "beast": {
+      "tailscale_hostname": "ollama-beast.tail8ca93d.ts.net",
+      "tailscale_ip": "100.90.125.81",
+      "ssh_user": "oolama",
+      "gpus": "3x GTX 980 4GB"
+    },
+    "asus": {
+      "tailscale_ip": "100.117.198.60",
+      "ssh_user": "murray",
+      "gpus": "RTX 3050 Ti 4GB"
+    }
+  },
+
+  "pipeline": {
+    "courses_dir": "/home/oolama/tafe-pipeline/courses",
+    "templates_dir": "/home/oolama/tafe-pipeline/templates",
+    "expand_word_threshold": 400,
+    "reformat_workers": 2,
+    "expand_workers": 3
+  }
+}

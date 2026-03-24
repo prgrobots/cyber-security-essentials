@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="man00001" xmlns:bb="http://www.blackboard.com/content-packaging/"><organizations
+   default="toc00001"><organization identifier="toc00001"><item identifier="itm00001"
+     identifierref="res00006"><title>Welcome</title><item identifier="itm00021"
+      identifierref="res00060"><title>--TOP--</title><item identifier="itm00022"
+      identifierref="res00061"><title>Introduction</title></item><item identifier="itm00023"
+      identifierref="res00062"><title>VU23217 Elements and Performance Criteria</title></item><item
+      identifier="itm00024" identifierref="res00063"><title>Learning and Assessment Plan</title></item><item
+      identifier="itm00025" identifierref="res00064"><title>Student Code of Conduct</title></item><item
+      identifier="itm00026" identifierref="res00065"><title>Help with using Blackboard</title></item><item
+      identifier="itm00027" identifierref="res00066"><title>North Metro TAFE Library</title></item><item
+      identifier="itm00028" identifierref="res00067"><title>Accessibility and Learning Support</title></item><item
+      identifier="itm00029" identifierref="res00068"><title>Unit Evaluation</title></item><item identifier="itm00030"
+      identifierref="res00069"><title>Note to instructors</title></item><item identifier="itm00031"
+    identifierref="res00070"><title>TryHackMe Evaluation</title></item></item></item><item identifier="itm00002"
+    identifierref="res00007"><title>divider_1519890288060</title></item><item identifier="itm00003"
+     identifierref="res00008"><title>Learning Materials</title><item identifier="itm00032"
+      identifierref="res00071"><title>--TOP--</title><item identifier="itm00033"
+      identifierref="res00072"><title>About this Section</title></item><item identifier="itm00034"
+       identifierref="res00073"><title>Session 1</title><item identifier="itm00056"
+       identifierref="res00095"><title>Week 1</title></item><item identifier="itm00085"
+      identifierref="res00124"><title>Presentation</title></item></item><item identifier="itm00035"
+       identifierref="res00074"><title>Session 2</title><item identifier="itm00055"
+       identifierref="res00094"><title>Session 2</title></item><item identifier="itm00079"
+       identifierref="res00118"><title>Presentation</title></item><item identifier="itm00092"
+      identifierref="res00131"><title>PART-ONE</title></item></item><item identifier="itm00036"
+       identifierref="res00075"><title>Session 3</title><item identifier="itm00057"
+       identifierref="res00096"><title>Session 3</title></item><item identifier="itm00078"
+      identifierref="res00117"><title>Chapter 3 Powerpoint  and Notes</title></item></item><item identifier="itm00037"
+       identifierref="res00076"><title>Session 4</title><item identifier="itm00058"
+       identifierref="res00097"><title>Session 4</title></item><item identifier="itm00081"
+       identifierref="res00120"><title>Session 4 Presentation and notes</title></item><item identifier="itm00090"
+      identifierref="res00129"><title>PART-TWO Essentials</title></item></item><item identifier="itm00038"
+       identifierref="res00077"><title>Session 5</title><item identifier="itm00054"
+       identifierref="res00093"><title>Session 5</title></item><item identifier="itm00074"
+       identifierref="res00113"><title>Presentation</title></item><item identifier="itm00091"
+      identifierref="res00130"><title>AT1: PART-THREE Essentials</title></item></item><item identifier="itm00039"
+       identifierref="res00078"><title>Session 6</title><item identifier="itm00059"
+       identifierref="res00098"><title>Session 6</title></item><item identifier="itm00075"
+      identifierref="res00114"><title>Presentation</title></item></item><item identifier="itm00040"
+       identifierref="res00079"><title>Session 7</title><item identifier="itm00060"
+       identifierref="res00099"><title>Session 7</title></item><item identifier="itm00076"
+       identifierref="res00115"><title>Presentation</title></item><item identifier="itm00087"
+      identifierref="res00126"><title>PART-FOUR Essentials</title></item></item><item identifier="itm00041"
+       identifierref="res00080"><title>Session 8</title><item identifier="itm00061"
+       identifierref="res00100"><title>Session 8</title></item><item identifier="itm00072"
+      identifierref="res00111"><title>Presentation</title></item></item><item identifier="itm00042"
+       identifierref="res00081"><title>Session 9</title><item identifier="itm00062"
+       identifierref="res00101"><title>Session 9</title></item><item identifier="itm00077"
+      identifierref="res00116"><title>Presentation</title></item></item><item identifier="itm00043"
+       identifierref="res00082"><title>Session 10</title><item identifier="itm00063"
+       identifierref="res00102"><title>Session 10</title></item><item identifier="itm00084"
+       identifierref="res00123"><title>Presentation</title></item><item identifier="itm00088"
+       identifierref="res00127"><title>Classroom task</title></item><item identifier="itm00093"
+       identifierref="res00132"><title>NIST Framework 2</title></item><item identifier="itm00094"
+      identifierref="res00133"><title>NIST Framework 1</title></item></item><item identifier="itm00044"
+       identifierref="res00083"><title>Session 11</title><item identifier="itm00064"
+       identifierref="res00103"><title>Session 11</title></item><item identifier="itm00080"
+       identifierref="res00119"><title>Presentation</title></item><item identifier="itm00089"
+      identifierref="res00128"><title>Review quiz</title></item></item><item identifier="itm00045"
+       identifierref="res00084"><title>Session 12</title><item identifier="itm00065"
+       identifierref="res00104"><title>Session 12</title></item><item identifier="itm00082"
+      identifierref="res00121"><title>Presentation</title></item></item><item identifier="itm00046"
+       identifierref="res00085"><title>Session 13</title><item identifier="itm00066"
+       identifierref="res00105"><title>Session 13</title></item><item identifier="itm00073"
+       identifierref="res00112"><title>NIST - Introduction</title></item><item identifier="itm00086"
+      identifierref="res00125"><title>Presentation</title></item></item><item identifier="itm00047"
+       identifierref="res00086"><title>Session 14</title><item identifier="itm00067"
+       identifierref="res00106"><title>Session 14</title></item><item identifier="itm00083"
+      identifierref="res00122"><title>Presentation</title></item></item><item identifier="itm00048"
+       identifierref="res00087"><title>Session 15</title><item identifier="itm00068"
+      identifierref="res00107"><title>Session 15</title></item></item><item identifier="itm00049"
+       identifierref="res00088"><title>Session 16</title><item identifier="itm00069"
+      identifierref="res00108"><title>Session</title></item></item><item identifier="itm00050"
+       identifierref="res00089"><title>Session 17</title><item identifier="itm00070"
+      identifierref="res00109"><title>Session</title></item></item><item identifier="itm00051"
+       identifierref="res00090"><title>Session 18</title><item identifier="itm00071"
+      identifierref="res00110"><title>Session</title></item></item><item identifier="itm00052"
+      identifierref="res00091"><title>Note to instructors</title></item><item identifier="itm00053"
+    identifierref="res00092"><title>Additional Materials</title></item></item></item><item identifier="itm00004"
+    identifierref="res00009"><title>divider_1519890288056</title></item><item identifier="itm00005"
+     identifierref="res00010"><title>Assessment</title><item identifier="itm00095"
+      identifierref="res00134"><title>--TOP--</title><item identifier="itm00096"
+      identifierref="res00135"><title>Note to instructors</title></item><item identifier="itm00097"
+      identifierref="res00136"><title>Assessment Overview</title></item><item identifier="itm00098"
+      identifierref="res00137"><title>How to submit your work</title></item><item identifier="itm00099"
+      identifierref="res00138"><title>Note to instructors</title></item><item identifier="itm00100"
+      identifierref="res00139"><title>How to submit your work</title></item><item identifier="itm00101"
+      identifierref="res00140"><title>Organisational Policies</title></item><item identifier="itm00102"
+       identifierref="res00141"><title>AT1 Portfolio of Observed Activities</title><item identifier="itm00107"
+       identifierref="res00146"><title>Submission and Documentation Instructions</title></item><item
+       identifier="itm00111" identifierref="res00150"><title>How Much Should I Write?</title></item><item
+       identifier="itm00113" identifierref="res00152"><title>PART-ONE Essentials</title></item><item
+       identifier="itm00115" identifierref="res00154"><title>PART-TWO Essentials</title></item><item
+       identifier="itm00116" identifierref="res00155"><title>PART-THREE Essentials</title></item><item
+       identifier="itm00117" identifierref="res00156"><title>PART-FOUR Essentials</title></item><item
+       identifier="itm00118" identifierref="res00157"><title>PART-FIVE Essentials</title></item></item><item
+      identifier="itm00103" identifierref="res00142"><title>AT2 Written knowledge assessment</title><item
+       identifier="itm00108" identifierref="res00147"><title>Assessment 2</title></item></item><item
+      identifier="itm00104" identifierref="res00143"><title>Alternative Assessments - Not To Be Used</title></item><item
+      identifier="itm00105" identifierref="res00144"><title>AT2 - Practical and Short Answers</title><item
+       identifier="itm00109"
+       identifierref="res00148"><title>Submission and Documentation Instructions</title></item><item
+       identifier="itm00110" identifierref="res00149"><title>How Much Should I Write?</title></item><item
+       identifier="itm00114"
+      identifierref="res00153"><title>Assessment 2 - Practical and Short Answers</title></item></item><item
+      identifier="itm00106" identifierref="res00145"><title>AT1 - Knowledge Questions</title><item identifier="itm00112"
+    identifierref="res00151"><title>Assessment 1</title></item></item></item></item><item identifier="itm00006"
+    identifierref="res00011"><title>My Grades</title></item><item identifier="itm00007"
+    identifierref="res00012"><title>divider_1463038120430</title></item><item identifier="itm00008"
+    identifierref="res00013"><title>Blackboard Collaborate</title></item><item identifier="itm00009"
+     identifierref="res00014"><title>Communication</title><item identifier="itm00119"
+      identifierref="res00158"><title>--TOP--</title><item identifier="itm00120"
+      identifierref="res00159"><title>Note to instructors</title></item><item identifier="itm00121"
+      identifierref="res00160"><title>Send Email</title></item><item identifier="itm00122"
+      identifierref="res00161"><title>Blackboard Collaborate Ultra</title></item><item identifier="itm00123"
+      identifierref="res00162"><title>Announcements</title></item><item identifier="itm00124"
+      identifierref="res00163"><title>Discussion Board</title></item><item identifier="itm00125"
+    identifierref="res00164"><title>Course Messages</title></item></item></item><item identifier="itm00010"
+    identifierref="res00015"><title>Staff Contacts</title></item><item
+     identifier="itm00011"><title>placeholder/staff-info</title><item identifier="itm00012"
+     identifierref="res00051"><title>- IT Lecturer - Lewis Rose</title></item><item identifier="itm00013"
+     identifierref="res00052"><title>- Head of Program/PL or other appropriate Contact - First Last</title></item><item
+     identifier="itm00014" identifierref="res00053"><title>Shell Co-ordinator Eric Dines</title></item><item
+     identifier="itm00015" identifierref="res00054"><title>Lecturer Matt Dockrell</title></item><item
+     identifier="itm00016" identifierref="res00055"><title>Lecturer Darran Price</title></item><item
+     identifier="itm00017" identifierref="res00056"><title>- Lecturer - Hong Fu</title></item><item
+     identifier="itm00018"
+     identifierref="res00057"><title>- Head of Programs - East Perth Campus - Matt Jolliffe</title></item><item
+     identifier="itm00019" identifierref="res00058"><title>Lecturer Brett Mitchell</title></item><item
+     identifier="itm00020"
+   identifierref="res00059"><title>Lecturer - Alexander Sarafian</title></item></item></organization></organizations><resources><resource
+   bb:file="res00001.dat" bb:title="Cluster - Security Essentials - 22603VIC" identifier="res00001"
+   type="course/x-bb-coursesetting" xml:base="res00001"><file href="/xid-42130631_1"/></resource><resource
+   bb:file="res00002.dat" bb:title="Terms" identifier="res00002" type="course/x-bb-terms" xml:base="res00002"/><resource
+   bb:file="res00003.dat" bb:title="Learning Standard Sub Document Associations" identifier="res00003"
+   type="course/x-bb-subdocassociation" xml:base="res00003"/><resource bb:file="res00004.dat"
+   bb:title="Course Application Settings" identifier="res00004" type="course/x-bb-courseappsetting"
+   xml:base="res00004"/><resource bb:file="res00005.dat" bb:title="Course Navigation Settings" identifier="res00005"
+   type="course/x-bb-coursenavsetting" xml:base="res00005"/><resource bb:file="res00006.dat" bb:title="Welcome"
+   identifier="res00006" type="course/x-bb-coursetoc" xml:base="res00006"/><resource bb:file="res00007.dat"
+   bb:title="divider_1519890288060" identifier="res00007" type="course/x-bb-coursetoc" xml:base="res00007"/><resource
+   bb:file="res00008.dat" bb:title="Learning Materials" identifier="res00008" type="course/x-bb-coursetoc"
+   xml:base="res00008"/><resource bb:file="res00009.dat" bb:title="divider_1519890288056" identifier="res00009"
+   type="course/x-bb-coursetoc" xml:base="res00009"/><resource bb:file="res00010.dat" bb:title="Assessment"
+   identifier="res00010" type="course/x-bb-coursetoc" xml:base="res00010"/><resource bb:file="res00011.dat"
+   bb:title="My Grades" identifier="res00011" type="course/x-bb-coursetoc" xml:base="res00011"/><resource
+   bb:file="res00012.dat" bb:title="divider_1463038120430" identifier="res00012" type="course/x-bb-coursetoc"
+   xml:base="res00012"/><resource bb:file="res00013.dat" bb:title="Blackboard Collaborate" identifier="res00013"
+   type="course/x-bb-coursetoc" xml:base="res00013"/><resource bb:file="res00014.dat" bb:title="Communication"
+   identifier="res00014" type="course/x-bb-coursetoc" xml:base="res00014"/><resource bb:file="res00015.dat"
+   bb:title="Staff Contacts" identifier="res00015" type="course/x-bb-coursetoc" xml:base="res00015"/><resource
+   bb:file="res00016.dat" bb:title="Content Handler Data" identifier="res00016" type="course/x-bb-contenthandler"
+   xml:base="res00016"/><resource bb:file="res00017.dat" bb:title="Users" identifier="res00017" type="course/x-bb-user"
+   xml:base="res00017"/><resource bb:file="res00018.dat" bb:title="Course Memberships" identifier="res00018"
+   type="membership/x-bb-coursemembership" xml:base="res00018"/><resource bb:file="res00019.dat" bb:title="Groups"
+   identifier="res00019" type="course/x-bb-group" xml:base="res00019"/><resource bb:file="res00020.dat"
+   bb:title="Group Memberships" identifier="res00020" type="membership/x-bb-groupmembership"
+   xml:base="res00020"/><resource bb:file="res00021.dat" bb:title="Available Group Tools" identifier="res00021"
+   type="course/x-bb-availgrouptool" xml:base="res00021"/><resource bb:file="res00022.dat"
+   bb:title="2026-S1-Brett-Wed-8:30" identifier="res00022" type="resource/x-bb-blog" xml:base="res00022"/><resource
+   bb:file="res00023.dat" bb:title="Joon CIV Cyber Combo Stg2 – GrpA" identifier="res00023" type="resource/x-bb-blog"
+   xml:base="res00023"/><resource bb:file="res00024.dat" bb:title="Joon CIV Cyber Stg2 – GrpB" identifier="res00024"
+   type="resource/x-bb-blog" xml:base="res00024"/><resource bb:file="res00025.dat" bb:title="Joon CIV Cyber Stg2 – GrpC"
+   identifier="res00025" type="resource/x-bb-blog" xml:base="res00025"/><resource bb:file="res00026.dat"
+   bb:title="2026-S1-Brett-Wed-8:30" identifier="res00026" type="resource/x-bb-blog" xml:base="res00026"/><resource
+   bb:file="res00027.dat" bb:title="Joon CIV Cyber Combo Stg2 – GrpA" identifier="res00027" type="resource/x-bb-blog"
+   xml:base="res00027"/><resource bb:file="res00028.dat" bb:title="Joon CIV Cyber Stg2 – GrpB" identifier="res00028"
+   type="resource/x-bb-blog" xml:base="res00028"/><resource bb:file="res00029.dat" bb:title="Joon CIV Cyber Stg2 – GrpC"
+   identifier="res00029" type="resource/x-bb-blog" xml:base="res00029"/><resource bb:file="res00030.dat"
+   bb:title="Assessment 2" identifier="res00030" type="assessment/x-bb-qti-test" xml:base="res00030"/><resource
+   bb:file="res00031.dat" bb:title="Assessment 2" identifier="res00031" type="assessment/x-bb-qti-test"
+   xml:base="res00031"/><resource bb:file="res00032.dat" bb:title="Unit Evaluation" identifier="res00032"
+   type="assessment/x-bb-qti-survey" xml:base="res00032"/><resource bb:file="res00033.dat" bb:title="Unit Evaluation"
+   identifier="res00033" type="assessment/x-bb-qti-survey" xml:base="res00033"/><resource bb:file="res00034.dat"
+   bb:title="Assessment Creation Settings" identifier="res00034" type="course/x-bb-courseassessmentcreationsettings"
+   xml:base="res00034"/><resource bb:file="res00035.dat" bb:title="No class tonight 26 September 2024"
+   identifier="res00035" type="resource/x-bb-announcement" xml:base="res00035"/><resource bb:file="res00036.dat"
+   bb:title="Conferences" identifier="res00036" type="resource/x-bb-conference" xml:base="res00036"/><resource
+   bb:file="res00037.dat" bb:title="Joon CIV Cyber Combo Stg2 – GrpA" identifier="res00037"
+   type="resource/x-bb-discussionboard" xml:base="res00037"/><resource bb:file="res00038.dat"
+   bb:title="2026-S1-Brett-Wed-8:30" identifier="res00038" type="resource/x-bb-discussionboard"
+   xml:base="res00038"/><resource bb:file="res00039.dat" bb:title="Joon CIV Cyber Stg2 – GrpC" identifier="res00039"
+   type="resource/x-bb-discussionboard" xml:base="res00039"/><resource bb:file="res00040.dat"
+   bb:title="Joon CIV Cyber Stg2 – GrpB" identifier="res00040" type="resource/x-bb-discussionboard"
+   xml:base="res00040"/><resource bb:file="res00041.dat" bb:title="Week 3 - Threat Analysis and risk management"
+   identifier="res00041" type="resource/x-bb-discussionboard" xml:base="res00041"><file
+   href="_333625_1/Threat Analysis.xlsx"/></resource><resource bb:file="res00042.dat" bb:title="week 8 security testing"
+   identifier="res00042" type="resource/x-bb-discussionboard" xml:base="res00042"><file
+   href="_337841_1/Nmap exercise v1.0.docx"/></resource><resource bb:file="res00043.dat"
+   bb:title="Week 9 Protecting your data" identifier="res00043" type="resource/x-bb-discussionboard"
+    xml:base="res00043"><file href="_339116_1/How to exploit Etherblue vulnerability using Metasploit .docx"/><file
+   href="_339117_1/How to exploit NetAPI vulnerability using Metasploit v1.0.docx"/></resource><resource
+   bb:file="res00044.dat" bb:title="Week 10 AT2 project" identifier="res00044" type="resource/x-bb-discussionboard"
+    xml:base="res00044"><file href="_339651_1/AT2 practical labs.pdf"/><file
+    href="_339652_1/VU23217 AT2 - Practical and Short Answers-NMTAFE(2) (2).docx"/><file
+   href="_339653_1/AcmeIT Password Policy.docx"/></resource><resource bb:file="res00045.dat"
+   bb:title="week 1 VMware download" identifier="res00045" type="resource/x-bb-discussionboard"
+   xml:base="res00045"/><resource bb:file="res00046.dat" bb:title="Week 1  Free Windows 10 / 11" identifier="res00046"
+   type="resource/x-bb-discussionboard" xml:base="res00046"/><resource bb:file="res00047.dat"
+   bb:title="Week 4 Threat Analysis - Reconnaissance" identifier="res00047" type="resource/x-bb-discussionboard"
+    xml:base="res00047"><file href="_349148_1/Nmap exercise v1.0.docx"/><file
+   href="_349149_1/2024-dbir-data-breach-investigations-report.pdf"/></resource><resource bb:file="res00048.dat"
+   bb:title="Week 5 Data Privacy" identifier="res00048" type="resource/x-bb-discussionboard" xml:base="res00048"><file
+    href="_350036_1/Lab 1 rainbow attack in Kali or Parrot OS.pdf"/><file
+   href="_350107_1/Identity Assessment Management .pdf"/></resource><resource bb:file="res00049.dat"
+   bb:title="Week 6 - Protect Personal Data and Privacy" identifier="res00049" type="resource/x-bb-discussionboard"
+    xml:base="res00049"><file href="_350949_1/Lab 1.docx"/></resource><resource bb:file="res00050.dat"
+   bb:title="User Message State" identifier="res00050" type="discussionboard/x-bb-usermsgstate"
+   xml:base="res00050"/><resource bb:file="res00051.dat" bb:title="- IT Lecturer - Lewis Rose" identifier="res00051"
+   type="resource/x-bb-staffinfo" xml:base="res00051"/><resource bb:file="res00052.dat"
+   bb:title="- Head of Program/PL or other appropriate Contact - First Last" identifier="res00052"
+   type="resource/x-bb-staffinfo" xml:base="res00052"/><resource bb:file="res00053.dat"
+   bb:title="Shell Co-ordinator Eric Dines" identifier="res00053" type="resource/x-bb-staffinfo"
+    xml:base="res00053"><file href="/xid-43345174_1"/></resource><resource bb:file="res00054.dat"
+   bb:title="Lecturer Matt Dockrell" identifier="res00054" type="resource/x-bb-staffinfo" xml:base="res00054"/><resource
+   bb:file="res00055.dat" bb:title="Lecturer Darran Price" identifier="res00055" type="resource/x-bb-staffinfo"
+   xml:base="res00055"/><resource bb:file="res00056.dat" bb:title="- Lecturer - Hong Fu" identifier="res00056"
+   type="resource/x-bb-staffinfo" xml:base="res00056"/><resource bb:file="res00057.dat"
+   bb:title="- Head of Programs - East Perth Campus - Matt Jolliffe" identifier="res00057"
+   type="resource/x-bb-staffinfo" xml:base="res00057"/><resource bb:file="res00058.dat"
+   bb:title="Lecturer Brett Mitchell" identifier="res00058" type="resource/x-bb-staffinfo"
+   xml:base="res00058"/><resource bb:file="res00059.dat" bb:title="Lecturer - Alexander Sarafian" identifier="res00059"
+   type="resource/x-bb-staffinfo" xml:base="res00059"/><resource bb:file="res00060.dat" bb:title="--TOP--"
+   identifier="res00060" type="resource/x-bb-document" xml:base="res00060"/><resource bb:file="res00061.dat"
+   bb:title="Introduction" identifier="res00061" type="resource/x-bb-document" xml:base="res00061"/><resource
+   bb:file="res00062.dat" bb:title="VU23217 Elements and Performance Criteria" identifier="res00062"
+   type="resource/x-bb-document" xml:base="res00062"/><resource bb:file="res00063.dat"
+   bb:title="Learning and Assessment Plan" identifier="res00063" type="resource/x-bb-document"
+   xml:base="res00063"/><resource bb:file="res00064.dat" bb:title="Student Code of Conduct" identifier="res00064"
+   type="resource/x-bb-document" xml:base="res00064"/><resource bb:file="res00065.dat"
+   bb:title="Help with using Blackboard" identifier="res00065" type="resource/x-bb-document"
+   xml:base="res00065"/><resource bb:file="res00066.dat" bb:title="North Metro TAFE Library" identifier="res00066"
+   type="resource/x-bb-document" xml:base="res00066"/><resource bb:file="res00067.dat"
+   bb:title="Accessibility and Learning Support" identifier="res00067" type="resource/x-bb-document"
+   xml:base="res00067"/><resource bb:file="res00068.dat" bb:title="Unit Evaluation" identifier="res00068"
+   type="resource/x-bb-document" xml:base="res00068"/><resource bb:file="res00069.dat" bb:title="Note to instructors"
+   identifier="res00069" type="resource/x-bb-document" xml:base="res00069"/><resource bb:file="res00070.dat"
+   bb:title="TryHackMe Evaluation" identifier="res00070" type="resource/x-bb-document" xml:base="res00070"/><resource
+   bb:file="res00071.dat" bb:title="--TOP--" identifier="res00071" type="resource/x-bb-document"
+   xml:base="res00071"/><resource bb:file="res00072.dat" bb:title="About this Section" identifier="res00072"
+   type="resource/x-bb-document" xml:base="res00072"/><resource bb:file="res00073.dat" bb:title="Session 1"
+   identifier="res00073" type="resource/x-bb-document" xml:base="res00073"/><resource bb:file="res00074.dat"
+   bb:title="Session 2" identifier="res00074" type="resource/x-bb-document" xml:base="res00074"/><resource
+   bb:file="res00075.dat" bb:title="Session 3" identifier="res00075" type="resource/x-bb-document"
+   xml:base="res00075"/><resource bb:file="res00076.dat" bb:title="Session 4" identifier="res00076"
+   type="resource/x-bb-document" xml:base="res00076"/><resource bb:file="res00077.dat" bb:title="Session 5"
+   identifier="res00077" type="resource/x-bb-document" xml:base="res00077"/><resource bb:file="res00078.dat"
+   bb:title="Session 6" identifier="res00078" type="resource/x-bb-document" xml:base="res00078"/><resource
+   bb:file="res00079.dat" bb:title="Session 7" identifier="res00079" type="resource/x-bb-document"
+   xml:base="res00079"/><resource bb:file="res00080.dat" bb:title="Session 8" identifier="res00080"
+   type="resource/x-bb-document" xml:base="res00080"/><resource bb:file="res00081.dat" bb:title="Session 9"
+   identifier="res00081" type="resource/x-bb-document" xml:base="res00081"/><resource bb:file="res00082.dat"
+   bb:title="Session 10" identifier="res00082" type="resource/x-bb-document" xml:base="res00082"/><resource
+   bb:file="res00083.dat" bb:title="Session 11" identifier="res00083" type="resource/x-bb-document"
+   xml:base="res00083"/><resource bb:file="res00084.dat" bb:title="Session 12" identifier="res00084"
+   type="resource/x-bb-document" xml:base="res00084"/><resource bb:file="res00085.dat" bb:title="Session 13"
+   identifier="res00085" type="resource/x-bb-document" xml:base="res00085"/><resource bb:file="res00086.dat"
+   bb:title="Session 14" identifier="res00086" type="resource/x-bb-document" xml:base="res00086"/><resource
+   bb:file="res00087.dat" bb:title="Session 15" identifier="res00087" type="resource/x-bb-document"
+   xml:base="res00087"/><resource bb:file="res00088.dat" bb:title="Session 16" identifier="res00088"
+   type="resource/x-bb-document" xml:base="res00088"/><resource bb:file="res00089.dat" bb:title="Session 17"
+   identifier="res00089" type="resource/x-bb-document" xml:base="res00089"/><resource bb:file="res00090.dat"
+   bb:title="Session 18" identifier="res00090" type="resource/x-bb-document" xml:base="res00090"/><resource
+   bb:file="res00091.dat" bb:title="Note to instructors" identifier="res00091" type="resource/x-bb-document"
+   xml:base="res00091"/><resource bb:file="res00092.dat" bb:title="Additional Materials" identifier="res00092"
+   type="resource/x-bb-document" xml:base="res00092"/><resource bb:file="res00093.dat" bb:title="Session 5"
+   identifier="res00093" type="resource/x-bb-document" xml:base="res00093"/><resource bb:file="res00094.dat"
+   bb:title="Session 2" identifier="res00094" type="resource/x-bb-document" xml:base="res00094"/><resource
+   bb:file="res00095.dat" bb:title="Week 1" identifier="res00095" type="resource/x-bb-document"
+   xml:base="res00095"/><resource bb:file="res00096.dat" bb:title="Session 3" identifier="res00096"
+   type="resource/x-bb-document" xml:base="res00096"><file href="embedded/ZeroDay2.jfif"/></resource><resource
+   bb:file="res00097.dat" bb:title="Session 4" identifier="res00097" type="resource/x-bb-document"
+    xml:base="res00097"><file href="embedded/Combank-scam.png"/></resource><resource bb:file="res00098.dat"
+   bb:title="Session 6" identifier="res00098" type="resource/x-bb-document" xml:base="res00098"/><resource
+   bb:file="res00099.dat" bb:title="Session 7" identifier="res00099" type="resource/x-bb-document"
+    xml:base="res00099"><file href="embedded/WindowsAppleAndroidLinux.webp"/><file
+   href="embedded/WindowsAppleAndroidLinux.png"/></resource><resource bb:file="res00100.dat" bb:title="Session 8"
+   identifier="res00100" type="resource/x-bb-document" xml:base="res00100"><file
+    href="embedded/WindowsAppleAndroidLinux.webp"/><file href="embedded/WindowsAppleAndroidLinux.png"/><file
+   href="embedded/BLOG-What-is-the-MITRE-ATTCK-Framework-inpage-01.webp"/></resource><resource bb:file="res00101.dat"
+   bb:title="Session 9" identifier="res00101" type="resource/x-bb-document" xml:base="res00101"><file
+    href="embedded/WindowsAppleAndroidLinux.webp"/><file
+   href="embedded/WindowsAppleAndroidLinux.png"/></resource><resource bb:file="res00102.dat" bb:title="Session 10"
+   identifier="res00102" type="resource/x-bb-document" xml:base="res00102"><file
+    href="embedded/WindowsAppleAndroidLinux.webp"/><file
+   href="embedded/WindowsAppleAndroidLinux.png"/></resource><resource bb:file="res00103.dat" bb:title="Session 11"
+   identifier="res00103" type="resource/x-bb-document" xml:base="res00103"><file
+    href="embedded/WindowsAppleAndroidLinux.webp"/><file
+   href="embedded/WindowsAppleAndroidLinux.png"/></resource><resource bb:file="res00104.dat" bb:title="Session 12"
+   identifier="res00104" type="resource/x-bb-document" xml:base="res00104"><file
+    href="embedded/WindowsAppleAndroidLinux.webp"/><file
+   href="embedded/WindowsAppleAndroidLinux.png"/></resource><resource bb:file="res00105.dat" bb:title="Session 13"
+   identifier="res00105" type="resource/x-bb-document" xml:base="res00105"><file
+    href="embedded/WindowsAppleAndroidLinux.webp"/><file
+   href="embedded/WindowsAppleAndroidLinux.png"/></resource><resource bb:file="res00106.dat" bb:title="Session 14"
+   identifier="res00106" type="resource/x-bb-document" xml:base="res00106"><file
+    href="embedded/WindowsAppleAndroidLinux.webp"/><file
+   href="embedded/WindowsAppleAndroidLinux.png"/></resource><resource bb:file="res00107.dat" bb:title="Session 15"
+   identifier="res00107" type="resource/x-bb-document" xml:base="res00107"><file
+    href="embedded/WindowsAppleAndroidLinux.webp"/><file
+   href="embedded/WindowsAppleAndroidLinux.png"/></resource><resource bb:file="res00108.dat" bb:title="Session"
+   identifier="res00108" type="resource/x-bb-document" xml:base="res00108"><file
+    href="embedded/WindowsAppleAndroidLinux.webp"/><file
+   href="embedded/WindowsAppleAndroidLinux.png"/></resource><resource bb:file="res00109.dat" bb:title="Session"
+   identifier="res00109" type="resource/x-bb-document" xml:base="res00109"><file
+    href="embedded/WindowsAppleAndroidLinux.webp"/><file
+   href="embedded/WindowsAppleAndroidLinux.png"/></resource><resource bb:file="res00110.dat" bb:title="Session"
+   identifier="res00110" type="resource/x-bb-document" xml:base="res00110"><file
+    href="embedded/WindowsAppleAndroidLinux.webp"/><file
+   href="embedded/WindowsAppleAndroidLinux.png"/></resource><resource bb:file="res00111.dat" bb:title="Presentation"
+   identifier="res00111" type="resource/x-bb-document" xml:base="res00111"/><resource bb:file="res00112.dat"
+   bb:title="NIST - Introduction" identifier="res00112" type="resource/x-bb-document" xml:base="res00112"/><resource
+   bb:file="res00113.dat" bb:title="Presentation" identifier="res00113" type="resource/x-bb-document"
+   xml:base="res00113"/><resource bb:file="res00114.dat" bb:title="Presentation" identifier="res00114"
+   type="resource/x-bb-document" xml:base="res00114"/><resource bb:file="res00115.dat" bb:title="Presentation"
+   identifier="res00115" type="resource/x-bb-document" xml:base="res00115"/><resource bb:file="res00116.dat"
+   bb:title="Presentation" identifier="res00116" type="resource/x-bb-document" xml:base="res00116"/><resource
+   bb:file="res00117.dat" bb:title="Chapter 3 Powerpoint  and Notes" identifier="res00117" type="resource/x-bb-document"
+   xml:base="res00117"/><resource bb:file="res00118.dat" bb:title="Presentation" identifier="res00118"
+   type="resource/x-bb-document" xml:base="res00118"/><resource bb:file="res00119.dat" bb:title="Presentation"
+   identifier="res00119" type="resource/x-bb-document" xml:base="res00119"/><resource bb:file="res00120.dat"
+   bb:title="Session 4 Presentation and notes" identifier="res00120" type="resource/x-bb-document"
+   xml:base="res00120"/><resource bb:file="res00121.dat" bb:title="Presentation" identifier="res00121"
+   type="resource/x-bb-document" xml:base="res00121"/><resource bb:file="res00122.dat" bb:title="Presentation"
+   identifier="res00122" type="resource/x-bb-document" xml:base="res00122"/><resource bb:file="res00123.dat"
+   bb:title="Presentation" identifier="res00123" type="resource/x-bb-document" xml:base="res00123"/><resource
+   bb:file="res00124.dat" bb:title="Presentation" identifier="res00124" type="resource/x-bb-document"
+   xml:base="res00124"/><resource bb:file="res00125.dat" bb:title="Presentation" identifier="res00125"
+   type="resource/x-bb-document" xml:base="res00125"/><resource bb:file="res00126.dat" bb:title="PART-FOUR Essentials"
+   identifier="res00126" type="resource/x-bb-document" xml:base="res00126"/><resource bb:file="res00127.dat"
+   bb:title="Classroom task" identifier="res00127" type="resource/x-bb-document" xml:base="res00127"/><resource
+   bb:file="res00128.dat" bb:title="Review quiz" identifier="res00128" type="resource/x-bb-document"
+   xml:base="res00128"/><resource bb:file="res00129.dat" bb:title="PART-TWO Essentials" identifier="res00129"
+   type="resource/x-bb-document" xml:base="res00129"/><resource bb:file="res00130.dat"
+   bb:title="AT1: PART-THREE Essentials" identifier="res00130" type="resource/x-bb-document"
+   xml:base="res00130"/><resource bb:file="res00131.dat" bb:title="PART-ONE" identifier="res00131"
+   type="resource/x-bb-document" xml:base="res00131"/><resource bb:file="res00132.dat" bb:title="NIST Framework 2"
+   identifier="res00132" type="resource/x-bb-document" xml:base="res00132"/><resource bb:file="res00133.dat"
+   bb:title="NIST Framework 1" identifier="res00133" type="resource/x-bb-document" xml:base="res00133"/><resource
+   bb:file="res00134.dat" bb:title="--TOP--" identifier="res00134" type="resource/x-bb-document"
+   xml:base="res00134"/><resource bb:file="res00135.dat" bb:title="Note to instructors" identifier="res00135"
+   type="resource/x-bb-document" xml:base="res00135"/><resource bb:file="res00136.dat" bb:title="Assessment Overview"
+   identifier="res00136" type="resource/x-bb-document" xml:base="res00136"/><resource bb:file="res00137.dat"
+   bb:title="How to submit your work" identifier="res00137" type="resource/x-bb-document" xml:base="res00137"/><resource
+   bb:file="res00138.dat" bb:title="Note to instructors" identifier="res00138" type="resource/x-bb-document"
+   xml:base="res00138"/><resource bb:file="res00139.dat" bb:title="How to submit your work" identifier="res00139"
+   type="resource/x-bb-document" xml:base="res00139"/><resource bb:file="res00140.dat"
+   bb:title="Organisational Policies" identifier="res00140" type="resource/x-bb-document" xml:base="res00140"/><resource
+   bb:file="res00141.dat" bb:title="AT1 Portfolio of Observed Activities" identifier="res00141"
+   type="resource/x-bb-document" xml:base="res00141"/><resource bb:file="res00142.dat"
+   bb:title="AT2 Written knowledge assessment" identifier="res00142" type="resource/x-bb-document"
+   xml:base="res00142"/><resource bb:file="res00143.dat" bb:title="Alternative Assessments - Not To Be Used"
+   identifier="res00143" type="resource/x-bb-document" xml:base="res00143"/><resource bb:file="res00144.dat"
+   bb:title="AT2 - Practical and Short Answers" identifier="res00144" type="resource/x-bb-document"
+   xml:base="res00144"/><resource bb:file="res00145.dat" bb:title="AT1 - Knowledge Questions" identifier="res00145"
+   type="resource/x-bb-document" xml:base="res00145"/><resource bb:file="res00146.dat"
+   bb:title="Submission and Documentation Instructions" identifier="res00146" type="resource/x-bb-document"
+   xml:base="res00146"/><resource bb:file="res00147.dat" bb:title="Assessment 2" identifier="res00147"
+   type="resource/x-bb-document" xml:base="res00147"/><resource bb:file="res00148.dat"
+   bb:title="Submission and Documentation Instructions" identifier="res00148" type="resource/x-bb-document"
+   xml:base="res00148"/><resource bb:file="res00149.dat" bb:title="How Much Should I Write?" identifier="res00149"
+   type="resource/x-bb-document" xml:base="res00149"/><resource bb:file="res00150.dat"
+   bb:title="How Much Should I Write?" identifier="res00150" type="resource/x-bb-document"
+   xml:base="res00150"/><resource bb:file="res00151.dat" bb:title="Assessment 1" identifier="res00151"
+   type="resource/x-bb-document" xml:base="res00151"/><resource bb:file="res00152.dat" bb:title="PART-ONE Essentials"
+   identifier="res00152" type="resource/x-bb-document" xml:base="res00152"/><resource bb:file="res00153.dat"
+   bb:title="Assessment 2 - Practical and Short Answers" identifier="res00153" type="resource/x-bb-document"
+   xml:base="res00153"/><resource bb:file="res00154.dat" bb:title="PART-TWO Essentials" identifier="res00154"
+   type="resource/x-bb-document" xml:base="res00154"/><resource bb:file="res00155.dat" bb:title="PART-THREE Essentials"
+   identifier="res00155" type="resource/x-bb-document" xml:base="res00155"/><resource bb:file="res00156.dat"
+   bb:title="PART-FOUR Essentials" identifier="res00156" type="resource/x-bb-document" xml:base="res00156"/><resource
+   bb:file="res00157.dat" bb:title="PART-FIVE Essentials" identifier="res00157" type="resource/x-bb-document"
+   xml:base="res00157"/><resource bb:file="res00158.dat" bb:title="--TOP--" identifier="res00158"
+   type="resource/x-bb-document" xml:base="res00158"/><resource bb:file="res00159.dat" bb:title="Note to instructors"
+   identifier="res00159" type="resource/x-bb-document" xml:base="res00159"/><resource bb:file="res00160.dat"
+   bb:title="Send Email" identifier="res00160" type="resource/x-bb-document" xml:base="res00160"/><resource
+   bb:file="res00161.dat" bb:title="Blackboard Collaborate Ultra" identifier="res00161" type="resource/x-bb-document"
+   xml:base="res00161"/><resource bb:file="res00162.dat" bb:title="Announcements" identifier="res00162"
+   type="resource/x-bb-document" xml:base="res00162"/><resource bb:file="res00163.dat" bb:title="Discussion Board"
+   identifier="res00163" type="resource/x-bb-document" xml:base="res00163"/><resource bb:file="res00164.dat"
+   bb:title="Course Messages" identifier="res00164" type="resource/x-bb-document" xml:base="res00164"/><resource
+   bb:file="res00165.dat" bb:title="Course Module Pages" identifier="res00165" type="course/x-bb-coursemodulepages"
+   xml:base="res00165"/><resource bb:file="res00166.dat" bb:title="Assessment Attempts" identifier="res00166"
+   type="assessment/x-bb-qti-attempt" xml:base="res00166"><file href="_53693057_1"/></resource><resource
+   bb:file="res00167.dat" bb:title="Assessment Attempts" identifier="res00167" type="assessment/x-bb-qti-attempt"
+    xml:base="res00167"><file href="_59077704_1"/><file href="_59234595_1"/></resource><resource bb:file="res00168.dat"
+   bb:title="LearnRubrics" identifier="res00168" type="course/x-bb-rubrics" xml:base="res00168"/><resource
+   bb:file="res00169.dat" bb:title="Gradebook" identifier="res00169" type="course/x-bb-gradebook"
+   xml:base="res00169"/><resource bb:file="res00170.dat" bb:title="Attempt Receipts" identifier="res00170"
+   type="course/x-bb-attemptreceipts" xml:base="res00170"/><resource bb:file="res00171.dat" bb:title="Course Assessment"
+   identifier="res00171" type="course/x-bb-courseassessment" xml:base="res00171"/><resource bb:file="res00172.dat"
+   bb:title="Course Assessment" identifier="res00172" type="course/x-bb-courseassessment" xml:base="res00172"/><resource
+   bb:file="res00173.dat" bb:title="Unit Evaluation" identifier="res00173" type="resource/x-bb-link"
+   xml:base="res00173"/><resource bb:file="res00174.dat" bb:title="" identifier="res00174" type="resource/x-bb-link"
+   xml:base="res00174"/><resource bb:file="res00175.dat" bb:title="" identifier="res00175" type="resource/x-bb-link"
+   xml:base="res00175"/><resource bb:file="res00176.dat" bb:title="" identifier="res00176" type="resource/x-bb-link"
+   xml:base="res00176"/><resource bb:file="res00177.dat" bb:title="" identifier="res00177" type="resource/x-bb-link"
+   xml:base="res00177"/><resource bb:file="res00178.dat" bb:title="" identifier="res00178" type="resource/x-bb-link"
+   xml:base="res00178"/><resource bb:file="res00179.dat" bb:title="" identifier="res00179" type="resource/x-bb-link"
+   xml:base="res00179"/><resource bb:file="res00180.dat" bb:title="" identifier="res00180" type="resource/x-bb-link"
+   xml:base="res00180"/><resource bb:file="res00181.dat" bb:title="Assessment 2" identifier="res00181"
+   type="resource/x-bb-link" xml:base="res00181"/><resource bb:file="res00182.dat" bb:title="" identifier="res00182"
+   type="resource/x-bb-link" xml:base="res00182"/><resource bb:file="res00183.dat" bb:title="" identifier="res00183"
+   type="resource/x-bb-link" xml:base="res00183"/><resource bb:file="res00184.dat" bb:title="" identifier="res00184"
+   type="resource/x-bb-link" xml:base="res00184"/><resource bb:file="res00185.dat" bb:title="" identifier="res00185"
+   type="resource/x-bb-link" xml:base="res00185"/><resource bb:file="res00186.dat" bb:title="" identifier="res00186"
+   type="resource/x-bb-link" xml:base="res00186"/><resource bb:file="res00187.dat"
+   bb:title="/Assessment/AT1 Portfolio of Observed Activities/PART-TWO Essentials" identifier="res00187"
+   type="resource/x-bb-link" xml:base="res00187"/><resource bb:file="res00188.dat"
+   bb:title="/Assessment/AT1 Portfolio of Observed Activities/PART-THREE Essentials" identifier="res00188"
+   type="resource/x-bb-link" xml:base="res00188"/><resource bb:file="res00189.dat"
+   bb:title="/Assessment/AT1 Portfolio of Observed Activities/PART-ONE" identifier="res00189" type="resource/x-bb-link"
+   xml:base="res00189"/><resource bb:file="res00190.dat" bb:title="" identifier="res00190" type="resource/x-bb-link"
+   xml:base="res00190"/><resource bb:file="res00191.dat"
+   bb:title="/Assessment/AT1 Portfolio of Observed Activities/PART-FOUR Essentials" identifier="res00191"
+   type="resource/x-bb-link" xml:base="res00191"/><resource bb:file="res00192.dat" bb:title="Course Statistics"
+   identifier="res00192" type="course/x-bb-trackingevent" xml:base="res00192"/><resource bb:file="res00193.dat"
+   bb:title="Course Message Folders" identifier="res00193" type="course/x-bb-coursemessagefolder"
+   xml:base="res00193"/><resource bb:file="res00194.dat" bb:title="Course Messages" identifier="res00194"
+   type="course/x-bb-coursemessage" xml:base="res00194"><file
+   href="messages/_587155_1/VU23217 AT2 - Practical and Short Answers-NMTAFE.docx"/></resource><resource
+   bb:file="res00195.dat" bb:title="CSResourceLinks" identifier="res00195" type="course/x-bb-csresourcelinks"
+   xml:base="res00195"/><resource bb:file="res00196.dat" bb:title="Standard Alignments" identifier="res00196"
+   type="course/x-bb-stdsalignments" xml:base="res00196"/><resource bb:file="res00197.dat"
+   bb:title="CourseRubricAssociation" identifier="res00197" type="course/x-bb-crsrubricassocation"
+   xml:base="res00197"/><resource bb:file="res00198.dat" bb:title="CourseRubricEvaluation" identifier="res00198"
+   type="course/x-bb-crsrubriceval" xml:base="res00198"/><resource bb:file="res00199.dat" bb:title="BB_EWS_RULE_"
+   identifier="res00199" type="resource/x-bb-retention" xml:base="res00199"/><resource bb:file="res00200.dat"
+   bb:title="2026-S1-Brett-Wed-8:30" identifier="res00200" type="resource/x-bb-wiki" xml:base="res00200"/><resource
+   bb:file="res00201.dat" bb:title="Joon CIV Cyber Combo Stg2 – GrpA" identifier="res00201" type="resource/x-bb-wiki"
+   xml:base="res00201"/><resource bb:file="res00202.dat" bb:title="Joon CIV Cyber Stg2 – GrpB" identifier="res00202"
+   type="resource/x-bb-wiki" xml:base="res00202"/><resource bb:file="res00203.dat" bb:title="Joon CIV Cyber Stg2 – GrpC"
+   identifier="res00203" type="resource/x-bb-wiki" xml:base="res00203"/></resources></manifest>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONTENT id="_3793159_1"><TITLE value="Presentation"/><TITLECOLOR value="#000000"/><DESCRIPTION
+   value=""/><BODY><TEXT>&lt;p&gt;This is the presentation for Session 8&lt;/p&gt;&#xd;
+&lt;p&gt;&lt;img src="@X@EmbeddedFile.requestUrlStub@X@bbcswebdav/xid-43740565_1" alt="" width="125" height="101" style="border: 0px solid #000000;"&gt;&lt;/p&gt;&#xd;
+&lt;p&gt;After you finish the presentations please explore the Mitre ATT&amp;amp;CK starting with the tour&lt;br&gt;&lt;span style="font-size: 12pt;"&gt;&lt;strong&gt;&lt;a href="https://attack.mitre.org/matrices/enterprise/?tour=true" target="_blank" rel="noopener"&gt;Matrix - Enterprise | MITRE ATT&amp;amp;CK®&lt;/a&gt;&lt;/strong&gt;&lt;/span&gt; &amp;nbsp;&lt;br&gt;&lt;br&gt;Don't just click &lt;strong&gt;&lt;em&gt;next &lt;/em&gt;&lt;/strong&gt;then &lt;strong&gt;&lt;em&gt;next &lt;/em&gt;&lt;/strong&gt;without spending a minute or so looking around each page to see what information it presents and its layout.&lt;br&gt;The tour ends at the versions page, but on that page there are plenty more links to explore.&lt;/p&gt;&#xd;
+&lt;p&gt;Lastly, Known attackers have been organized into groups including their history of attacks and the techniques they use. &lt;span style="font-size: 12pt;"&gt;&lt;strong&gt;&lt;a href="https://attack.mitre.org/groups/" target="_blank" rel="noopener"&gt;Groups | MITRE ATT&amp;amp;CK®&lt;/a&gt;&lt;/strong&gt;&lt;/span&gt;&amp;nbsp;&lt;/p&gt;</TEXT><TYPE
+   value="H"/></BODY><DATES><CREATED value="2023-07-24 13:40:45 AWST"/><UPDATED value="2024-08-30 15:54:17 AWST"/><START
+   value=""/><END value=""/></DATES><FLAGS><ISAVAILABLE value="true"/><ISFROMCARTRIDGE value="false"/><ISFOLDER
+   value="false"/><ISDESCRIBED value="false"/><ISTRACKED value="true"/><ISLESSON value="false"/><ISSEQUENTIAL
+   value="false"/><ALLOWGUESTS value="true"/><ALLOWOBSERVERS value="true"/><LAUNCHINNEWWINDOW
+   value="false"/><ISREVIEWABLE value="false"/><ISGROUPCONTENT value="false"/><ISSAMPLECONTENT
+   value="false"/><PARTIALLYVISIBLE value="false"/><HASTHUMBNAIL value="false"/></FLAGS><CONTENTHANDLER
+  value="resource/x-bb-document"/><RENDERTYPE value="REGULAR"/><FOLDERTYPE value=""/><URL value=""/><VIEWMODE
+  value="TEXT_ICON_ONLY"/><OFFLINENAME value=""/><OFFLINEPATH value=""/><LINKREF value=""/><PARENTID
+  value="_3793130_1"/><REVIEWABLEREASON value="NONE"/><VERSION value="3"/><THUMBNAILALT value=""/><AISTATE
+  value="No"/><AIACCEPTINGUSER value=""/><EXTENDEDDATA/><FILES><FILE id="_9383084_1"><NAME>/xid-53629438_1</NAME><SIZE
+    value="2409722"/><FILEACTION value="LINK"/><LINKNAME value="Security Essentials 8.pdf"/><STORAGETYPE
+     value="CS"/><DATES><CREATED value=""/><UPDATED value="2024-03-19 08:18:34 AWST"/></DATES><REGISTRY/></FILE><FILE
+    id="_8277002_1"><NAME>/xid-46885334_1</NAME><SIZE value="306409"/><FILEACTION value="LINK"/><LINKNAME
+    value="Security Essentials 8 Gaining_the_Advantage_Cyber_Kill_Chain.pdf"/><STORAGETYPE value="CS"/><DATES><CREATED
+     value=""/><UPDATED value="2023-07-24 13:40:51 AWST"/></DATES><REGISTRY/></FILE></FILES></CONTENT>

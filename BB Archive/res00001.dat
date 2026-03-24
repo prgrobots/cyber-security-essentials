@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<COURSE id="_35811_1"><COURSEID value="15_C_JTE_SECURITYE_1"/><BATCHUID value="15_C_JTE_SECURITYE_1"/><TITLE
+  value="Cluster - Security Essentials - 22603VIC"/><DESCRIPTION> </DESCRIPTION><ROW_STATUS value="0"/><DATES><CREATED
+   value="2023-01-31 09:17:05 AWST"/><UPDATED value="2025-08-22 14:02:11 AWST"/><COURSESTART value=""/><COURSEEND
+   value=""/><ENROLLSTART value=""/><ENROLLEND value=""/></DATES><FLAGS><ISAVAILABLE
+   value="true"/><HONORTERMAVAILABILITY value="false"/><INCATALOG value="true"/><ISDESCRIBED value="false"/><EMAILENROLL
+   value="false"/><ISLOCKEDOUT value="false"/><ALLOWGUESTS value="false"/><ALLOWOBSERVERS value="true"/><ENFORCE_LOCALE
+  value="false"/></FLAGS><ALLOWENROLL value="I"/><DURATION value="C"/><PACING value="I"/><SERVICELEVEL
+  value="F"/><DAYSOFUSE value="0"/><FEE value="0.0"/><ENROLLACCESSCODE value=""/><INSTITUTIONNAME
+   value=""/><STORAGELIMITS><HARD value="0"/><SOFT value="0"/><UPLOAD value="0"/></STORAGELIMITS><BANNER
+  value="/xid-42130631_1"/><BANNERALT value=""/><SHOWBANNERIND value="true"/><NAVIGATION><STYLE value="TEXT"/><COLORFG
+   value=""/><COLORBG value=""/><ISCOLLAPSIBLE value="true"/></NAVIGATION><BUTTON><SHAPE value="sq"/><STYLE
+  value="c02"/></BUTTON><DEFAULTCONTENTVIEW value="X"/><CLASSIFICATION value="Education"><CLASSIFICATION
+   value="HigherEducation"/></CLASSIFICATION><REGISTRY><REGISTRYENTRY key="banner_thumbnail_url"
+   value="/xid-57374833_1"/><REGISTRYENTRY key="x-bbgs.partner-cloud.providers.updated"
+   value="20260201T133939.342+0800"/><REGISTRYENTRY key="last access" value="2026-01-30 22:32:28.348"/><REGISTRYENTRY
+   key="blackboard.apps.cx.autoarchiver.lastSyncTime" value="2026-01-31T14:45:59.579+08:00"/><REGISTRYENTRY
+   key="student_course_messaging_availability_mode" value="msg_to_anyone"/><REGISTRYENTRY key="parent.contextId"
+   value="15_C_JTE_CYBSECINP_2_O"/><REGISTRYENTRY key="x-bbgs.partner-cloud.providers.list.updated"
+   value="20260131T035918.716+0800"/><REGISTRYENTRY key="blackboard.apps.cx.autoarchiver.lastSyncStatus"
+   value="RUNNING"/><REGISTRYENTRY key="last_archived_activity_accumulator_pk1" value="2350255081"/><REGISTRYENTRY
+   key="x-bbgs.partner-cloud.providers.list.available" value="ALLY1"/><REGISTRYENTRY
+   key="blackboard.apps.cx.autoarchiver.lastArchiveRunReason" value="Last access time criteria met"/><REGISTRYENTRY
+   key="courseMessages.persistenceType" value="relational"/><REGISTRYENTRY key="last access by un-enrolled admin"
+   value="2026-01-31 07:03:37.000"/><REGISTRYENTRY key="x-bbgs.partner-cloud.providers.available"
+  value="true"/></REGISTRY><UUID value="90c213f495ae4eaebfb0834930915013"/><COURSEVIEWOPTION value="C"/><ULTRASTATUS
+  value="C"/><ISCLOSED value="false"/><COPYFROMUUIDS value="1d94501e5b0b47cd951d40b89c9dab5f"/><PROGRESSTRACKINGENABLED value="DISABLED_NEEDS_MIGRATION"/></COURSE>

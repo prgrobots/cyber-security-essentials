@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LEARNRUBRICS><Rubric id="_53148_1"><Title value="Sample Rubric"/><Description
+   value=" A &quot;Tick&quot; will be shown in the rubric indicating that the evidence of knowledge of a skill a student has provided is &quot;Satisfactory&quot; or &quot;Not Yet Satisfactory&quot;. The percentages or points in the rubric do not reflect any grading system.&#xd;&#xa;&#xd;&#xa;*** NOTE***  Please delete this note and only the lecturer's information following this note, in the copied rubric, once you have read and understood it. &#xd;&#xa;&#xd;&#xa;For competency based assessment, we use a rubric where each criteria can have a possible score of &quot;1&quot; or &quot;0&quot; according to whether or not that criterion has been demonstrated. We then use a Grading Schema (in the Grade Centre) to convert the 1 or 0 to a tick or cross for the criteria. You can copy this simple two-column rubric for use in your own assessments and edit it."/><ContactName
+   value=""/><Version value="2"/><CreatorId value="_520_1"/><Type value="NUMERIC"/><Status value="ACTIVE"/><Public
+   value="false"/><DeletedIndicator value="false"/><MaxValue value="3.00000"/><Keywords value=""/><DATES><CREATED
+    value="2016-05-26 14:28:05 AWST"/><UPDATED value="2023-07-24 13:40:45 AWST"/></DATES><AiState
+    value="No"/><RubricRows><Row id="_292191_1"><Header value="Criteria 1"/><Position value="0"/><Percentage
+       value="33.333332061767600"/><RubricColumns><Column><Header value="Satisfactory"/><Position value="0"/><Cell
+        id="_598306_1"><CellDescription
+        value="If the student has demonstrated criteria 1, they receive a score of 1.  This will be converted to a tick in My Grades, in keeping with competency based assessment rules."/><NumericPoints
+        value="1.000000000000000"/><NumericStartPointRange value="0.000000000000000"/><NumericEndPointRange
+        value="0.000000000000000"/><Percentage value="100.000000000000000"/><PercentageMax
+        value="0.000000000000000"/><Percentagemin value="0.000000000000000"/></Cell></Column><Column><Header
+       value="Not Yet Satisfactory"/><Position value="1"/><Cell id="_598303_1"><CellDescription
+        value="If the student has not demonstrated criteria 1, they receive a score of 0.  This will be converted to a cross in My Grades, in keeping with competency based assessment rules."/><NumericPoints
+        value="0.000000000000000"/><NumericStartPointRange value="0.000000000000000"/><NumericEndPointRange
+        value="0.000000000000000"/><Percentage value="0.000000000000000"/><PercentageMax
+        value="0.000000000000000"/><Percentagemin value="0.000000000000000"/></Cell></Column></RubricColumns></Row><Row
+     id="_292190_1"><Header value="Criteria 2"/><Position value="1"/><Percentage
+       value="33.333332061767600"/><RubricColumns><Column><Header value="Satisfactory"/><Position value="0"/><Cell
+        id="_598305_1"><CellDescription value=""/><NumericPoints value="1.000000000000000"/><NumericStartPointRange
+        value="0.000000000000000"/><NumericEndPointRange value="0.000000000000000"/><Percentage
+        value="100.000000000000000"/><PercentageMax value="0.000000000000000"/><Percentagemin
+       value="0.000000000000000"/></Cell></Column><Column><Header value="Not Yet Satisfactory"/><Position
+       value="1"/><Cell id="_598302_1"><CellDescription value=""/><NumericPoints
+        value="0.000000000000000"/><NumericStartPointRange value="0.000000000000000"/><NumericEndPointRange
+        value="0.000000000000000"/><Percentage value="0.000000000000000"/><PercentageMax
+        value="0.000000000000000"/><Percentagemin value="0.000000000000000"/></Cell></Column></RubricColumns></Row><Row
+     id="_292189_1"><Header value="Criteria 3"/><Position value="2"/><Percentage
+       value="33.333332061767600"/><RubricColumns><Column><Header value="Satisfactory"/><Position value="0"/><Cell
+        id="_598304_1"><CellDescription value=""/><NumericPoints value="1.000000000000000"/><NumericStartPointRange
+        value="0.000000000000000"/><NumericEndPointRange value="0.000000000000000"/><Percentage
+        value="100.000000000000000"/><PercentageMax value="0.000000000000000"/><Percentagemin
+       value="0.000000000000000"/></Cell></Column><Column><Header value="Not Yet Satisfactory"/><Position
+       value="1"/><Cell id="_598301_1"><CellDescription value=""/><NumericPoints
+        value="0.000000000000000"/><NumericStartPointRange value="0.000000000000000"/><NumericEndPointRange
+        value="0.000000000000000"/><Percentage value="0.000000000000000"/><PercentageMax
+        value="0.000000000000000"/><Percentagemin
+  value="0.000000000000000"/></Cell></Column></RubricColumns></Row></RubricRows></Rubric><Rubric id="_50212_1"><Title
+   value="Sample Rubric"/><Description
+   value=" A &quot;Tick&quot; will be shown in the rubric indicating that the evidence of knowledge of a skill a student has provided is &quot;Satisfactory&quot; or &quot;Not Yet Satisfactory&quot;. The percentages or points in the rubric do not reflect any grading system.&#xd;&#xa;&#xd;&#xa;*** NOTE***  Please delete this note and only the lecturer's information following this note, in the copied rubric, once you have read and understood it. &#xd;&#xa;&#xd;&#xa;For competency based assessment, we use a rubric where each criteria can have a possible score of &quot;1&quot; or &quot;0&quot; according to whether or not that criterion has been demonstrated. We then use a Grading Schema (in the Grade Centre) to convert the 1 or 0 to a tick or cross for the criteria. You can copy this simple two-column rubric for use in your own assessments and edit it."/><ContactName
+   value=""/><Version value="2"/><CreatorId value="_520_1"/><Type value="NUMERIC"/><Status value="ACTIVE"/><Public
+   value="false"/><DeletedIndicator value="false"/><MaxValue value="3.00000"/><Keywords value=""/><DATES><CREATED
+    value="2016-05-26 14:28:05 AWST"/><UPDATED value="2023-01-31 09:17:05 AWST"/></DATES><AiState
+    value="No"/><RubricRows><Row id="_273607_1"><Header value="Criteria 1"/><Position value="0"/><Percentage
+       value="33.333332061767600"/><RubricColumns><Column><Header value="Satisfactory"/><Position value="0"/><Cell
+        id="_561685_1"><CellDescription
+        value="If the student has demonstrated criteria 1, they receive a score of 1.  This will be converted to a tick in My Grades, in keeping with competency based assessment rules."/><NumericPoints
+        value="1.000000000000000"/><NumericStartPointRange value="0.000000000000000"/><NumericEndPointRange
+        value="0.000000000000000"/><Percentage value="100.000000000000000"/><PercentageMax
+        value="0.000000000000000"/><Percentagemin value="0.000000000000000"/></Cell></Column><Column><Header
+       value="Not Yet Satisfactory"/><Position value="1"/><Cell id="_561688_1"><CellDescription
+        value="If the student has not demonstrated criteria 1, they receive a score of 0.  This will be converted to a cross in My Grades, in keeping with competency based assessment rules."/><NumericPoints
+        value="0.000000000000000"/><NumericStartPointRange value="0.000000000000000"/><NumericEndPointRange
+        value="0.000000000000000"/><Percentage value="0.000000000000000"/><PercentageMax
+        value="0.000000000000000"/><Percentagemin value="0.000000000000000"/></Cell></Column></RubricColumns></Row><Row
+     id="_273608_1"><Header value="Criteria 2"/><Position value="1"/><Percentage
+       value="33.333332061767600"/><RubricColumns><Column><Header value="Satisfactory"/><Position value="0"/><Cell
+        id="_561686_1"><CellDescription value=""/><NumericPoints value="1.000000000000000"/><NumericStartPointRange
+        value="0.000000000000000"/><NumericEndPointRange value="0.000000000000000"/><Percentage
+        value="100.000000000000000"/><PercentageMax value="0.000000000000000"/><Percentagemin
+       value="0.000000000000000"/></Cell></Column><Column><Header value="Not Yet Satisfactory"/><Position
+       value="1"/><Cell id="_561689_1"><CellDescription value=""/><NumericPoints
+        value="0.000000000000000"/><NumericStartPointRange value="0.000000000000000"/><NumericEndPointRange
+        value="0.000000000000000"/><Percentage value="0.000000000000000"/><PercentageMax
+        value="0.000000000000000"/><Percentagemin value="0.000000000000000"/></Cell></Column></RubricColumns></Row><Row
+     id="_273609_1"><Header value="Criteria 3"/><Position value="2"/><Percentage
+       value="33.333332061767600"/><RubricColumns><Column><Header value="Satisfactory"/><Position value="0"/><Cell
+        id="_561687_1"><CellDescription value=""/><NumericPoints value="1.000000000000000"/><NumericStartPointRange
+        value="0.000000000000000"/><NumericEndPointRange value="0.000000000000000"/><Percentage
+        value="100.000000000000000"/><PercentageMax value="0.000000000000000"/><Percentagemin
+       value="0.000000000000000"/></Cell></Column><Column><Header value="Not Yet Satisfactory"/><Position
+       value="1"/><Cell id="_561690_1"><CellDescription value=""/><NumericPoints
+        value="0.000000000000000"/><NumericStartPointRange value="0.000000000000000"/><NumericEndPointRange
+        value="0.000000000000000"/><Percentage value="0.000000000000000"/><PercentageMax
+        value="0.000000000000000"/><Percentagemin value="0.000000000000000"/></Cell></Column></RubricColumns></Row></RubricRows></Rubric></LEARNRUBRICS>
