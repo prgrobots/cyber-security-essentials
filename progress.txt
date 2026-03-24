@@ -1,0 +1,16 @@
+[2026-03-23T14:17:57.566961] START: Parse UoC PDFs
+[2026-03-23T14:17:57.731448] ✓ DONE: Parse UoC PDFs
+[2026-03-23T14:17:57.731507] START: Extract Blackboard content
+[2026-03-23T14:18:38.506475] ✓ DONE: Extract Blackboard content
+[2026-03-23T14:18:38.506537] START: Analyze coverage
+[2026-03-23T14:18:38.570531] ✓ DONE: Analyze coverage
+[2026-03-23T14:18:38.570591] START: Generate course outline
+[2026-03-23T14:18:38.734724] ✗ FAILED: Generate course outline (exit code 1)
+[2026-03-23T14:18:38.734783] START: Build MkDocs structure
+[2026-03-23T14:18:38.899057] ✗ FAILED: Build MkDocs structure (exit code 1)
+[2026-03-23T14:18:38.903875] GENERATE phase started
+[2026-03-23T14:18:38.903979] START: Generate session content with ollama
+[2026-03-23T14:18:39.018773] ✓ DONE: Generate session content with ollama
+[2026-03-23T14:18:39.019388] BUILD phase started
+[2026-03-23T14:18:39.019426] START: Build MkDocs site
+[2026-03-23T14:18:39.083470] ✗ FAILED: Build MkDocs site (exit code 1)

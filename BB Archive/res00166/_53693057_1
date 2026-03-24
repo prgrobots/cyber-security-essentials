@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<qti_result_report><result><assessment_result
+    asi_title="Unit Evaluation"><result_metadata><bbmd_asi_object_id>res00032</bbmd_asi_object_id><bbmd_result_object_id>_53693057_1</bbmd_result_object_id><bbmd_resulttype>Assessment</bbmd_resulttype><bbmd_fullcredit_ind>false</bbmd_fullcredit_ind></result_metadata><section_result
+     presented="No"><result_metadata><bbmd_asi_object_id>_2198489_1</bbmd_asi_object_id><bbmd_result_object_id>_53693058_1</bbmd_result_object_id><bbmd_resulttype>Section</bbmd_resulttype><bbmd_fullcredit_ind>false</bbmd_fullcredit_ind></result_metadata><item_result
+     asi_title=" "
+      presented="No"><result_metadata><bbmd_asi_object_id>_2198490_1</bbmd_asi_object_id><bbmd_result_object_id>_53693059_1</bbmd_result_object_id><bbmd_resulttype>Item</bbmd_resulttype><bbmd_fullcredit_ind>false</bbmd_fullcredit_ind><bbmd_canvas_element_id>_2198490_1</bbmd_canvas_element_id></result_metadata><date><type_label>Item Creation Time.</type_label><datetime>2025:03:13T08:34:54</datetime></date><response
+       ident_ref="response"><response_form cardinality="Single" render_type="choice" response_type="lid"
+      timing="No"/></response><outcomes status="Not Attempted"><score status="Valid" varname="MANUALGRADE"
+       vartype="Decimal"><score_value/></score><score status="Valid" varname="AUTOGRADE"
+     vartype="Decimal"><score_value/><score_maximum/></score></outcomes><saveTimes/></item_result><item_result
+     asi_title=" "
+      presented="No"><result_metadata><bbmd_asi_object_id>_2198491_1</bbmd_asi_object_id><bbmd_result_object_id>_53693060_1</bbmd_result_object_id><bbmd_resulttype>Item</bbmd_resulttype><bbmd_fullcredit_ind>false</bbmd_fullcredit_ind><bbmd_canvas_element_id>_2198491_1</bbmd_canvas_element_id></result_metadata><date><type_label>Item Creation Time.</type_label><datetime>2025:03:13T08:34:54</datetime></date><response
+       ident_ref="response"><response_form cardinality="Single" render_type="choice" response_type="lid"
+      timing="No"/></response><outcomes status="Not Attempted"><score status="Valid" varname="MANUALGRADE"
+       vartype="Decimal"><score_value/></score><score status="Valid" varname="AUTOGRADE"
+     vartype="Decimal"><score_value/><score_maximum>0.00000</score_maximum></score></outcomes><saveTimes/></item_result><item_result
+     asi_title=" "
+      presented="No"><result_metadata><bbmd_asi_object_id>_2198492_1</bbmd_asi_object_id><bbmd_result_object_id>_53693061_1</bbmd_result_object_id><bbmd_resulttype>Item</bbmd_resulttype><bbmd_fullcredit_ind>false</bbmd_fullcredit_ind><bbmd_canvas_element_id>_2198492_1</bbmd_canvas_element_id></result_metadata><date><type_label>Item Creation Time.</type_label><datetime>2025:03:13T08:34:54</datetime></date><response
+       ident_ref="response"><response_form cardinality="Single" render_type="choice" response_type="lid"
+      timing="No"/></response><outcomes status="Not Attempted"><score status="Valid" varname="MANUALGRADE"
+       vartype="Decimal"><score_value/></score><score status="Valid" varname="AUTOGRADE"
+     vartype="Decimal"><score_value/><score_maximum>0.00000</score_maximum></score></outcomes><saveTimes/></item_result><item_result
+     asi_title=" "
+      presented="No"><result_metadata><bbmd_asi_object_id>_2198493_1</bbmd_asi_object_id><bbmd_result_object_id>_53693062_1</bbmd_result_object_id><bbmd_resulttype>Item</bbmd_resulttype><bbmd_fullcredit_ind>false</bbmd_fullcredit_ind><bbmd_canvas_element_id>_2198493_1</bbmd_canvas_element_id></result_metadata><date><type_label>Item Creation Time.</type_label><datetime>2025:03:13T08:34:54</datetime></date><response
+       ident_ref="response"><response_form cardinality="Single" render_type="choice" response_type="lid"
+      timing="No"/></response><outcomes status="Not Attempted"><score status="Valid" varname="MANUALGRADE"
+       vartype="Decimal"><score_value/></score><score status="Valid" varname="AUTOGRADE"
+     vartype="Decimal"><score_value/><score_maximum>0.00000</score_maximum></score></outcomes><saveTimes/></item_result><item_result
+     asi_title=" "
+      presented="No"><result_metadata><bbmd_asi_object_id>_2198494_1</bbmd_asi_object_id><bbmd_result_object_id>_53693063_1</bbmd_result_object_id><bbmd_resulttype>Item</bbmd_resulttype><bbmd_fullcredit_ind>false</bbmd_fullcredit_ind><bbmd_canvas_element_id>_2198494_1</bbmd_canvas_element_id></result_metadata><date><type_label>Item Creation Time.</type_label><datetime>2025:03:13T08:34:54</datetime></date><response
+       ident_ref="response"><response_form cardinality="Single" render_type="choice" response_type="lid"
+      timing="No"/></response><outcomes status="Not Attempted"><score status="Valid" varname="MANUALGRADE"
+       vartype="Decimal"><score_value/></score><score status="Valid" varname="AUTOGRADE"
+     vartype="Decimal"><score_value/><score_maximum>0.00000</score_maximum></score></outcomes><saveTimes/></item_result><item_result
+     asi_title=" "
+      presented="No"><result_metadata><bbmd_asi_object_id>_2198495_1</bbmd_asi_object_id><bbmd_result_object_id>_53693064_1</bbmd_result_object_id><bbmd_resulttype>Item</bbmd_resulttype><bbmd_fullcredit_ind>false</bbmd_fullcredit_ind><bbmd_canvas_element_id>_2198495_1</bbmd_canvas_element_id></result_metadata><date><type_label>Item Creation Time.</type_label><datetime>2025:03:13T08:34:54</datetime></date><response
+       ident_ref="response"><response_form cardinality="Single" render_type="choice" response_type="lid"
+      timing="No"/></response><outcomes status="Not Attempted"><score status="Valid" varname="MANUALGRADE"
+       vartype="Decimal"><score_value/></score><score status="Valid" varname="AUTOGRADE"
+     vartype="Decimal"><score_value/><score_maximum>0.00000</score_maximum></score></outcomes><saveTimes/></item_result><item_result
+     asi_title=" "
+      presented="No"><result_metadata><bbmd_asi_object_id>_2198496_1</bbmd_asi_object_id><bbmd_result_object_id>_53693065_1</bbmd_result_object_id><bbmd_resulttype>Item</bbmd_resulttype><bbmd_fullcredit_ind>false</bbmd_fullcredit_ind><bbmd_canvas_element_id>_2198496_1</bbmd_canvas_element_id></result_metadata><date><type_label>Item Creation Time.</type_label><datetime>2025:03:13T08:34:54</datetime></date><response
+       ident_ref="response"><response_form cardinality="Single" render_type="choice" response_type="lid"
+      timing="No"/></response><outcomes status="Not Attempted"><score status="Valid" varname="MANUALGRADE"
+       vartype="Decimal"><score_value/></score><score status="Valid" varname="AUTOGRADE"
+     vartype="Decimal"><score_value/><score_maximum>0.00000</score_maximum></score></outcomes><saveTimes/></item_result><item_result
+     asi_title=" "
+      presented="No"><result_metadata><bbmd_asi_object_id>_2198497_1</bbmd_asi_object_id><bbmd_result_object_id>_53693066_1</bbmd_result_object_id><bbmd_resulttype>Item</bbmd_resulttype><bbmd_fullcredit_ind>false</bbmd_fullcredit_ind><bbmd_canvas_element_id>_2198497_1</bbmd_canvas_element_id></result_metadata><date><type_label>Item Creation Time.</type_label><datetime>2025:03:13T08:34:54</datetime></date><response
+       ident_ref="response"><response_form cardinality="Single" render_type="choice" response_type="lid"
+      timing="No"/></response><outcomes status="Not Attempted"><score status="Valid" varname="MANUALGRADE"
+       vartype="Decimal"><score_value/></score><score status="Valid" varname="AUTOGRADE"
+     vartype="Decimal"><score_value/><score_maximum>0.00000</score_maximum></score></outcomes><saveTimes/></item_result><item_result
+     asi_title=" "
+      presented="No"><result_metadata><bbmd_asi_object_id>_2198498_1</bbmd_asi_object_id><bbmd_result_object_id>_53693067_1</bbmd_result_object_id><bbmd_resulttype>Item</bbmd_resulttype><bbmd_fullcredit_ind>false</bbmd_fullcredit_ind><bbmd_canvas_element_id>_2198498_1</bbmd_canvas_element_id></result_metadata><date><type_label>Item Creation Time.</type_label><datetime>2025:03:13T08:34:54</datetime></date><response
+       ident_ref="response"><response_form cardinality="Single" render_type="choice" response_type="lid"
+      timing="No"/></response><outcomes status="Not Attempted"><score status="Valid" varname="MANUALGRADE"
+       vartype="Decimal"><score_value/></score><score status="Valid" varname="AUTOGRADE"
+     vartype="Decimal"><score_value/><score_maximum>0.00000</score_maximum></score></outcomes><saveTimes/></item_result><item_result
+     asi_title=" "
+      presented="No"><result_metadata><bbmd_asi_object_id>_2198499_1</bbmd_asi_object_id><bbmd_result_object_id>_53693068_1</bbmd_result_object_id><bbmd_resulttype>Item</bbmd_resulttype><bbmd_fullcredit_ind>false</bbmd_fullcredit_ind><bbmd_canvas_element_id>_2198499_1</bbmd_canvas_element_id></result_metadata><date><type_label>Item Creation Time.</type_label><datetime>2025:03:13T08:34:54</datetime></date><response
+       ident_ref="response"><response_form cardinality="Single" render_type="choice" response_type="lid"
+      timing="No"/></response><outcomes status="Not Attempted"><score status="Valid" varname="MANUALGRADE"
+       vartype="Decimal"><score_value/></score><score status="Valid" varname="AUTOGRADE"
+     vartype="Decimal"><score_value/><score_maximum>0.00000</score_maximum></score></outcomes><saveTimes/></item_result><item_result
+     asi_title=" "
+      presented="No"><result_metadata><bbmd_asi_object_id>_2198500_1</bbmd_asi_object_id><bbmd_result_object_id>_53693069_1</bbmd_result_object_id><bbmd_resulttype>Item</bbmd_resulttype><bbmd_fullcredit_ind>false</bbmd_fullcredit_ind><bbmd_canvas_element_id>_2198500_1</bbmd_canvas_element_id></result_metadata><date><type_label>Item Creation Time.</type_label><datetime>2025:03:13T08:34:54</datetime></date><response
+       ident_ref="response"><response_form cardinality="Single" render_type="choice" response_type="lid"
+      timing="No"/></response><outcomes status="Not Attempted"><score status="Valid" varname="MANUALGRADE"
+       vartype="Decimal"><score_value/></score><score status="Valid" varname="AUTOGRADE"
+     vartype="Decimal"><score_value/><score_maximum>0.00000</score_maximum></score></outcomes><saveTimes/></item_result><item_result
+     asi_title=" "
+      presented="No"><result_metadata><bbmd_asi_object_id>_2198501_1</bbmd_asi_object_id><bbmd_result_object_id>_53693070_1</bbmd_result_object_id><bbmd_resulttype>Item</bbmd_resulttype><bbmd_fullcredit_ind>false</bbmd_fullcredit_ind><bbmd_canvas_element_id>_2198501_1</bbmd_canvas_element_id></result_metadata><date><type_label>Item Creation Time.</type_label><datetime>2025:03:13T08:34:54</datetime></date><response
+       ident_ref="response"><response_form cardinality="Single" render_type="fib" response_type="str"
+       timing="No"/><response_value response_status="Valid" response_time="-1"><formatted_text
+      type="HTML"/></response_value></response><outcomes status="Saved"><score status="Valid" varname="MANUALGRADE"
+       vartype="Decimal"><score_value/></score><score status="Valid" varname="AUTOGRADE"
+     vartype="Decimal"><score_value/><score_maximum>0.00000</score_maximum></score></outcomes><saveTimes>1741826486322B</saveTimes></item_result><item_result
+     asi_title=" "
+      presented="No"><result_metadata><bbmd_asi_object_id>_2198502_1</bbmd_asi_object_id><bbmd_result_object_id>_53693071_1</bbmd_result_object_id><bbmd_resulttype>Item</bbmd_resulttype><bbmd_fullcredit_ind>false</bbmd_fullcredit_ind><bbmd_canvas_element_id>_2198502_1</bbmd_canvas_element_id></result_metadata><date><type_label>Item Creation Time.</type_label><datetime>2025:03:13T08:34:54</datetime></date><response
+       ident_ref="response"><response_form cardinality="Single" render_type="fib" response_type="str"
+      timing="No"/></response><outcomes status="Not Attempted"><score status="Valid" varname="MANUALGRADE"
+       vartype="Decimal"><score_value/></score><score status="Valid" varname="AUTOGRADE"
+     vartype="Decimal"><score_value/><score_maximum>0.00000</score_maximum></score></outcomes><saveTimes/></item_result><item_result
+     asi_title=" "
+      presented="No"><result_metadata><bbmd_asi_object_id>_2198503_1</bbmd_asi_object_id><bbmd_result_object_id>_53693072_1</bbmd_result_object_id><bbmd_resulttype>Item</bbmd_resulttype><bbmd_fullcredit_ind>false</bbmd_fullcredit_ind><bbmd_canvas_element_id>_2198503_1</bbmd_canvas_element_id></result_metadata><date><type_label>Item Creation Time.</type_label><datetime>2025:03:13T08:34:54</datetime></date><response
+       ident_ref="response"><response_form cardinality="Single" render_type="fib" response_type="str"
+      timing="No"/></response><outcomes status="Not Attempted"><score status="Valid" varname="MANUALGRADE"
+       vartype="Decimal"><score_value/></score><score status="Valid" varname="AUTOGRADE"
+     vartype="Decimal"><score_value/><score_maximum/></score></outcomes><saveTimes/></item_result><item_result
+     asi_title=" "
+      presented="No"><result_metadata><bbmd_asi_object_id>_2198504_1</bbmd_asi_object_id><bbmd_result_object_id>_53693073_1</bbmd_result_object_id><bbmd_resulttype>Item</bbmd_resulttype><bbmd_fullcredit_ind>false</bbmd_fullcredit_ind><bbmd_canvas_element_id>_2198504_1</bbmd_canvas_element_id></result_metadata><date><type_label>Item Creation Time.</type_label><datetime>2025:03:13T08:34:54</datetime></date><response
+       ident_ref="response"><response_form cardinality="Single" render_type="fib" response_type="str"
+      timing="No"/></response><outcomes status="Not Attempted"><score status="Valid" varname="MANUALGRADE"
+       vartype="Decimal"><score_value/></score><score status="Valid" varname="AUTOGRADE"
+     vartype="Decimal"><score_value/><score_maximum/></score></outcomes><saveTimes/></item_result><item_result
+     asi_title=" "
+      presented="No"><result_metadata><bbmd_asi_object_id>_2198505_1</bbmd_asi_object_id><bbmd_result_object_id>_53693074_1</bbmd_result_object_id><bbmd_resulttype>Item</bbmd_resulttype><bbmd_fullcredit_ind>false</bbmd_fullcredit_ind><bbmd_canvas_element_id>_2198505_1</bbmd_canvas_element_id></result_metadata><date><type_label>Item Creation Time.</type_label><datetime>2025:03:13T08:34:54</datetime></date><response
+       ident_ref="response"><response_form cardinality="Single" render_type="choice" response_type="lid"
+      timing="No"/></response><outcomes status="Not Attempted"><score status="Valid" varname="MANUALGRADE"
+       vartype="Decimal"><score_value/></score><score status="Valid" varname="AUTOGRADE"
+     vartype="Decimal"><score_value/><score_maximum>0.00000</score_maximum></score></outcomes><saveTimes/></item_result><item_result
+     asi_title=" "
+      presented="No"><result_metadata><bbmd_asi_object_id>_2198506_1</bbmd_asi_object_id><bbmd_result_object_id>_53693075_1</bbmd_result_object_id><bbmd_resulttype>Item</bbmd_resulttype><bbmd_fullcredit_ind>false</bbmd_fullcredit_ind><bbmd_canvas_element_id>_2198506_1</bbmd_canvas_element_id></result_metadata><date><type_label>Item Creation Time.</type_label><datetime>2025:03:13T08:34:54</datetime></date><response
+       ident_ref="response"><response_form cardinality="Single" render_type="fib" response_type="str"
+      timing="No"/></response><outcomes status="Not Attempted"><score status="Valid" varname="MANUALGRADE"
+       vartype="Decimal"><score_value/></score><score status="Valid" varname="AUTOGRADE" vartype="Decimal"><score_value/><score_maximum>0.00000</score_maximum></score></outcomes><saveTimes/></item_result></section_result></assessment_result></result></qti_result_report>

@@ -1,0 +1,25 @@
+#Bb PackageInfo Property File
+#Mon Mar 23 21:13:29 AWST 2026
+app.release.number=4000.6.0-rel.25+514b5cf
+cx.config.course.id=15_C_JTE_SECURITYE_1
+cx.config.file.references=false
+cx.config.full.value=CxConfig{operation\=ARCHIVE, courseid\=15_C_JTE_SECURITYE_1, package\=/usr/local/bbcontent/vi/BB5fcebc1997e08/internal/autoArchive/15_C_JTE_SECURITYE_1_20230131/15_C_JTE_SECURITYE_1__35811_1_Cluster - Security Essentials - 22603VIC_1769796656191.zip, logger\=CxLogger{logs\=[Log{name\=/usr/local/blackboard/apps/tomcat/temp/core/autoArchiveLog_35811_11769841959571.txt, verbosity\=debug}], logHooks\=[blackboard.apps.cx.autoarchive.AutoArchiveQueuedOperation@2486e44e]}, resource_type_inclusions\=[], area_inclusions\=[], area_exclusions\=[], object_inclusions\={}, object_exclusions\={}, features\={BypassDiskQuotaCheck\=false, CreateOrg\=false, ArchiveForUltraRestore\=false, AlternateAssessmentCsLinks\=false, RevertFromUltraRestore\=false, ImportCourseStructure\=false, Bb5LinkToBrokenImageFix\=true}, strHostName\=null, isCommandLineRequest\=false, isCourseConversion\=false, eventHandlers\=[], primaryNode\=null, nodes\=[], title\=null, packageVersion\=null, archiveCSItems\=true, archiveECSItems\=true, archiveOnlyReferencedPpg\=false, commonCartridge\=false, qti21Package\=false, createChildFolder\=false, csDir\=, excludedCsFolderIds\=null, homeDir\=, includeGradeHistoryInArchive\=true, isExportPackage\=false, logDetailRubricInfo\=false, taskId\=PkId{key\=_5882616_1, dataType\=blackboard.platform.queue.data.QueueTask, container\=blackboard.persist.DatabaseContainer@2e738b77}, useDefaultLog\=true}
+cx.config.learn.installation.id=8e33b27334aa4a66a77b3e1f68b585ce
+cx.config.learn.site.id=d605c30d-d012-4ab6-98f5-5a5a473cddac
+cx.config.logs=[Log{name\=/usr/local/blackboard/apps/tomcat/temp/core/autoArchiveLog_35811_11769841959571.txt, verbosity\=debug}]
+cx.config.operation=blackboard.apps.cx.CxConfig$Operation\:ARCHIVE
+cx.config.package.identifier=f63fd0701dbf4b8f933d0dbe96c09124
+cx.config.package.name=/usr/local/bbcontent/vi/BB5fcebc1997e08/internal/autoArchive/15_C_JTE_SECURITYE_1_20230131/15_C_JTE_SECURITYE_1__35811_1_Cluster - Security Essentials - 22603VIC_1769796656191.zip
+cx.package.info.version=6.0
+db.driver.name=PostgreSQL JDBC Driver
+db.driver.version=42.7.3
+db.product.name=PostgreSQL
+db.product.version=16.8
+java.class.path=/usr/local/blackboard/apps/service-wrapper/lib/wrapper.jar\:/usr/lib/jvm/java-21-amazon-corretto/lib/tools.jar\:/usr/local/blackboard/apps/tomcat/lib/bb-tomcat-bootstrap.jar\:/usr/local/blackboard/apps/tomcat/bin/bootstrap.jar\:/usr/local/blackboard/apps/tomcat/bin/tomcat-juli.jar
+java.default.locale=en
+java.home=/usr/lib/jvm/java-21-amazon-corretto.x86_64
+java.vendor=Amazon.com Inc.
+java.version=21.0.9
+os.arch=amd64
+os.name=Linux
+os.version=6.1.159-181.297.amzn2023.x86_64
