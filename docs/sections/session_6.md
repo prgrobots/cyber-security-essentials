@@ -1,4 +1,6 @@
 # Session 6: Cybersecurity Incident Response
+
+[:material-slides: View Slides](../../slides-src/session_6/){ .md-button }
 ==============================
 
 ## Introduction

@@ -1,5 +1,7 @@
 # Session 11: Advanced Threat Hunting and Response
 
+[:material-slides: View Slides](../../slides-src/session_11/){ .md-button }
+
 !!! note "Introduction to Threat Hunting and Response"
     **Threat Hunting and Response** is a critical process that aims to proactively identify and respond to advanced and targeted attacks within the organisational network.
 

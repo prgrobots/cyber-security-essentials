@@ -1,4 +1,6 @@
 # Session 3: Implementing Secure Authentication and Authorization
+
+[:material-slides: View Slides](../../slides-src/session_3/){ .md-button }
 ===========================================================
 
 !!! note

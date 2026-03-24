@@ -1,4 +1,6 @@
 # Session 7: Network Security Fundamentals
+
+[:material-slides: View Slides](../../slides-src/session_7/){ .md-button }
 ==============================
 
 !!! info

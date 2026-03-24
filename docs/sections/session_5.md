@@ -1,5 +1,7 @@
 # Session 5: Implementing Secure Network Protocols and Configurations
 
+[:material-slides: View Slides](../../slides-src/session_5/){ .md-button }
+
 !!! note "Introduction to Network Security"
     Network security is a critical aspect of cybersecurity. Ensuring that network protocols and configurations are secure is essential to prevent unauthorized access and protect sensitive data.
 
