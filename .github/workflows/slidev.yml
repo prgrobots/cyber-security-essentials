@@ -39,7 +39,9 @@ jobs:
         with:
           node-version: '20'
       - name: Install Slidev
-        run: npm install -g @slidev/cli
+        run: |
+          npm install -g @slidev/cli
+          npm install @slidev/theme-default
       - name: Build Slidev
         run: |
           mkdir -p dist
