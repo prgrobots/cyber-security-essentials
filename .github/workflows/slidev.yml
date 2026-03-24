@@ -13,7 +13,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build-mkdocs:
+  build:
     runs-on: ubuntu-latest
     permissions:
       contents: read
@@ -21,49 +21,38 @@ jobs:
       id-token: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - name: Install MkDocs
-        run: pip install mkdocs-material
-      - name: Build MkDocs
-        run: mkdocs build
-      - name: Upload MkDocs artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: mkdocs-site
-          path: site
 
-  build-slidev:
-    runs-on: ubuntu-latest
-    needs: build-mkdocs
-    permissions:
-      contents: read
-      pages: write
-      id-token: write
-    steps:
-      - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
+
+      - name: Install dependencies
+        run: pip install mkdocs-material
+
       - name: Install Slidev
-        run: |
-          npm install -g @slidev/cli
-          npm install @slidev/theme-default
+        run: npm install -g @slidev/cli @slidev/theme-default
+
+      - name: Build MkDocs
+        run: mkdocs build
+
       - name: Build Slidev
         run: |
-          mkdir -p dist
           for f in slides/session_*.md; do
             name=$(basename "$f" .md)
-            npx slidev build "$f" --out "dist/$name"
+            npx slidev build "$f" --out "site/$name"
           done
-      - name: Download MkDocs artifact
-        uses: actions/download-artifact@v4
-        with:
-          name: mkdocs-site
-          path: site
-      - name: Copy Slidev to site
-        run: |
-          cp -r dist/* site/ || true
+
       - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v4
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git checkout -b gh-pages
+          git add -A
+          git commit -m "deploy $(date '+%Y-%m-%d %H:%M')" || true
+          git push -f origin gh-pages
