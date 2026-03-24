@@ -64,7 +64,7 @@ jobs:
           git init
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
-          git add -A
+          git add -A -f
           git status
           git commit -m "deploy $(date '+%Y-%m-%d %H:%M')"
           git push -f https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:gh-pages
