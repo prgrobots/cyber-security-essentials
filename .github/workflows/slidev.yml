@@ -34,14 +34,22 @@ jobs:
       - name: Install Slidev
         run: npm install -g @slidev/cli @slidev/theme-default
 
-      - name: Build Slidev
+      - name: Build Slidev sessions to temp
         run: |
-          npx slidev build slides/session_5.md --out /tmp/session_5
-          ls -la /tmp/session_5
+          for i in 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18; do
+            npx slidev build slides/session_$i.md --out /tmp/session_$i || true
+          done
+
+      - name: Setup site directory
+        run: |
+          rm -rf site
+          mkdir site
+          for i in 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18; do
+            cp -r /tmp/session_$i/* site/ 2>/dev/null || true
+          done
 
       - name: Deploy to GitHub Pages
         run: |
-          cp -r /tmp/session_5 site/
           cd site
           git init
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
