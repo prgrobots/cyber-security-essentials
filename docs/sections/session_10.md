@@ -1,5 +1,7 @@
 ### Session 10: Secure Coding Practices for Developers
 
+[:material-slides: View Slides](/session_10/){ .md-button }
+
 #### Learning Objectives
 !!! info
     Upon completion of this session, you will be able to:

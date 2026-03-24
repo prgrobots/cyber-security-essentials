@@ -1,4 +1,7 @@
 ## Session 12: Advanced Security Threat Intelligence
+
+[:material-slides: View Slides](/session_12/){ .md-button }
+
 ### Introduction
 Critical security threats can have devastating effects on businesses and individuals. Advanced threat intelligence can help you stay ahead of attackers and protect your assets. In this session, you will learn how to collect, analyze, and use threat intelligence to improve your security posture.
  

@@ -1,6 +1,8 @@
 # Critical Security Configuration for Network Devices
 ==========================
 
+[:material-slides: View Slides](/session_4/){ .md-button }
+
 ### Introduction
 
 This lesson focuses on critical security configuration requirements for network devices, ensuring protection against common threats. The configuration of network devices plays a vital role in maintaining network security. As a network administrator, it is crucial to understand the importance of secure configuration practices.

@@ -1,6 +1,8 @@
 # Advanced Threat Analysis Techniques
 ======================================
 
+[:material-slides: View Slides](/session_15/){ .md-button }
+
 !!! note "Introduction to Threat Analysis"
     In this session, we will explore advanced threat analysis techniques to enhance your cybersecurity skills and stay ahead of emerging threats.
 

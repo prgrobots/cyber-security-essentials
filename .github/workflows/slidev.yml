@@ -45,7 +45,8 @@ jobs:
           rm -rf site
           mkdir site
           for i in 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18; do
-            cp -r /tmp/session_$i/* site/ 2>/dev/null || true
+            mkdir -p site/session_$i
+            cp -r /tmp/session_$i/* site/session_$i/ 2>/dev/null || true
           done
 
       - name: Deploy to GitHub Pages
