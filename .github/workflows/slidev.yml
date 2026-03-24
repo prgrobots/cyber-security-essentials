@@ -16,7 +16,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: read
+      contents: write
       pages: write
       id-token: write
     steps:
@@ -55,4 +55,4 @@ jobs:
           git checkout -b gh-pages
           git add -A
           git commit -m "deploy $(date '+%Y-%m-%d %H:%M')" || true
-          git push -f origin gh-pages
+          git push -q -f https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} gh-pages
