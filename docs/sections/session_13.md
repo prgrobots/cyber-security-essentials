@@ -1,6 +1,6 @@
 # Session 13: Secure Coding Practices
 
-[:material-slides: View Slides](../slides-src/session_13/){ .md-button }
+[:material-slides: View Slides](/session_13/){ .md-button }
 
 !!! note "Introduction to Secure Coding"
     Secure coding practices are essential for preventing common web application vulnerabilities and maintaining a secure computing environment.

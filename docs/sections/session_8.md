@@ -1,6 +1,6 @@
 # Session 8: Implementing a Cloud-Based Cybersecurity Framework
 
-[:material-slides: View Slides](../slides-src/session_8/){ .md-button }
+[:material-slides: View Slides](/session_8/){ .md-button }
 
 !!! info
     In this session, you will learn about implementing a cloud-based cybersecurity framework to protect and defend against cyber threats in the cloud.

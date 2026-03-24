@@ -1,6 +1,6 @@
 # Session 17: Implementing Secure Authentication Protocols
 
-[:material-slides: View Slides](../slides-src/session_17/){ .md-button }
+[:material-slides: View Slides](/session_17/){ .md-button }
 
 ### Secure authentication is a critical aspect of cybersecurity in today's interconnected world. In this session, we will delve into the implementation of secure authentication protocols, focusing on best practices, potential threats, and real-world applications.
 

@@ -1,6 +1,6 @@
 # Session 18: Advanced Cybersecurity Practices for Threat Detection and Response
 
-[:material-slides: View Slides](../slides-src/session_18/){ .md-button }
+[:material-slides: View Slides](/session_18/){ .md-button }
 
 !!! info
     **Session Overview:** This session delves into advanced cybersecurity practices for threat detection and response. You will learn how to utilise threat intelligence, implement incident response plans, and develop a proactive stance against emerging threats.
