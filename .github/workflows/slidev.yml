@@ -43,7 +43,9 @@ jobs:
 
       - name: Copy Slidev into site
         run: |
-          cp -r _slides/* site/ || true
+          ls -la _slides/ || echo "No _slides dir"
+          ls -la site/ || echo "No site dir"
+          cp -r _slides/. site/ 2>&1 || true
 
       - name: Deploy to GitHub Pages
         run: |
