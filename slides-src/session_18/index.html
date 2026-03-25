@@ -1,0 +1,3291 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../session_17/">
+      
+      
+        <link rel="next" href="../../slides-original/slide_51968830_1/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.6">
+    
+    
+      
+        <title>Session 18 - Cyber Security Essentials</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.484c7ddc.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#title-session-18-advanced-cybersecurity-practices-for-threat-detection-and-response" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Cyber Security Essentials" class="md-header__button md-logo" aria-label="Cyber Security Essentials" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Cyber Security Essentials
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Session 18
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Cyber Security Essentials" class="md-nav__button md-logo" aria-label="Cyber Security Essentials" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Cyber Security Essentials
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Sessions
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Sessions
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sections/session_1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Session 1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sections/session_2/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Session 2
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sections/session_3/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Session 3
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sections/session_4/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Session 4
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sections/session_5/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Session 5
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sections/session_6/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Session 6
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sections/session_7/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Session 7
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sections/session_8/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Session 8
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sections/session_9/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Session 9
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sections/session_10/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Session 10
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sections/session_11/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Session 11
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sections/session_12/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Session 12
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sections/session_13/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Session 13
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sections/session_14/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Session 14
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sections/session_15/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Session 15
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sections/session_16/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Session 16
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sections/session_17/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Session 17
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sections/session_18/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Session 18
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Slides (AI Generated)
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Slides (AI Generated)
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../session_1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Session 1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../session_2/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Session 2
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../session_3/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Session 3
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../session_4/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Session 4
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../session_5/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Session 5
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../session_6/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Session 6
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../session_7/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Session 7
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../session_8/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Session 8
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../session_9/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Session 9
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../session_10/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Session 10
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../session_11/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Session 11
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../session_12/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Session 12
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../session_13/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Session 13
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../session_14/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Session 14
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../session_15/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Session 15
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../session_16/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Session 16
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../session_17/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Session 17
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Session 18
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Session 18
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#title-session-18-advanced-cybersecurity-practices-for-threat-detection-and-response" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        title: Session 18: Advanced Cybersecurity Practices for Threat Detection and Response
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#learning-objectives" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Learning Objectives
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#understanding-threat-intelligence" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Understanding Threat Intelligence
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Understanding Threat Intelligence">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#defining-threat-intelligence" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Defining Threat Intelligence
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#define-a-sample-dataset-of-threat-intelligence" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Define a sample dataset of threat intelligence
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#create-a-tf-idf-vectorizer-to-extract-features-from-the-threat-descriptions" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Create a TF-IDF vectorizer to extract features from the threat descriptions
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#print-the-feature-matrix" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Print the feature matrix
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Print the feature matrix">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#implementing-incident-response-plans" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Implementing Incident Response Plans
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Implementing Incident Response Plans">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#steps-to-implement-incident-response-plans" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Steps to Implement Incident Response Plans
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#define-a-sample-incident-response-plan-in-yaml" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Define a sample incident response plan in YAML
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#print-the-incident-response-plan" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Print the incident response plan
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Print the incident response plan">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#developing-a-proactive-approach-to-threat-detection-and-response" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Developing a Proactive Approach to Threat Detection and Response
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Developing a Proactive Approach to Threat Detection and Response">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#steps-to-develop-a-proactive-approach" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Steps to Develop a Proactive Approach
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#define-a-sample-database-for-threat-detection" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Define a sample database for threat detection
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#create-a-table-for-threat-detection-data" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Create a table for threat detection data
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#insert-sample-data-into-the-table" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Insert sample data into the table
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#commit-the-changes-and-close-the-connection" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Commit the changes and close the connection
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Commit the changes and close the connection">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#artificial-intelligence-in-cybersecurity" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Artificial Intelligence in Cybersecurity
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Artificial Intelligence in Cybersecurity">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#role-of-artificial-intelligence-in-cybersecurity" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Role of Artificial Intelligence in Cybersecurity
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#define-a-sample-ai-model-for-threat-detection" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Define a sample AI model for threat detection
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#compile-the-model" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Compile the model
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Compile the model">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#summary" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Summary
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Slides (Original)
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Slides (Original)
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../slides-original/slide_51968830_1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    slide_51968830_1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../slides-original/slide_51970021_1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    slide_51970021_1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../slides-original/slide_51973623_1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    slide_51973623_1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../slides-original/slide_51975879_1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    slide_51975879_1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../slides-original/slide_52185493_1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    slide_52185493_1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../slides-original/slide_52751036_1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    slide_52751036_1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../slides-original/slide_53232319_1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    slide_53232319_1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../slides-original/slide_53277911_1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    slide_53277911_1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../slides-original/slide_53824515_1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    slide_53824515_1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../slides-original/slide_53978134_1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    slide_53978134_1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../slides-original/slide_54045267_1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    slide_54045267_1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../slides-original/slide_54253389_1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    slide_54253389_1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../slides-original/slide_55108722_1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    slide_55108722_1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../slides-original/slide_55371409_1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    slide_55371409_1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../slides-original/slide_55371411_1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    slide_55371411_1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../slides-original/slide_55371412_1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    slide_55371412_1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../slides-original/slide_55371415_1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    slide_55371415_1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../slides-original/slide_55371417_1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    slide_55371417_1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../slides-original/slide_55371421_1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    slide_55371421_1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../slides-original/slide_55371422_1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    slide_55371422_1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../slides-original/slide_55371423_1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    slide_55371423_1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../slides-original/slide_58478046_1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    slide_58478046_1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../slides-original/slide_59340066_1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    slide_59340066_1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../slides-original/slide_61256683_1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    slide_61256683_1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../slides-original/slide_61507221_1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    slide_61507221_1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../slides-original/slide_61980341_1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    slide_61980341_1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../slides-original/slide_61980342_1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    slide_61980342_1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../slides-original/slide_64967299_1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    slide_64967299_1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../slides-original/slide_65104952_1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    slide_65104952_1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../slides-original/slide_65716465_1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    slide_65716465_1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../slides-original/slide_65736569_1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    slide_65736569_1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../slides-original/slide_67398384_1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    slide_67398384_1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../slides-original/slide_67399034_1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    slide_67399034_1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../slides-original/slide_74678335_1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    slide_74678335_1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../slides-original/slide_74741181_1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    slide_74741181_1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../slides-original/slide_75195848_1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    slide_75195848_1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../slides-original/slide_75721674_1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    slide_75721674_1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#title-session-18-advanced-cybersecurity-practices-for-threat-detection-and-response" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        title: Session 18: Advanced Cybersecurity Practices for Threat Detection and Response
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#learning-objectives" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Learning Objectives
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#understanding-threat-intelligence" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Understanding Threat Intelligence
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Understanding Threat Intelligence">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#defining-threat-intelligence" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Defining Threat Intelligence
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#define-a-sample-dataset-of-threat-intelligence" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Define a sample dataset of threat intelligence
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#create-a-tf-idf-vectorizer-to-extract-features-from-the-threat-descriptions" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Create a TF-IDF vectorizer to extract features from the threat descriptions
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#print-the-feature-matrix" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Print the feature matrix
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Print the feature matrix">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#implementing-incident-response-plans" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Implementing Incident Response Plans
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Implementing Incident Response Plans">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#steps-to-implement-incident-response-plans" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Steps to Implement Incident Response Plans
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#define-a-sample-incident-response-plan-in-yaml" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Define a sample incident response plan in YAML
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#print-the-incident-response-plan" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Print the incident response plan
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Print the incident response plan">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#developing-a-proactive-approach-to-threat-detection-and-response" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Developing a Proactive Approach to Threat Detection and Response
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Developing a Proactive Approach to Threat Detection and Response">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#steps-to-develop-a-proactive-approach" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Steps to Develop a Proactive Approach
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#define-a-sample-database-for-threat-detection" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Define a sample database for threat detection
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#create-a-table-for-threat-detection-data" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Create a table for threat detection data
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#insert-sample-data-into-the-table" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Insert sample data into the table
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#commit-the-changes-and-close-the-connection" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Commit the changes and close the connection
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Commit the changes and close the connection">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#artificial-intelligence-in-cybersecurity" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Artificial Intelligence in Cybersecurity
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Artificial Intelligence in Cybersecurity">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#role-of-artificial-intelligence-in-cybersecurity" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Role of Artificial Intelligence in Cybersecurity
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#define-a-sample-ai-model-for-threat-detection" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Define a sample AI model for threat detection
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#compile-the-model" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Compile the model
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Compile the model">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#summary" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Summary
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<p>```markdown
+---frontmatter---</p>
+<hr />
+<h2 id="title-session-18-advanced-cybersecurity-practices-for-threat-detection-and-response">title: Session 18: Advanced Cybersecurity Practices for Threat Detection and Response<a class="headerlink" href="#title-session-18-advanced-cybersecurity-practices-for-threat-detection-and-response" title="Permanent link">&para;</a></h2>
+<hr />
+<h2 id="learning-objectives">Learning Objectives<a class="headerlink" href="#learning-objectives" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Define threat intelligence and explain its significance in cybersecurity.</li>
+<li>Demonstrate understanding of incident response plans and their implementation.</li>
+<li>Develop a proactive approach to threat detection and response.</li>
+<li>Implement advanced threat detection techniques.</li>
+<li>Explain the role of artificial intelligence in cybersecurity.</li>
+</ul>
+<p>---slide---</p>
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p><strong>Key Concept:</strong> Threat intelligence involves gathering and analysing data to identify potential threats and predict future attacks.</p>
+</div>
+<hr />
+<h2 id="understanding-threat-intelligence">Understanding Threat Intelligence<a class="headerlink" href="#understanding-threat-intelligence" title="Permanent link">&para;</a></h2>
+<h3 id="defining-threat-intelligence">Defining Threat Intelligence<a class="headerlink" href="#defining-threat-intelligence" title="Permanent link">&para;</a></h3>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Threat intelligence involves gathering data from various sources, such as network traffic, system logs, and user reports, to identify potential threats.</p>
+</div>
+<div class="admonition example">
+<p class="admonition-title">Example</p>
+<p>```python
+import pandas as pd
+from sklearn.feature_extraction.text import TfidfVectorizer</p>
+<h1 id="define-a-sample-dataset-of-threat-intelligence">Define a sample dataset of threat intelligence<a class="headerlink" href="#define-a-sample-dataset-of-threat-intelligence" title="Permanent link">&para;</a></h1>
+<p>data = {'threat': ['Ransomware', 'SQL Injection', 'Cross-Site Scripting'],
+        'description': ['Encrypts files and demands payment', 'Exploits SQL vulnerabilities', 'Injects malicious code into user input']}</p>
+<h1 id="create-a-tf-idf-vectorizer-to-extract-features-from-the-threat-descriptions">Create a TF-IDF vectorizer to extract features from the threat descriptions<a class="headerlink" href="#create-a-tf-idf-vectorizer-to-extract-features-from-the-threat-descriptions" title="Permanent link">&para;</a></h1>
+<p>vectorizer = TfidfVectorizer()
+X = vectorizer.fit_transform(data['description'])</p>
+<h1 id="print-the-feature-matrix">Print the feature matrix<a class="headerlink" href="#print-the-feature-matrix" title="Permanent link">&para;</a></h1>
+<p>print(X.toarray())
+```</p>
+</div>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>Threat intelligence data can be incorrect or incomplete, leading to misinterpretation. Ensure the sources of your threat intelligence are reliable and trustworthy.</p>
+</div>
+<hr />
+<h2 id="implementing-incident-response-plans">Implementing Incident Response Plans<a class="headerlink" href="#implementing-incident-response-plans" title="Permanent link">&para;</a></h2>
+<h3 id="steps-to-implement-incident-response-plans">Steps to Implement Incident Response Plans<a class="headerlink" href="#steps-to-implement-incident-response-plans" title="Permanent link">&para;</a></h3>
+<ol>
+<li>Define incident response roles and responsibilities.</li>
+<li>Develop incident response procedures and playbooks.</li>
+<li>Conduct regular incident response training and exercises.</li>
+<li>Establish incident response metrics and reporting.</li>
+<li>Schedule regular incident response reviews and updates.</li>
+</ol>
+<div class="admonition example">
+<p class="admonition-title">Example</p>
+<p>```bash</p>
+<h1 id="define-a-sample-incident-response-plan-in-yaml">Define a sample incident response plan in YAML<a class="headerlink" href="#define-a-sample-incident-response-plan-in-yaml" title="Permanent link">&para;</a></h1>
+<p>incident_response_plan:
+  roles_and_responsibilities:
+    - Incident Response Team Lead
+    - Cybersecurity Analyst
+    - System Administrator
+  procedures_and_playbooks:
+    - Investigation
+    - Containment
+    - Eradication
+  training_and_exercises:
+    - Annual incident response training for all personnel
+    - Quarterly incident response exercises</p>
+<h1 id="print-the-incident-response-plan">Print the incident response plan<a class="headerlink" href="#print-the-incident-response-plan" title="Permanent link">&para;</a></h1>
+<p>echo "${incident_response_plan[@]}"
+```</p>
+</div>
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p><strong>Best Practice:</strong> Conduct regular incident response training and exercises to ensure all personnel are prepared for incidents.</p>
+</div>
+<hr />
+<h2 id="developing-a-proactive-approach-to-threat-detection-and-response">Developing a Proactive Approach to Threat Detection and Response<a class="headerlink" href="#developing-a-proactive-approach-to-threat-detection-and-response" title="Permanent link">&para;</a></h2>
+<h3 id="steps-to-develop-a-proactive-approach">Steps to Develop a Proactive Approach<a class="headerlink" href="#steps-to-develop-a-proactive-approach" title="Permanent link">&para;</a></h3>
+<ol>
+<li>Monitor network traffic and system logs for suspicious activity.</li>
+<li>Conduct regular vulnerability assessments and penetration testing.</li>
+<li>Implement a continuous monitoring and incident response framework.</li>
+<li>Develop a threat hunting strategy.</li>
+<li>Establish a security information and event management (SIEM) system.</li>
+</ol>
+<div class="admonition example">
+<p class="admonition-title">Example</p>
+<p>```python
+import sqlite3</p>
+<h1 id="define-a-sample-database-for-threat-detection">Define a sample database for threat detection<a class="headerlink" href="#define-a-sample-database-for-threat-detection" title="Permanent link">&para;</a></h1>
+<p>conn = sqlite3.connect('threat_detection.db')
+c = conn.cursor()</p>
+<h1 id="create-a-table-for-threat-detection-data">Create a table for threat detection data<a class="headerlink" href="#create-a-table-for-threat-detection-data" title="Permanent link">&para;</a></h1>
+<p>c.execute('''CREATE TABLE threats
+             (id INTEGER PRIMARY KEY, threat TEXT, description TEXT)''')</p>
+<h1 id="insert-sample-data-into-the-table">Insert sample data into the table<a class="headerlink" href="#insert-sample-data-into-the-table" title="Permanent link">&para;</a></h1>
+<p>c.execute('INSERT INTO threats VALUES (1, "Ransomware", "Encrypts files and demands payment")')</p>
+<h1 id="commit-the-changes-and-close-the-connection">Commit the changes and close the connection<a class="headerlink" href="#commit-the-changes-and-close-the-connection" title="Permanent link">&para;</a></h1>
+<p>conn.commit()
+conn.close()
+```</p>
+</div>
+<p>---slide---</p>
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p><strong>Key Action:</strong> Implement a proactive approach to threat detection and response by monitoring network traffic, conducting regular vulnerability assessments, and developing a threat hunting strategy.</p>
+</div>
+<hr />
+<h2 id="artificial-intelligence-in-cybersecurity">Artificial Intelligence in Cybersecurity<a class="headerlink" href="#artificial-intelligence-in-cybersecurity" title="Permanent link">&para;</a></h2>
+<h3 id="role-of-artificial-intelligence-in-cybersecurity">Role of Artificial Intelligence in Cybersecurity<a class="headerlink" href="#role-of-artificial-intelligence-in-cybersecurity" title="Permanent link">&para;</a></h3>
+<p>Artificial intelligence (AI) plays a crucial role in cybersecurity by enabling threat detection, incident response, and proactive security measures.</p>
+<div class="admonition example">
+<p class="admonition-title">Example</p>
+<p>```python
+import tensorflow as tf
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Dense</p>
+<h1 id="define-a-sample-ai-model-for-threat-detection">Define a sample AI model for threat detection<a class="headerlink" href="#define-a-sample-ai-model-for-threat-detection" title="Permanent link">&para;</a></h1>
+<p>model = Sequential()
+model.add(Dense(64, activation='relu', input_shape=(10,)))
+model.add(Dense(32, activation='relu'))
+model.add(Dense(1, activation='sigmoid'))</p>
+<h1 id="compile-the-model">Compile the model<a class="headerlink" href="#compile-the-model" title="Permanent link">&para;</a></h1>
+<p>model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
+```</p>
+</div>
+<hr />
+<h2 id="summary">Summary<a class="headerlink" href="#summary" title="Permanent link">&para;</a></h2>
+<p>In this session, we covered advanced cybersecurity practices for threat detection and response, including threat intelligence, incident response plans, and proactive approaches.</p>
+<p>---slide---</p>
+<div class="admonition question">
+<p class="admonition-title">Question</p>
+<p><strong>Knowledge Check:</strong> What are the key components of a proactive approach to threat detection and response?</p>
+</div>
+<p>A) Monitoring network traffic and system logs
+B) Conducting regular vulnerability assessments and penetration testing
+C) Developing a threat hunting strategy
+D) All of the above</p>
+<p>&lt;!-- .note: 
+For a comprehensive summary of this session, visit our website or contact us for more information. </p>
+<p>The knowledge check question includes all of the proactive approach steps mentioned in the session. The correct answer is D) All of the above.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.instant", "search.highlight"], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+    
+  </body>
+</html>
