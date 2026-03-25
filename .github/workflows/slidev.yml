@@ -3,11 +3,6 @@ name: Build and Deploy Site
 on:
   push:
     branches: [master, main]
-    paths:
-      - 'slides/**/*.md'
-      - 'data/generated-sessions.json'
-      - 'docs/sections/**/*.md'
-      - 'mkdocs.yml'
   pull_request:
     branches: [master, main]
   workflow_dispatch:
