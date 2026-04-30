@@ -1,15 +1,63 @@
 site_name: Cyber Security Essentials
+site_description: VU23217 – Cyber Security Essentials for VET students at TAFE
+site_author: prgrobots
+repo_url: https://github.com/prgrobots/cyber-security-essentials
+repo_name: prgrobots/cyber-security-essentials
+
 theme:
   name: material
   features:
     - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.top
+    - navigation.footer
+    - search.suggest
     - search.highlight
+    - search.share
+    - content.code.copy
+    - content.code.annotate
+    - toc.follow
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      accent: cyan
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: cyan
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    logo: material/shield-lock
+    repo: fontawesome/brands/github
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/prgrobots/cyber-security-essentials
+
+extra_css:
+  - stylesheets/extra.css
 
 plugins:
   - search
+  - glightbox
 
 nav:
   - Home: index.md
+  - Learning Activity Plan: lap.md
   - Sessions:
     - Session 1: sections/session_1.md
     - Session 2: sections/session_2.md
@@ -49,43 +97,43 @@ nav:
     - Session 17: slides-src/session_17.md
     - Session 18: slides-src/session_18.md
   - Slides (Original):
-    - slide_51968830_1: slides-original/slide_51968830_1.md
-    - slide_51970021_1: slides-original/slide_51970021_1.md
-    - slide_51973623_1: slides-original/slide_51973623_1.md
-    - slide_51975879_1: slides-original/slide_51975879_1.md
-    - slide_52185493_1: slides-original/slide_52185493_1.md
-    - slide_52751036_1: slides-original/slide_52751036_1.md
-    - slide_53232319_1: slides-original/slide_53232319_1.md
-    - slide_53277911_1: slides-original/slide_53277911_1.md
-    - slide_53824515_1: slides-original/slide_53824515_1.md
-    - slide_53978134_1: slides-original/slide_53978134_1.md
-    - slide_54045267_1: slides-original/slide_54045267_1.md
-    - slide_54253389_1: slides-original/slide_54253389_1.md
-    - slide_55108722_1: slides-original/slide_55108722_1.md
-    - slide_55371409_1: slides-original/slide_55371409_1.md
-    - slide_55371411_1: slides-original/slide_55371411_1.md
-    - slide_55371412_1: slides-original/slide_55371412_1.md
-    - slide_55371415_1: slides-original/slide_55371415_1.md
-    - slide_55371417_1: slides-original/slide_55371417_1.md
-    - slide_55371421_1: slides-original/slide_55371421_1.md
-    - slide_55371422_1: slides-original/slide_55371422_1.md
-    - slide_55371423_1: slides-original/slide_55371423_1.md
-    - slide_58478046_1: slides-original/slide_58478046_1.md
-    - slide_59340066_1: slides-original/slide_59340066_1.md
-    - slide_61256683_1: slides-original/slide_61256683_1.md
-    - slide_61507221_1: slides-original/slide_61507221_1.md
-    - slide_61980341_1: slides-original/slide_61980341_1.md
-    - slide_61980342_1: slides-original/slide_61980342_1.md
-    - slide_64967299_1: slides-original/slide_64967299_1.md
-    - slide_65104952_1: slides-original/slide_65104952_1.md
-    - slide_65716465_1: slides-original/slide_65716465_1.md
-    - slide_65736569_1: slides-original/slide_65736569_1.md
-    - slide_67398384_1: slides-original/slide_67398384_1.md
-    - slide_67399034_1: slides-original/slide_67399034_1.md
-    - slide_74678335_1: slides-original/slide_74678335_1.md
-    - slide_74741181_1: slides-original/slide_74741181_1.md
-    - slide_75195848_1: slides-original/slide_75195848_1.md
-    - slide_75721674_1: slides-original/slide_75721674_1.md
+    - "Session 1 – Security Essentials": slides-original/slide_51968830_1.md
+    - "Session 1 – Security Essentials (v2)": slides-original/slide_51970021_1.md
+    - "Session 2 – Security Essentials": slides-original/slide_51973623_1.md
+    - "Session 3 – Security Essentials": slides-original/slide_51975879_1.md
+    - "Session 2 – Security Essentials (v2)": slides-original/slide_52185493_1.md
+    - "Session 6 – Access Control": slides-original/slide_52751036_1.md
+    - "Session 7 – Security Tools & Platforms": slides-original/slide_53232319_1.md
+    - "Session 7 – Security Tools (v2)": slides-original/slide_53277911_1.md
+    - "Session 9": slides-original/slide_53824515_1.md
+    - "Session 10 – CIA": slides-original/slide_53978134_1.md
+    - "Session 10 – Security Essentials": slides-original/slide_54045267_1.md
+    - "Session 11 – Data Protection": slides-original/slide_54253389_1.md
+    - "Session 12 – AI in Cybersecurity": slides-original/slide_55108722_1.md
+    - "Session 11 – Data Protection (v2)": slides-original/slide_55371409_1.md
+    - "Session 10 – CIA (v2)": slides-original/slide_55371411_1.md
+    - "Session 9 (v2)": slides-original/slide_55371412_1.md
+    - "Session 7 – Security Tools (v3)": slides-original/slide_55371415_1.md
+    - "Session 6 – Access Control (v2)": slides-original/slide_55371417_1.md
+    - "Session 3 – Security Essentials (v2)": slides-original/slide_55371421_1.md
+    - "Session 2 – Security Essentials (v3)": slides-original/slide_55371422_1.md
+    - "Session 1 – Security Essentials (v3)": slides-original/slide_55371423_1.md
+    - "Session 4": slides-original/slide_58478046_1.md
+    - "Session 7 – Security Tools (v4)": slides-original/slide_59340066_1.md
+    - "Session 13 – NIST Framework": slides-original/slide_61256683_1.md
+    - "Session 14 – CIS Controls": slides-original/slide_61507221_1.md
+    - "Session 14 – CIS Controls (v2)": slides-original/slide_61980341_1.md
+    - "Session 13 – NIST (v2)": slides-original/slide_61980342_1.md
+    - "Session 1 – Security Essentials (v4)": slides-original/slide_64967299_1.md
+    - "Session 2 – Security Essentials (v4)": slides-original/slide_65104952_1.md
+    - "Session 6 – Access Control (v3)": slides-original/slide_65716465_1.md
+    - "Session 5": slides-original/slide_65736569_1.md
+    - "Session 10 – Security Essentials": slides-original/slide_67398384_1.md
+    - "Session 10 – CIA Triad": slides-original/slide_67399034_1.md
+    - "Session 11 – Data Protection (v3)": slides-original/slide_74678335_1.md
+    - "Session 11 – Data Protection (v4)": slides-original/slide_74741181_1.md
+    - "Session 11 – Data Protection (v5)": slides-original/slide_75195848_1.md
+    - "Session 14 – CIS Controls (v3)": slides-original/slide_75721674_1.md
 
 markdown_extensions:
   - admonition
@@ -104,6 +152,9 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.tasklist:
       custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - tables
   - codehilite
   - fenced_code
