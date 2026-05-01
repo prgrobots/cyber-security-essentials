@@ -1,0 +1,161 @@
+/* ============================================================
+   Cyber Security Essentials – Custom Styles
+   ============================================================ */
+
+/* ---------- Session hero banner ---------- */
+.session-hero {
+  background: linear-gradient(135deg, var(--md-primary-fg-color) 0%, #1a237e 100%);
+  border-radius: 0.5rem;
+  color: #fff;
+  margin-bottom: 2rem;
+  padding: 2.5rem 2rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.session-hero::before {
+  content: "";
+  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='60' height='60' viewBox='0 0 60 60'%3E%3Ccircle cx='30' cy='30' r='28' fill='none' stroke='rgba(255,255,255,0.06)' stroke-width='2'/%3E%3C/svg%3E") repeat;
+  inset: 0;
+  position: absolute;
+}
+
+.session-hero h1,
+.session-hero h2 {
+  color: #fff;
+  margin: 0 0 0.5rem;
+  position: relative;
+}
+
+.session-hero p {
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 1.05rem;
+  margin: 0;
+  position: relative;
+}
+
+/* ---------- Admonitions – polished borders ---------- */
+.md-typeset .admonition,
+.md-typeset details {
+  border-radius: 0.4rem;
+  border-width: 0 0 0 4px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.md-typeset .admonition-title,
+.md-typeset summary {
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+/* tip admonition – cyan accent */
+.md-typeset .admonition.tip,
+.md-typeset details.tip {
+  border-color: #00bcd4;
+}
+
+.md-typeset .tip > .admonition-title,
+.md-typeset .tip > summary {
+  background-color: rgba(0, 188, 212, 0.12);
+}
+
+/* danger admonition */
+.md-typeset .admonition.danger,
+.md-typeset details.danger {
+  border-color: #f44336;
+}
+
+/* warning admonition */
+.md-typeset .admonition.warning,
+.md-typeset details.warning {
+  border-color: #ff9800;
+}
+
+/* success / check admonition */
+.md-typeset .admonition.success,
+.md-typeset details.success {
+  border-color: #4caf50;
+}
+
+/* ---------- Tables ---------- */
+.md-typeset table:not([class]) {
+  border-collapse: collapse;
+  border-radius: 0.4rem;
+  display: table;
+  overflow: hidden;
+  width: 100%;
+}
+
+.md-typeset table:not([class]) th {
+  background-color: var(--md-primary-fg-color);
+  color: var(--md-primary-bg-color);
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+}
+
+.md-typeset table:not([class]) tr:nth-child(even) td {
+  background-color: var(--md-code-bg-color);
+}
+
+.md-typeset table:not([class]) td,
+.md-typeset table:not([class]) th {
+  padding: 0.65rem 1rem;
+  vertical-align: middle;
+}
+
+/* ---------- Code blocks ---------- */
+.md-typeset pre > code {
+  border-radius: 0.4rem;
+  font-size: 0.88rem;
+}
+
+/* ---------- Navigation tabs ---------- */
+.md-tabs {
+  background-color: var(--md-primary-fg-color--dark);
+}
+
+/* ---------- Card grids (Material grid cards) ---------- */
+.md-typeset .grid.cards > ol > li,
+.md-typeset .grid.cards > ul > li {
+  border-radius: 0.5rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.md-typeset .grid.cards > ol > li:hover,
+.md-typeset .grid.cards > ul > li:hover {
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
+  transform: translateY(-2px);
+}
+
+/* ---------- Headings ---------- */
+.md-typeset h1 {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.md-typeset h2 {
+  border-bottom: 2px solid var(--md-primary-fg-color);
+  padding-bottom: 0.3rem;
+}
+
+/* ---------- Footer ---------- */
+.md-footer {
+  background-color: var(--md-primary-fg-color--dark);
+}
+
+/* ---------- Dark mode tweaks ---------- */
+[data-md-color-scheme="slate"] .session-hero {
+  background: linear-gradient(135deg, #4a148c 0%, #1a237e 100%);
+}
+
+[data-md-color-scheme="slate"] .md-typeset table:not([class]) th {
+  background-color: #4a148c;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .admonition,
+[data-md-color-scheme="slate"] .md-typeset details {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
