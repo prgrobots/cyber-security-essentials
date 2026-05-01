@@ -24,7 +24,7 @@ jobs:
           node-version: '20'
 
       - name: Install dependencies
-        run: pip install mkdocs-material
+        run: pip install mkdocs-material mkdocs-glightbox
 
       - name: Install Slidev
         run: npm install -g @slidev/cli @slidev/theme-default
