@@ -38,8 +38,12 @@ jobs:
             npx slidev build slides/session_$i.md --base /slides/session_$i/ --out $PWD/site/slides/session_$i || true
           done
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./site
+      - name: Deploy to docs/ in master branch
+        run: |
+          rm -rf docs
+          cp -r site docs
+          git config user.email "github-actions@github.com"
+          git config user.name "GitHub Actions"
+          git add docs/
+          git commit -m "Deploy: site build $(date -u +'%Y-%m-%d %H:%M:%S UTC')" || echo "No changes to commit"
+          git push origin master
